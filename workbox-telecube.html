@@ -1,0 +1,25 @@
+<!DOCTYPE html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
+</head>
+<body>
+<h1>仕事ボックス シビックオープンデータ - Telecube</h1>
+
+<style>
+.leaflet-popup-content {
+  width: auto !important;
+}
+csv-viewer > div {
+  width: 100vw;
+  overflow-x: scroll;
+}
+</style>
+
+<script type="module" src="https://code4fukui.github.io/csv-map/csv-map.js"></script>
+<csv-map src=workbox-telecube.csv></csv-map>
+
+<script type="module" src="https://code4sabae.github.io/js/csv-viewer.js"></script>
+<csv-viewer src=workbox-telecube.csv embedimage=false></csv-viewer>
+
+出典: <a href=https://telecube.jp/>テレキューブサービス｜いつでもどこでも、あなたの個室空間</a><br>
+App: <a href=https://github.com/code4fukui/workbox/>workbox by Code for FUKUI on GitHub オープンソース</a><br>
+
+</body></html>
