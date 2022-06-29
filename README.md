@@ -1,4 +1,4 @@
-# workbox 仕事ボックス
+# workbox 仕事ボックス オープンデータ
 
 ## アプリ
 
@@ -17,8 +17,7 @@
 - [workbox-stationwork.csv](workbox-stationwork.csv)
 - [workbox-stationwork.json](workbox-stationwork.json)
 
-
-## 更新
+## 自動更新
 
 GitHub Actions を使って、毎日22:15頃更新
 
@@ -53,3 +52,8 @@ jobs:
           git push
 EOF
 ```
+
+## TODO
+
+- 語彙設計
+- Station Work に緯度経度がほしい
