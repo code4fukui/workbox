@@ -3,7 +3,7 @@
 ## アプリ
 
 - [仕事ボックス シビックオープンデータ - TELECUBE](https://code4fukui.github.io/workbox/workbox-telecube.html)
-- [仕事ボックス シビックオープンデータ - Station Work](https://code4fukui.github.io/workbox/workbox-stationwork.html)
+- [仕事ボックス シビックオープンデータ - Station Work](https://code4fukui.github.io/workbox/workbox-stationwork.html) [3D体験](https://code4fukui.github.io/workbox/workbox-stationwork-vr.html)
 
 ## シビック オープンデータ
 
@@ -16,6 +16,7 @@
 
 - [workbox-stationwork.csv](workbox-stationwork.csv)
 - [workbox-stationwork.json](workbox-stationwork.json)
+- [workbox-stationwork.glb](workbox-stationwork.glb)
 
 ## 自動更新
 
