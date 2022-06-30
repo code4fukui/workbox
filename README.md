@@ -7,16 +7,16 @@
 
 ## シビック オープンデータ
 
-### TELECUBE
-
-- [workbox-telecube.csv](workbox-telecube.csv)
-- [workbox-telecube.json](workbox-telecube.json)
-
 ### Station Work
 
 - [workbox-stationwork.csv](workbox-stationwork.csv)
 - [workbox-stationwork.json](workbox-stationwork.json)
 - [workbox-stationwork.glb](workbox-stationwork.glb)
+
+### TELECUBE
+
+- [workbox-telecube.csv](workbox-telecube.csv)
+- [workbox-telecube.json](workbox-telecube.json)
 
 ## 自動更新
 
