@@ -6680,6 +6680,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 606,
+    "floor_name": "HAKADORU虎ノ門店",
+    "booth": false,
+    "desk": false,
+    "distance": 1797.2814437912361,
+    "partner_flg": true,
+    "partner2_flg": 1,
+    "open_time_weekday": "07:30",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": null,
+    "close_time_saturday": null,
+    "open_time_sunday": null,
+    "close_time_sunday": null,
+    "address_detail": "東京都港区 西新橋 1-6-13 柏屋ビル 1F",
+    "floor_name_kana": "ハカドルトラノモンテン",
+    "type": 3,
+    "telecube_id": 1175,
+    "type_name": "その他(WeWork等)"
+  },
+  {
     "floor_id": 423,
     "floor_name": "八戸駅新幹線改札外",
     "booth": true,
