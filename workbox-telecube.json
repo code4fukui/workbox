@@ -5082,7 +5082,7 @@
       "installationTime": "平日土日祝 8:00~21:00",
       "detailInfo": [
         {
-          "detailInfo": "1人用：2台"
+          "detailInfo": "1人用：4台"
         }
       ],
       "station": "天空橋駅",
@@ -5090,15 +5090,18 @@
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3246.210560753839!2d139.75345406148756!3d35.548501630342024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601861b952a30a87%3A0x5117968b0b05e9f6!2z44Ki44O844OG44Kj44K544OI44OT44Os44OD44K4IOe-veeUsOOCpOODjuODmeODvOOCt-ODp-ODs-OCt-ODhuOCow!5e0!3m2!1sja!2sjp!4v1593400338252!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
       "imgSlider": [
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/07/Haneda-innovation-city-1.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/07/iOS-の画像-97.jpg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/07/Haneda-innovation-city-2.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/07/iOS-の画像-96.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/07/iOS-の画像-98.jpg"
         }
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2020/06/HANEDA-INNOVATION-CITY-b1.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2020/07/0708_HANEDA-INNOVATION-CITY-1.png"
         }
       ],
       "workingDay": [
@@ -5576,7 +5579,7 @@
       "installationTime": "平日土日祝 7:00-21:00",
       "detailInfo": [
         {
-          "detailInfo": "1人用：2台"
+          "detailInfo": "1人用：3台"
         }
       ],
       "station": "東京駅・大手町・丸の内・オアゾ",
@@ -5584,21 +5587,18 @@
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d963.4787231434378!2d139.76556384569625!3d35.68332424964332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bf91f52d58d%3A0x9755b0dbebff72a4!2z44CSMTAwLTAwMDUg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy65Li444Gu5YaF77yR5LiB55uu77yW4oiS77yU!5e0!3m2!1sja!2sjp!4v1588528258837!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
       "imgSlider": [
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/05/marunouchi-oazo-b1-2.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/05/iOS-の画像-94.jpg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/05/marunouchi-oazo-b1-1.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/05/iOS-の画像-93.jpg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/05/marunouchi-oazo-b1-5.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/05/marunouchi-oazo-b1-7.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/05/iOS-の画像-92.jpg"
         }
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2020/05/map_marunouchi-oazo-b1.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2020/05/丸の内オアゾ-1.png"
         }
       ],
       "workingDay": [
