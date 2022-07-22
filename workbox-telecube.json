@@ -1,5 +1,76 @@
 [
   {
+    "id": 5253,
+    "acf": {
+      "buildingName": "京都ポルタ",
+      "furigana": "キョウトポルタ",
+      "adress": "京都府京都市下京区東塩小路町902",
+      "access": [
+        {
+          "access": "JR京都駅丸東改札口出てすぐ"
+        },
+        {
+          "access": "京都市営地下鉄烏丸線京都駅 直結"
+        },
+        {
+          "access": "近鉄京都駅 徒歩5分"
+        }
+      ],
+      "installationTime": "平日土日祝 : 7:00 - 21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用: 3台"
+        }
+      ],
+      "station": "1人用: 1台",
+      "facility": "・24時間連続稼働換気ファン<br />\r\n・エアコン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d817.2012892644766!2d135.75818502924622!3d34.98654489877258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001090bccb0eeab%3A0x300da0bd3bf5b6bc!2z44OG44Os44Kt44Ol44O844OW!5e0!3m2!1sja!2sjp!4v1658479507610!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/07/IMG_3187.jpeg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/07/IMG_3183.jpeg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/07/PortaB9.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/07/IMG_3184.jpeg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/07/IMG_3186.jpeg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/07/IMG_3185.jpeg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/07/京都ポルタmap.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "JR西日本 京都駅, 近鉄 京都駅, ポルタ, 138-01,138-02,138-03, キョウトポルタ,京都市, 下京区, 東海道新幹線,東海道本線, 近鉄京都線,",
+      "lat": "34.98648",
+      "lng": "135.7587462262635",
+      "floorMapId": "148",
+      "link": "https://telecube.jp/location/kyoto_porta/"
+    }
+  },
+  {
     "id": 5168,
     "acf": {
       "buildingName": "新国際ビル",
