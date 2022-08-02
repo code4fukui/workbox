@@ -2780,6 +2780,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 592,
+    "floor_name": "神戸駅改札外",
+    "booth": true,
+    "desk": false,
+    "distance": 432397.26933755894,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "兵庫県神戸市中央区 相生町3丁目1番1号 神戸駅",
+    "floor_name_kana": "コウベエキカイサツガイ",
+    "type": 2,
+    "telecube_id": 1147,
+    "type_name": "BOOTH"
+  },
+  {
     "floor_id": 68,
     "floor_name": "郡山駅中央口改札外",
     "booth": true,
