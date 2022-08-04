@@ -6360,6 +6360,26 @@
     "type_name": "ホテルシェアオフィス"
   },
   {
+    "floor_id": 603,
+    "floor_name": "徳山駅新幹線改札内",
+    "booth": true,
+    "desk": false,
+    "distance": 750032.3778108815,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "山口県周南市 御幸通り２丁目２８番 徳山駅",
+    "floor_name_kana": "トクヤマエキシンカンセンカイサツナイ",
+    "type": 2,
+    "telecube_id": 1171,
+    "type_name": "BOOTH"
+  },
+  {
     "floor_id": 461,
     "floor_name": "戸田駅改札外",
     "booth": true,
