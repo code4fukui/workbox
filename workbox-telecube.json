@@ -1,5 +1,62 @@
 [
   {
+    "id": 5418,
+    "acf": {
+      "buildingName": "新有楽町ビル 地下1階（WEB会議センター）",
+      "furigana": "シンユウラクチョウビル",
+      "adress": "東京都千代田区有楽町1-12-1",
+      "access": [
+        {
+          "access": "東京メトロ有楽町線有楽町駅D2出口より直結"
+        },
+        {
+          "access": " JR有楽町駅中央西口より徒歩1分"
+        },
+        {
+          "access": " 東京メトロ日比谷駅A3出口より徒歩2分"
+        }
+      ],
+      "installationTime": "平日 9:00～19:00 / 土曜 9:00～16:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：10"
+        }
+      ],
+      "station": "有楽町駅",
+      "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n・WEB会議用LED照明<br />\r\n・モニター（HDMI対応）<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d405.1323182018747!2d139.76209319999998!3d35.67556040000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bf01b242b33%3A0x58a575c8ba323f62!2z44CSMTAwLTAwMDYg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy65pyJ5qW955S677yR5LiB55uu77yR77yS4oiS77yRIOaWsOaciealveeUuuODk-ODqw!5e0!3m2!1sja!2sjp!4v1659764152889!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/08/IMG_3270.jpeg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/08/IMG_3276.jpeg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/08/IMG_3274.jpeg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/08/新有楽町ビルWEB会議センター_02.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日"
+      ],
+      "lateNightService": "",
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "新有楽町ビル,WEB会議センター, 有楽町,モニター,LED",
+      "lat": "35.67564317686962",
+      "lng": "139.76161040240584",
+      "floorMapId": "149",
+      "link": "https://telecube.jp/location/shinyurakuchobldg/"
+    }
+  },
+  {
     "id": 5312,
     "acf": {
       "buildingName": "鹿児島空港 国内線ターミナル 2F",
@@ -1334,7 +1391,7 @@
   {
     "id": 3364,
     "acf": {
-      "buildingName": "【特殊価格形態】新丸の内ビル（2人用）グループ用",
+      "buildingName": "【期間限定企画】ミロ 鉄分お助け テレキューブ",
       "adress": "東京都千代田区丸の内１－５－１新丸ビルB1",
       "access": [
         {
@@ -1365,6 +1422,12 @@
         },
         {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/09/shinmarunouchibuilding_for2_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/09/52241881709_eab4d1371f_o.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/09/52241882159_24506b2e75_o.jpg"
         }
       ],
       "imgDetail": [
@@ -1383,7 +1446,7 @@
         "夜21時まで"
       ],
       "campaign": "",
-      "keyword": "新丸の内ビルディング（2人用）グループ用,シンマルノウチビルディング（フタリヨウ）グループヨウ,121-01,新丸ビル,シンマルビル,東京駅,JR東日本,山手線,京浜東北線,中央線,東海道線,横須賀線,総武線,京葉線,東京メトロ,東京,千代田区,電源(コンセント / USB),WiFi（ブース内 or 施設内）",
+      "keyword": "新丸の内ビルディング（2人用）グループ用,シンマルノウチビルディング（フタリヨウ）グループヨウ,121-01,新丸ビル,シンマルビル,東京駅,JR東日本,山手線,京浜東北線,中央線,東海道線,横須賀線,総武線,京葉線,東京メトロ,東京,千代田区,電源(コンセント / USB),WiFi（ブース内 or 施設内）,ミロ",
       "lat": "35.6826212",
       "lng": "139.7642435",
       "floorMapId": "123",
