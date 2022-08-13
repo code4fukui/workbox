@@ -1,11 +1,11 @@
 ﻿id,buildingName,furigana,adress,access,access_2,access_3,installationTime,detailInfo,station,facility,googleMap,imgSlider,imgSlider_2,imgSlider_3,imgSlider_4,imgSlider_5,imgDetail,workingDay,workingDay_2,lateNightService,campaign,keyword,lat,lng,floorMapId,link,workingDay_3,workingDay_4,lateNightService_2,imgSlider_6,access_4,access_5,access_6,imgSlider_7,prefectures,city,area
-5418,新有楽町ビル 地下1階（WEB会議センター）,シンユウラクチョウビル,東京都千代田区有楽町1-12-1,東京メトロ有楽町線有楽町駅D2出口より直結, JR有楽町駅中央西口より徒歩1分, 東京メトロ日比谷駅A3出口より徒歩2分,平日 9:00～19:00 / 土曜 9:00～16:00,1人用：10,有楽町駅,"・24時間稼働換気ファン<br />
+5418,新有楽町ビル 地下1階（WEB会議センター）,シンユウラクチョウビル,東京都千代田区有楽町1-12-1,東京メトロ有楽町線有楽町駅D2出口より直結, JR有楽町駅中央西口より徒歩1分, 東京メトロ日比谷駅A3出口より徒歩2分,平日 9:00～21:00 / 土曜 9:00～16:00,1人用：10,有楽町駅,"・24時間稼働換気ファン<br />
 ・WiFi<br />
 ・WEB会議用LED照明<br />
 ・モニター（HDMI対応）<br />
 ・スマホスタンド<br />
 <br />
-※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。","<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d405.1323182018747!2d139.76209319999998!3d35.67556040000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bf01b242b33%3A0x58a575c8ba323f62!2z44CSMTAwLTAwMDYg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy65pyJ5qW955S677yR5LiB55uu77yR77yS4oiS77yRIOaWsOaciealveeUuuODk-ODqw!5e0!3m2!1sja!2sjp!4v1659764152889!5m2!1sja!2sjp"" width=""600"" height=""450"" style=""border:0;"" allowfullscreen="""" loading=""lazy"" referrerpolicy=""no-referrer-when-downgrade""></iframe>",https://telecube.jp/wp/wp-content/uploads/2022/08/IMG_3270.jpeg,https://telecube.jp/wp/wp-content/uploads/2022/08/IMG_3276.jpeg,https://telecube.jp/wp/wp-content/uploads/2022/08/IMG_3274.jpeg,https://telecube.jp/wp/wp-content/uploads/2022/08/image0.jpeg,https://telecube.jp/wp/wp-content/uploads/2022/08/image2.jpeg,https://telecube.jp/wp/wp-content/uploads/2022/08/新有楽町ビルWEB会議センター_02.png,平日,土曜日,,週末価格,"新有楽町ビル,WEB会議センター, 有楽町,モニター,LED",35.67564317686962,139.76161040240584,149,https://telecube.jp/location/shinyurakuchobldg/,,,,,,,,,,,
+※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。","<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d405.1323182018747!2d139.76209319999998!3d35.67556040000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bf01b242b33%3A0x58a575c8ba323f62!2z44CSMTAwLTAwMDYg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy65pyJ5qW955S677yR5LiB55uu77yR77yS4oiS77yRIOaWsOaciealveeUuuODk-ODqw!5e0!3m2!1sja!2sjp!4v1659764152889!5m2!1sja!2sjp"" width=""600"" height=""450"" style=""border:0;"" allowfullscreen="""" loading=""lazy"" referrerpolicy=""no-referrer-when-downgrade""></iframe>",https://telecube.jp/wp/wp-content/uploads/2022/08/IMG_3270.jpeg,https://telecube.jp/wp/wp-content/uploads/2022/08/IMG_3276.jpeg,https://telecube.jp/wp/wp-content/uploads/2022/08/IMG_3274.jpeg,https://telecube.jp/wp/wp-content/uploads/2022/08/image0.jpeg,https://telecube.jp/wp/wp-content/uploads/2022/08/image2.jpeg,https://telecube.jp/wp/wp-content/uploads/2022/08/新有楽町ビルWEB会議センター_02.png,平日,土曜日,夜21時まで,週末価格,"新有楽町ビル,WEB会議センター, 有楽町,モニター,LED",35.67564317686962,139.76161040240584,149,https://telecube.jp/location/shinyurakuchobldg/,,,,,,,,,,,
 5312,鹿児島空港 国内線ターミナル 2F,カゴシマクウコウ,鹿児島県霧島市溝辺町麓822,鹿児島空港 国内線ターミナル 2F,,,平日土日祝: 7:00 - 21:00,1人用: 1台,鹿児島空港,"・24時間連続稼働換気ファン<br />
 ・WiFi<br />
 ・スマホスタンド<br />
@@ -75,7 +75,7 @@ LTE回線を利用したベストエフォートでの提供となり、時間�
 <br />
 ※WiFiについて<br />
 LTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。","<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.7924296651017!2d139.34023171525817!3d35.657485380199674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60191dde7dac06bb%3A0xc9f3614e8ffa3911!2z5YWr546L5a2Q44OV44Kh44O844K544OI44K544Kv44Ko44Ki!5e0!3m2!1sja!2sjp!4v1646620549414!5m2!1sja!2sjp"" width=""600"" height=""450"" style=""border:0;"" allowfullscreen="""" loading=""lazy""></iframe>",https://telecube.jp/wp/wp-content/uploads/2022/03/hachioji_first_square.jpg,https://telecube.jp/wp/wp-content/uploads/2022/03/hachioji_first_square_3.jpg,https://telecube.jp/wp/wp-content/uploads/2022/03/hachioji_first_square_4.jpg,,,https://telecube.jp/wp/wp-content/uploads/2022/03/hachioji_first_square_floormap.png,平日,土曜日,朝7時から,週末価格,"八王子ファーストスクエア,ハチオウジファーストスクエア,63-01,京王八王子駅,京王電鉄,京王線,八王子駅,JR東日本,中央線,横浜線,相模線,川越線,八高線,東京,八王子市,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,エアコン（ブース内 or 施設内）",35.65763,139.34242,138,https://telecube.jp/location/hachioji_first_square/,日曜日,祝日,夜21時まで,,,,,,,,
-4714,西武鉄道 新所沢駅 改札内,セイブテツドウ シントコロザワエキ,埼玉県所沢市緑町1丁目21-25,西武新宿線 新所沢駅 改札内,,,平日土日祝 7:00-21:00,1人用：1台,新所沢駅,"・24時間稼働換気ファン<br />
+4714,西武鉄道 新所沢駅 改札内,セイブテツドウ シントコロザワエキ,埼玉県所沢市緑町1丁目21-25,西武新宿線 新所沢駅 改札内,改札内のため、ご利用には乗車券または入場券の購入が必要となります。,,平日土日祝 7:00-21:00,1人用：1台,新所沢駅,"・24時間稼働換気ファン<br />
 ・エアコン<br />
 ・WiFi<br />
 ・スマホスタンド<br />
@@ -223,7 +223,7 @@ LTE回線を利用したベストエフォートでの提供となり、時間�
 <br />
 ※WiFiについて<br />
 LTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。","<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3260.6048268677678!2d136.93499241524546!3d35.1914006803114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60037101554947d5%3A0x82282c950c7a7069!2z5aSn5pu95qC56aeF!5e0!3m2!1sja!2sjp!4v1625617278197!5m2!1sja!2sjp"" width=""600"" height=""450"" style=""border:0;"" allowfullscreen="""" loading=""lazy""></iframe>",https://telecube.jp/wp/wp-content/uploads/2021/07/iOS-の画像-2_.jpg,https://telecube.jp/wp/wp-content/uploads/2021/07/iOS-の画像-1_-2.jpg,https://telecube.jp/wp/wp-content/uploads/2021/07/iOS-の画像_.jpg,,,https://telecube.jp/wp/wp-content/uploads/2021/07/download-5.png,平日,土曜日,朝7時から,週末価格,"名古屋鉄道 大曽根駅,ナゴヤテツドウ オオゾネエキ,109-01,名鉄 大曽根駅,メイテツ オオゾネエキ,大曽根駅,名古屋鉄道,名鉄,瀬戸線,JR東海,中央本線,名古屋市営地下鉄,名城線,名港線,愛知県,名古屋市,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,エアコン（ブース内 or 施設内）",35.1916289,136.9368616,116,https://telecube.jp/location/meitetsu-oozone/,日曜日,祝日,夜21時まで,,,,,,,,
-3017,名古屋鉄道　金山駅,ナゴヤテツドウ カナヤマエキ,愛知県名古屋市熱田区金山町一丁目１番１８号　2F,名古屋鉄道「金山駅」改札内,※徒歩時間は施設までの時間であり、テレキューブまでの時間ではありませんのでご注意ください,,平日土日祝 7:00-21:00,１人用：１台,金山駅,"・24時間連続稼働換気ファン<br />
+3017,名古屋鉄道　金山駅,ナゴヤテツドウ カナヤマエキ,愛知県名古屋市熱田区金山町一丁目１番１８号　2F,名古屋鉄道「金山駅」改札内,改札内のため、ご利用には乗車券または入場券の購入が必要となります。,,平日土日祝 7:00-21:00,１人用：１台,金山駅,"・24時間連続稼働換気ファン<br />
 ・エアコン<br />
 ・WiFi<br />
 ・スマホスタンド<br />
@@ -280,7 +280,7 @@ LTE回線を利用したベストエフォートでの提供となり、時間�
 <br />
 ※WiFiについて<br />
 LTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。","<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.106828216202!2d135.4937619150831!3d34.702485380434034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e68d95e3a70b%3A0x1baec822e859c84a!2z5aSn6Ziq6aeF!5e0!3m2!1sja!2sjp!4v1620778751305!5m2!1sja!2sjp"" width=""600"" height=""450"" style=""border:0;"" allowfullscreen="""" loading=""lazy""></iframe>",https://telecube.jp/wp/wp-content/uploads/2021/05/jrw_oosaka_1.jpg,https://telecube.jp/wp/wp-content/uploads/2021/05/jrw_oosaka_2.jpg,https://telecube.jp/wp/wp-content/uploads/2021/05/jrw_oosaka_3.jpg,,,https://telecube.jp/wp/wp-content/uploads/2021/05/jrw_oosaka.png,平日,土曜日,朝7時から,週末価格,"JR西日本 大阪駅,ジェイアールニシニホン オオサカエキ,105-01,105-02,105-03,大阪駅,JR西日本,大阪環状線,東海道本線,福知山線,宝塚線,大阪府,大阪市,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,エアコン（ブース内 or 施設内）,ソニー生命",34.70231473,135.4956708,107,https://telecube.jp/location/jrw_oosaka/,日曜日,祝日,夜21時まで,,,,,,,,
-2698,JR西日本　新大阪駅在来線改札内,ジェイアールニシニホン シンオオサカエキ,大阪府大阪市淀川区西中島5-16-1,JR西日本　新大阪駅在来線　改札内,,,平日土日祝 7:00-21:00,1人用：2台,新大阪駅,"・24時間連続換気ファン<br />
+2698,JR西日本　新大阪駅在来線改札内,ジェイアールニシニホン シンオオサカエキ,大阪府大阪市淀川区西中島5-16-1,JR西日本　新大阪駅在来線　改札内,改札内のため、ご利用には乗車券または入場券の購入が必要となります。,,平日土日祝 7:00-21:00,1人用：2台,新大阪駅,"・24時間連続換気ファン<br />
 ・エアコン<br />
 ・WiFi<br />
 ・スマホスタンド<br />
@@ -578,14 +578,14 @@ LTE回線を利用したベストエフォートでの提供となり、時間�
 <br />
 ※WiFiについて<br />
 LTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。","<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3244.888942007795!2d139.74601001472587!3d35.581132880217716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601861bc6d4c1369%3A0xc58a8dc36e920fb0!2z44CSMTQzLTAwMDYg5p2x5Lqs6YO95aSn55Sw5Yy65bmz5ZKM5bO277yW5LiB55uu77yRIOadseS6rOa1gemAmuOCu-ODs-OCv-ODvCDjgrvjg7Pjgr_jg7zjg5Pjg6s!5e0!3m2!1sja!2sjp!4v1599169523758!5m2!1sja!2sjp"" width=""600"" height=""450"" frameborder=""0"" style=""border:0;"" allowfullscreen="""" aria-hidden=""false"" tabindex=""0""></iframe>",https://telecube.jp/wp/wp-content/uploads/2020/09/tokyo-ryuutsuu-centre-1f-3.jpg,https://telecube.jp/wp/wp-content/uploads/2020/09/tokyo-ryuutsuu-centre-1f-2.jpg,https://telecube.jp/wp/wp-content/uploads/2020/09/tokyo-ryuutsuu-centre-1f-1.jpg,,,https://telecube.jp/wp/wp-content/uploads/2020/09/tokyo-ryuutsuu-centre-1f.png,平日,土曜日,夜21時まで,週末価格,"東京流通センター センタービル,トウキョウリュウツウセンター センタービル,56-01,56-02,流通センター駅,東京モノレール,羽田空港線,東京,大田区,電源(コンセント / USB),WiFi（ブース内 or 施設内）",35.58133865,139.7480818,57,https://telecube.jp/location/tokyo-ryuutsuu-centre-1f/,日曜日,祝日,,,,,,,,,
-1408,京成電鉄　京成幕張本郷駅　改札内　,ケイセイデンテツ ケイセイマクハリホンゴウエキ,千葉県千葉市花見川区幕張本郷1-1-3,京成電鉄　京成幕張本郷駅　改札内,,,平日土日祝 8:00-21:00,1人用：2台,京成幕張本郷駅,"・24時間稼働換気ファン<br />
+1408,京成電鉄　京成幕張本郷駅　改札内　,ケイセイデンテツ ケイセイマクハリホンゴウエキ,千葉県千葉市花見川区幕張本郷1-1-3,京成電鉄　京成幕張本郷駅　改札内,改札内のため、ご利用には乗車券または入場券の購入が必要となります。,,平日土日祝 8:00-21:00,1人用：2台,京成幕張本郷駅,"・24時間稼働換気ファン<br />
 ・エアコン<br />
 ・WiFi<br />
 ・スマホスタンド<br />
 <br />
 ※WiFiについて<br />
 LTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。","<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.1854713999523!2d140.0401218147289!3d35.67243488019635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x602281b92efcc7b1%3A0xe9598afc29a81630!2z44CSMjYyLTAwMzMg5Y2D6JGJ55yM5Y2D6JGJ5biC6Iqx6KaL5bed5Yy65bmV5by15pys6YO377yR5LiB55uu77yR4oiS77yT!5e0!3m2!1sja!2sjp!4v1597952549584!5m2!1sja!2sjp"" width=""600"" height=""450"" frameborder=""0"" style=""border:0;"" allowfullscreen="""" aria-hidden=""false"" tabindex=""0""></iframe>",https://telecube.jp/wp/wp-content/uploads/2020/08/keisei-makuharihongo-5.jpg,https://telecube.jp/wp/wp-content/uploads/2020/08/keisei-makuharihongo-4.jpg,https://telecube.jp/wp/wp-content/uploads/2020/08/keisei-makuharihongo-1.jpg,https://telecube.jp/wp/wp-content/uploads/2020/08/keisei-makuharihongo-2.jpg,https://telecube.jp/wp/wp-content/uploads/2020/08/keisei-makuharihongo-3.jpg,https://telecube.jp/wp/wp-content/uploads/2020/08/keisei-makuharihongo.png,平日,土曜日,夜21時まで,週末価格,"京成電鉄 京成幕張本郷駅,ケイセイデンテツ ケイセイマクハリホンゴウエキ,52-01,52-02,京成幕張本郷駅,JR東日本,総武線,京成電鉄,千葉線,千葉県,千葉市,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,エアコン（ブース内 or 施設内）",35.6724349,140.0423105,56,https://telecube.jp/location/keisei-makuharihongo/,日曜日,祝日,,,,,,,,,
-1405,京成電鉄　日暮里駅　改札内,ケイセイデンテツ ニッポリエキ,東京都荒川区西日暮里2-19-1,京成電鉄　日暮里駅改札内,,,平日土日祝 8:00-21:00,1人用：2台,日暮里駅,"・24時間稼働換気ファン<br />
+1405,京成電鉄　日暮里駅　改札内,ケイセイデンテツ ニッポリエキ,東京都荒川区西日暮里2-19-1,京成電鉄　日暮里駅改札内,改札内のため、ご利用には乗車券または入場券の購入が必要となります。,,平日土日祝 8:00-21:00,1人用：2台,日暮里駅,"・24時間稼働換気ファン<br />
 ・エアコン<br />
 ・WiFi<br />
 ・スマホスタンド<br />
@@ -700,7 +700,7 @@ LTE回線を利用したベストエフォートでの提供となり、時間�
 <br />
 ※WiFiについて<br />
 LTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。","<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.3496981315793!2d139.76722501475646!3d35.66839048019721!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bde3ca64baf%3A0xcd6c2f6f3290f506!2z44CSMTA0LTAwNDUg5p2x5Lqs6YO95Lit5aSu5Yy656-J5Zyw77yR5LiB55uu77yR77yT4oiS77yR!5e0!3m2!1sja!2sjp!4v1585547464734!5m2!1sja!2sjp"" width=""600"" height=""450"" frameborder=""0"" style=""border:0;"" allowfullscreen="""" aria-hidden=""false"" tabindex=""0""></iframe>",https://telecube.jp/wp/wp-content/uploads/2020/03/ginza-shochiku-square-1f-1-L.jpg,https://telecube.jp/wp/wp-content/uploads/2020/03/ginza-shochiku-square-1f-2-L.jpg,https://telecube.jp/wp/wp-content/uploads/2020/03/ginza-shochiku-square-1f-3-L.jpg,,,https://telecube.jp/wp/wp-content/uploads/2020/03/map_銀座松竹スクエア.png,平日,土曜日,,週末価格,"銀座松竹スクエア,ギンザショウチクスクエア,31-01,築地松竹ビル,ツキジショウチクビル,東銀座駅,東京メトロ,都営地下鉄,東京,中央区,電源(コンセント / USB),WiFi（ブース内 or 施設内）",35.6683905,139.7694137,35,https://telecube.jp/location/ginza-shochiku-square-1f/,日曜日,祝日,,,,,,,,,
-849,東武鉄道北千住駅　南側地下コンコース　地下1階,トウブテツドウ キタセンジュエキ ミナミガワチカ,東京都足立区千住旭町42-1,東武鉄道北千住駅直結,,,平日土日祝 7:00-21:00,1人用：2台,北千住駅・北千住,"・24時間稼働換気ファン<br />
+849,東武鉄道北千住駅 改札内 南側地下コンコース 地下1階,トウブテツドウ キタセンジュエキ ミナミガワチカ,東京都足立区千住旭町42-1,東武鉄道北千住駅改札内、南側地下,改札内のため、ご利用には乗車券または入場券の購入が必要となります。,,平日土日祝 7:00-21:00,1人用：2台,北千住駅・北千住,"・24時間稼働換気ファン<br />
 ・エアコン<br />
 ・WiFi<br />
 ・スマホスタンド<br />
@@ -786,7 +786,7 @@ LTE回線を利用したベストエフォートでの提供となり、時間�
 <br />
 ※WiFiについて<br />
 LTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。","<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1620.9064819205248!2d139.75902860082164!3d35.65697952438345!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bc5980c2059%3A0x2cd73cbae48a58e0!2z5rGQ55WZ44OT44Or44OH44Kj44Oz44Kw!5e0!3m2!1sja!2sjp!4v1574842974524!5m2!1sja!2sjp"" width=""600"" height=""450"" frameborder=""0"" style=""border:0;"" allowfullscreen=""""></iframe>",https://telecube.jp/wp/wp-content/uploads/2020/01/shiodome-bldg-2f-1_0291.png,https://telecube.jp/wp/wp-content/uploads/2020/01/shiodome-bldg-2f-3_0290.png,,,,https://telecube.jp/wp/wp-content/uploads/2019/12/telecube_map_shiodome-buildings_1911_v2.png,平日,,夜21時まで,,"汐留ビルディング,シオドメビルディング,16-01,浜松町駅,大門駅,JR東日本,山手線,京浜東北線,東京モノレール,都営地下鉄,大江戸線,東京,港区,電源(コンセント / USB),WiFi（ブース内 or 施設内）",35.6567986,139.7595288,24,https://telecube.jp/location/shiodome-bldg-2f/,,,,,,,,,東京都,港区,東京都-都心部
-507,東武鉄道 北千住駅 改札内２階北コンコース,トウブテツドウ キタセンジュエキ キタグチ,東京都足立区千住旭町42-1,東武鉄道北千住駅 改札内,,,平日土日祝 7:00-21:00,1人用：1台,東武伊勢崎線（東武スカイツリーライン）北千住駅,"・24時間稼働換気ファン<br />
+507,東武鉄道 北千住駅 改札内２階北コンコース,トウブテツドウ キタセンジュエキ キタグチ,東京都足立区千住旭町42-1,東武鉄道北千住駅 北改札内,改札内のため、ご利用には乗車券または入場券の購入が必要となります。,,平日土日祝 7:00-21:00,1人用：1台,東武伊勢崎線（東武スカイツリーライン）北千住駅,"・24時間稼働換気ファン<br />
 ・エアコン<br />
 ・WiFi<br />
 ・スマホスタンド<br />
@@ -806,21 +806,21 @@ LTE回線を利用したベストエフォートでの提供となり、時間�
 <br />
 ※WiFiについて<br />
 LTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。","<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d103745.26256633479!2d139.5666491817277!3d35.65139953653322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018feb338675311%3A0x50d574e2e5a9a108!2z5bCP55Sw5oCl57eaIOeUuueUsOmnhQ!5e0!3m2!1sja!2sjp!4v1568356953907!5m2!1sja!2sjp"" width=""600"" height=""450"" frameborder=""0"" style=""border:0;"" allowfullscreen=""""></iframe>",https://telecube.jp/wp/wp-content/uploads/2019/09/machida_slider01.png,https://telecube.jp/wp/wp-content/uploads/2019/09/machida_slider02.png,https://telecube.jp/wp/wp-content/uploads/2019/09/machida_slider03.png,,,https://telecube.jp/wp/wp-content/uploads/2019/09/telecube_map_machida_1909.png,平日,土曜日,夜21時まで,週末価格,"小田急電鉄 町田駅,オダキュウデンテツ マチダエキ,13-01,13-02,町田駅,JR東日本,小田急電鉄,小田原線,東京,町田市,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,エアコン（ブース内 or 施設内）",35.54406309,139.4448088,17,https://telecube.jp/location/machida-2f/,日曜日,祝日,,,,,,,東京都,町田市,東京都
-415,"小田急電鉄 経堂駅　改札内 １,２番線エレベータ横",オダキュウデンテツ キョウドウエキ,東京都世田谷区経堂2-1-3,小田急電鉄 経堂駅 改札内,,,平日土日祝 8:00-21:00,1人用：2台,経堂駅,"・24時間稼働換気ファン<br />
+415,"小田急電鉄 経堂駅　改札内 １,２番線エレベータ横",オダキュウデンテツ キョウドウエキ,東京都世田谷区経堂2-1-3,小田急電鉄 経堂駅 改札内,改札内のため、ご利用には乗車券または入場券の購入が必要となります。,,平日土日祝 8:00-21:00,1人用：2台,経堂駅,"・24時間稼働換気ファン<br />
 ・エアコン<br />
 ・WiFi<br />
 ・スマホスタンド<br />
 <br />
 ※WiFiについて<br />
 LTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。","<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3242.0444699937566!2d139.63450021525796!3d35.65127598020127!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f3963e5f12c3%3A0xda01a62e6034083!2z57WM5aCC6aeF!5e0!3m2!1sja!2sjp!4v1568355588305!5m2!1sja!2sjp"" width=""600"" height=""450"" frameborder=""0"" style=""border:0;"" allowfullscreen=""""></iframe>",https://telecube.jp/wp/wp-content/uploads/2019/09/kyoudou_slider01.png,https://telecube.jp/wp/wp-content/uploads/2019/09/kyoudou_slider02.png,https://telecube.jp/wp/wp-content/uploads/2019/09/kyoudou_slider03.png,https://telecube.jp/wp/wp-content/uploads/2019/09/kyoudou_slider04.png,,https://telecube.jp/wp/wp-content/uploads/2019/09/telecube_map_kyodo_2001_ver6-1.png,平日,土曜日,夜21時まで,週末価格,"小田急電鉄 経堂駅,オダキュウデンテツ キョウドウエキ,12-01,12-02,経堂駅,小田急電鉄,小田原線,東京,世田谷区,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,エアコン（ブース内 or 施設内）",35.651342,139.6365618,16,https://telecube.jp/location/kyoudou-1f/,日曜日,祝日,,,,,,,東京都,世田谷区,東京都-23区
-401,西武鉄道 所沢駅 改札内 コンコース,セイブテツドウ トコロザワエキ,埼玉県所沢市くすのき台1丁目14−5,西武新宿線 西武池袋線 所沢駅 改札内,,,平日土日祝 7:00-21:00,1人用：2台,所沢駅,"・24時間稼働換気ファン<br />
+401,西武鉄道 所沢駅 改札内 コンコース,セイブテツドウ トコロザワエキ,埼玉県所沢市くすのき台1丁目14−5,西武新宿線 西武池袋線 所沢駅 改札内,改札内のため、ご利用には乗車券または入場券の購入が必要となります。,,平日土日祝 7:00-21:00,1人用：2台,所沢駅,"・24時間稼働換気ファン<br />
 ・エアコン<br />
 ・WiFi<br />
 ・スマホスタンド<br />
 <br />
 ※WiFiについて<br />
 LTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。","<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.542324733199!2d139.47103591526175!3d35.78661728016999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018e7623f95c7b1%3A0xbd03e3658140ea23!2z5omA5rKi6aeF!5e0!3m2!1sja!2sjp!4v1567577217464!5m2!1sja!2sjp"" width=""600"" height=""450"" frameborder=""0"" style=""border:0;"" allowfullscreen=""""></iframe>",https://telecube.jp/wp/wp-content/uploads/2019/09/tokorozwa_slider01.png,https://telecube.jp/wp/wp-content/uploads/2019/09/tokorozwa_slider02.png,https://telecube.jp/wp/wp-content/uploads/2019/09/tokorozwa_slider03.png,,,https://telecube.jp/wp/wp-content/uploads/2019/09/telecube_map_tokorozwa_1909.png,平日,土曜日,朝7時から,週末価格,"西武鉄道 所沢駅,セイブテツドウ トコロザワエキ,11-01,11-02,所沢駅,西武鉄道,埼玉県,所沢市,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,エアコン（ブース内 or 施設内）,広告掲載",35.7865698,139.4741063,15,https://telecube.jp/location/seibu_tokorozawa/,日曜日,祝日,夜21時まで,,,,,,埼玉県,所沢市,埼玉県
-397,西武鉄道 高田馬場駅 改札内 3階橋上コンコース,セイブテツドウ タカダノババエキ,東京都新宿区高田馬場1丁目35−2,西武新宿線 高田馬場駅 改札内,,,平日土日祝 7:00-21:00,1人用：1台,高田馬場駅,"・24時間稼働換気ファン<br />
+397,西武鉄道 高田馬場駅 改札内 3階橋上コンコース,セイブテツドウ タカダノババエキ,東京都新宿区高田馬場1丁目35−2,西武新宿線 高田馬場駅 改札内,改札内のため、ご利用には乗車券または入場券の購入が必要となります。,,平日土日祝 7:00-21:00,1人用：1台,高田馬場駅,"・24時間稼働換気ファン<br />
 ・エアコン<br />
 ・WiFi<br />
 ・スマホスタンド<br />
