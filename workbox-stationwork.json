@@ -6040,6 +6040,26 @@
     "type_name": "ホテルシェアオフィス"
   },
   {
+    "floor_id": 313,
+    "floor_name": "ダイワロイネットホテル福岡西中洲",
+    "booth": false,
+    "desk": false,
+    "distance": 888640.060509562,
+    "partner_flg": true,
+    "partner2_flg": 0,
+    "open_time_weekday": "08:00",
+    "close_time_weekday": "20:00",
+    "open_time_saturday": "08:00",
+    "close_time_saturday": "20:00",
+    "open_time_sunday": "08:00",
+    "close_time_sunday": "20:00",
+    "address_detail": "福岡県福岡市中央区 西中洲1-9",
+    "floor_name_kana": "ダイワロイネットホテルフクオカニシナカス",
+    "type": 3,
+    "telecube_id": 706,
+    "type_name": "ホテルシェアオフィス"
+  },
+  {
     "floor_id": 306,
     "floor_name": "ダイワロイネットホテル福山駅前",
     "booth": false,
