@@ -10820,6 +10820,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 647,
+    "floor_name": "ルミネ北千住８F",
+    "booth": true,
+    "desk": false,
+    "distance": 8413.44325467965,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "11:30",
+    "close_time_weekday": "20:00",
+    "open_time_saturday": "11:30",
+    "close_time_saturday": "20:00",
+    "open_time_sunday": "11:30",
+    "close_time_sunday": "20:00",
+    "address_detail": "東京都足立区 千住旭町42-2 ルミネ北千住",
+    "floor_name_kana": "ルミネキタセンジュ",
+    "type": 2,
+    "telecube_id": 1254,
+    "type_name": "BOOTH"
+  },
+  {
     "floor_id": 470,
     "floor_name": "LULU GRASS(軽井沢)",
     "booth": false,
