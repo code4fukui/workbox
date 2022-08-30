@@ -1,5 +1,67 @@
 [
   {
+    "id": 5475,
+    "acf": {
+      "buildingName": "【週末】愛宕東洋ビル 1F",
+      "furigana": "アタゴトウヨウビル",
+      "adress": "東京都港区愛宕1-3-2",
+      "access": [
+        {
+          "access": "東京メトロ日比谷線「虎ノ門ヒルズ駅」 徒歩3分"
+        },
+        {
+          "access": "東京メトロ都営三田線「御成門駅」 徒歩8分"
+        },
+        {
+          "access": "東京メトロ日比谷線「神谷町駅 」 徒歩8分"
+        },
+        {
+          "access": "東京メトロ銀座線「虎ノ門駅」 徒歩8分"
+        }
+      ],
+      "installationTime": "平日 7:00～20:00 / 土曜 9:00～17:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用: 2台"
+        }
+      ],
+      "station": "虎ノ門ヒルズ駅・御成門駅・神谷町駅・虎ノ門駅",
+      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.4496011867063!2d139.74724761562342!3d35.66592998019787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b9385ad9b53%3A0xf544fba07ad058e8!2z44CSMTA1LTAwMDIg5p2x5Lqs6YO95riv5Yy65oSb5a6V77yR5LiB55uu77yT4oiS77ySIOaEm-Wuleadsea0i-ODk-ODqw!5e0!3m2!1sja!2sjp!4v1661787888288!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/08/IMG_2989.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/08/IMG_2988.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/08/IMG_2987.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/08/愛宕東洋ビル.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日"
+      ],
+      "lateNightService": [
+        "朝7時から"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "虎ノ門, 御成門, 神谷町, 愛宕, 新橋, 銀座線, 日比谷線, 三田線",
+      "lat": "35.66597465190016",
+      "lng": "139.7494322749174",
+      "floorMapId": "158",
+      "link": "https://telecube.jp/location/atagotoyobldg/"
+    }
+  },
+  {
     "id": 5418,
     "acf": {
       "buildingName": "新有楽町ビル 地下1階（WEB会議センター）",
@@ -3459,20 +3521,23 @@
       "detailInfo": [
         {
           "detailInfo": "1人用：2台"
+        },
+        {
+          "detailInfo": "2人用：1台"
         }
       ],
       "station": "二子玉川駅",
-      "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド (1人用のみ)<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3243.647942546146!2d139.62604571510943!3d35.61174998021051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f43fdf955555%3A0x7d8ca1a1c8966b96!2z5LqM5a2Q546J5bed44Op44Kk44K644O744K344On44OD44OU44Oz44Kw44K744Oz44K_44O8!5e0!3m2!1sja!2sjp!4v1613605772707!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
       "imgSlider": [
         {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/02/futakotamagawa-rize-1f-1.jpg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/02/futakotamagawa-rize-1f-2.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/02/RISE1.jpg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/02/futakotamagawa-rize-1f-3.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/02/RISE2.jpg"
         },
         {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/02/futakotamagawa-rize-1f-5.jpg"
@@ -3483,7 +3548,7 @@
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/02/futakotamagawa-rize.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/02/二子玉川RIZEフロア図.jpg"
         }
       ],
       "workingDay": [
@@ -5493,7 +5558,7 @@
       ],
       "station": "武蔵境駅・イトーヨーカドー",
       "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
-      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3240.033940792156!2d139.54390706472992!3d35.70078238018977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z44Kk44OI44O844Oo44O844Kr44OJ44O85q2m6JS15aKD5bqX!5e0!3m2!1sja!2sjp!4v1591648356842!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.0251227706963!2d139.54363341525936!3d35.700999380189714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018ef98e20b0c53%3A0x8e81a7589d577ec0!2z44Kk44OI44O844Oo44O844Kr44OJ44O8IOatpuiUteWig-W6lw!5e0!3m2!1sja!2sjp!4v1661828813401!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
       "imgSlider": [
         {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/06/IY_Mukaisakaitenn.jpg"
