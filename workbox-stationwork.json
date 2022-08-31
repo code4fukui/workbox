@@ -1580,6 +1580,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 648,
+    "floor_name": "大井町駅中央改札外  階段下",
+    "booth": true,
+    "desk": false,
+    "distance": 8804.69467776955,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "東京都品川区 大井1-2-12 大井町駅",
+    "floor_name_kana": "オオイマチエキチュウオウカイサツガイ　カイダンシタ",
+    "type": 2,
+    "telecube_id": 1256,
+    "type_name": "BOOTH"
+  },
+  {
     "floor_id": 548,
     "floor_name": "大阪ノースゲートビルディング 3Fエントランス",
     "booth": true,
@@ -3997,6 +4017,26 @@
     "floor_name_kana": "シンバシエキシオドメチカカイサツガイ",
     "type": 2,
     "telecube_id": 763,
+    "type_name": "BOOTH"
+  },
+  {
+    "floor_id": 642,
+    "floor_name": "新松戸駅改札内  中2階",
+    "booth": true,
+    "desk": false,
+    "distance": 21261.416222398908,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "千葉県松戸市 幸谷571番3号 新松戸駅",
+    "floor_name_kana": "シンマツドエキカイサツナイ　ナカニカイ",
+    "type": 2,
+    "telecube_id": 1244,
     "type_name": "BOOTH"
   },
   {

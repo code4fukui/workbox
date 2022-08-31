@@ -1,5 +1,121 @@
 [
   {
+    "id": 5519,
+    "acf": {
+      "buildingName": "安城東栄町国道1号",
+      "furigana": "アンジョウトウエイチョウコクドウ１ゴウ",
+      "adress": "安城市東栄町3-816-2",
+      "access": [
+        {
+          "access": "名古屋鉄道 新安城駅北口より徒歩8分"
+        },
+        {
+          "access": "ファミリーマート安城東栄町店の隣"
+        },
+        {
+          "access": "コインランドリーkirei 併設施設"
+        }
+      ],
+      "installationTime": "平日土日祝: 7:00 〜 21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：3台"
+        }
+      ],
+      "station": "新安城駅",
+      "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド　<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d817.2091540310205!2d137.09007204829672!3d34.985756993521775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600499225ba180a9%3A0xbd1b8dd65f5e90c3!2z44OV44Kh44Of44Oq44O844Oe44O844OIIOWuieWfjuadseaghOeUuuW6lw!5e0!3m2!1sja!2sjp!4v1661934743380!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/08/Harumiko4-1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/08/Harumiko2-1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/08/Harumiko3-1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/08/Harumiko1-1.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/08/HarumikoMap.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "愛知, 安城, 新安城, 名鉄",
+      "lat": "34.98580533893269",
+      "lng": "137.090332222556",
+      "floorMapId": "157",
+      "link": "https://telecube.jp/location/anjoutouei-r1/"
+    }
+  },
+  {
+    "id": 5497,
+    "acf": {
+      "buildingName": "【特殊価格形態】二子玉川ライズ オフィス棟 １階 グループ用",
+      "furigana": "フタコタマガワライズ",
+      "adress": "東京都世田谷区玉川二丁目21-1",
+      "access": [
+        {
+          "access": "東急田園都市線「二子玉川駅」徒歩1分"
+        }
+      ],
+      "installationTime": "平日土日祝 8:00-20:00",
+      "detailInfo": [
+        {
+          "detailInfo": "2人用：1台"
+        }
+      ],
+      "station": "二子玉川駅",
+      "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。<br />\r\n<br />\r\n【特殊価格形態】<br />\r\n・予約単位：30分<br />\r\n・利用料：1,320円(税込)/30分<br />\r\n・利用定員：2名<br />\r\n",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3243.647942546146!2d139.62604571510943!3d35.61174998021051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f43fdf955555%3A0x7d8ca1a1c8966b96!2z5LqM5a2Q546J5bed44Op44Kk44K644O744K344On44OD44OU44Oz44Kw44K744Oz44K_44O8!5e0!3m2!1sja!2sjp!4v1613605772707!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/02/RISE1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/02/RISE2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/08/futakotamagawa-rize-1f-4.jpeg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/02/二子玉川RIZEフロア図.jpg"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": "",
+      "campaign": "",
+      "keyword": "二子玉川ライズ オフィス棟,フタコタマガワライズ オフィストウ,48-03,にこたまライズ,ニコタマライズ,二子玉川駅,東急電鉄,田園都市線,東京,世田谷区,電源(コンセント / USB),WiFi（ブース内 or 施設内）,グループ",
+      "lat": "35.61192036",
+      "lng": "139.627845",
+      "floorMapId": "151",
+      "link": "https://telecube.jp/location/futakotamagawa-rise-1f-group/"
+    }
+  },
+  {
     "id": 5475,
     "acf": {
       "buildingName": "【週末】愛宕東洋ビル 1F",
@@ -312,8 +428,8 @@
   {
     "id": 5063,
     "acf": {
-      "buildingName": "丸の内北口ビル 1階エントランスホール",
-      "furigana": "マルノウチキタグチビル",
+      "buildingName": "丸の内オアゾ 1階（丸の内北口ビル 1階エントランスホール）",
+      "furigana": "マルノウチアアゾ マルノウチキタグチビル",
       "adress": "東京都千代田区丸の内1-6-5",
       "access": [
         {
@@ -351,7 +467,7 @@
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/05/丸の内北口ビル-1.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/05/丸の内北口ビル・オアゾ.png"
         }
       ],
       "workingDay": [
@@ -3521,13 +3637,10 @@
       "detailInfo": [
         {
           "detailInfo": "1人用：2台"
-        },
-        {
-          "detailInfo": "2人用：1台"
         }
       ],
       "station": "二子玉川駅",
-      "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド (1人用のみ)<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3243.647942546146!2d139.62604571510943!3d35.61174998021051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f43fdf955555%3A0x7d8ca1a1c8966b96!2z5LqM5a2Q546J5bed44Op44Kk44K644O744K344On44OD44OU44Oz44Kw44K744Oz44K_44O8!5e0!3m2!1sja!2sjp!4v1613605772707!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
       "imgSlider": [
         {
@@ -5838,7 +5951,7 @@
   {
     "id": 1003,
     "acf": {
-      "buildingName": "丸の内オアゾ地下1階",
+      "buildingName": "丸の内オアゾ B1F 連絡通路",
       "adress": "東京都千代田区丸の内1-6-4",
       "access": [
         {
@@ -5876,7 +5989,7 @@
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2020/05/丸の内オアゾ-1.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/05/丸の内北口ビル・オアゾ.png"
         }
       ],
       "workingDay": [
