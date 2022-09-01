@@ -921,7 +921,7 @@
   },
   {
     "floor_id": 225,
-    "floor_name": "WeWork 麹町(旧 WeWork 東急四谷)",
+    "floor_name": "WeWork 麹町",
     "booth": false,
     "desk": false,
     "distance": 3155.562652144088,
@@ -934,7 +934,7 @@
     "open_time_sunday": null,
     "close_time_sunday": null,
     "address_detail": "東京都千代田区麹町 6-6 5F",
-    "floor_name_kana": "ウィーワークコウジマチ(キュウウィーワークトウキュウヨツヤ)",
+    "floor_name_kana": "ウィーワークコウジマチ",
     "type": 3,
     "telecube_id": 544,
     "type_name": "その他(WeWork等)"
