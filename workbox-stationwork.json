@@ -5060,6 +5060,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 641,
+    "floor_name": "高崎駅新幹線改札内",
+    "booth": true,
+    "desk": false,
+    "distance": 98399.11865207076,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "群馬県高崎市 八島町222 高崎駅",
+    "floor_name_kana": "タカサキエキシンカンセンカイサツナイ",
+    "type": 2,
+    "telecube_id": 1243,
+    "type_name": "BOOTH"
+  },
+  {
     "floor_id": 11,
     "floor_name": "高輪ゲートウェイ駅改札外 スターバックス コーヒー内",
     "booth": true,
@@ -9197,6 +9217,26 @@
     "floor_name_kana": "ホンチバエキカイサツナイ",
     "type": 2,
     "telecube_id": 908,
+    "type_name": "BOOTH"
+  },
+  {
+    "floor_id": 643,
+    "floor_name": "前橋駅改札外",
+    "booth": true,
+    "desk": false,
+    "distance": 99855.99493561442,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "群馬県前橋市 表町2-29-16 前橋駅",
+    "floor_name_kana": "マエバシエキカイサツガイ",
+    "type": 2,
+    "telecube_id": 1246,
     "type_name": "BOOTH"
   },
   {

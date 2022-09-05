@@ -16,7 +16,7 @@
           "access": "Osaka Metro 南森町駅 徒歩10分"
         }
       ],
-      "installationTime": "平日土日祝 7:00〜21:00",
+      "installationTime": "平日土日祝 8:00〜21:00",
       "detailInfo": [
         {
           "detailInfo": "1人用: 2台"
@@ -62,7 +62,7 @@
       "campaign": [
         "週末価格"
       ],
-      "keyword": "OAP, 大阪アメニティ, 桜ノ宮, 大阪天満宮, 南森町, 大阪帝国ホテル,",
+      "keyword": "大阪アメニティパーク, OAP, 大阪アメニティ, 桜ノ宮, 大阪天満宮, 南森町, 大阪帝国ホテル,",
       "lat": "34.70005456578673",
       "lng": "135.52001865525435",
       "floorMapId": "159",
@@ -240,7 +240,7 @@
       "campaign": [
         "週末価格"
       ],
-      "keyword": "虎ノ門, 御成門, 神谷町, 愛宕, 新橋, 銀座線, 日比谷線, 三田線",
+      "keyword": "虎ノ門, 御成門, 神谷町, 新橋, 銀座線, 日比谷線, 三田線, 愛宕東洋",
       "lat": "35.66597465190016",
       "lng": "139.7494322749174",
       "floorMapId": "158",
@@ -6784,7 +6784,7 @@
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2020/01/map_豊洲フォレシア_v3.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2020/01/豊洲フォレシアフロア図202209.png"
         }
       ],
       "workingDay": [
