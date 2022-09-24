@@ -1,5 +1,94 @@
 [
   {
+    "id": 5582,
+    "acf": {
+      "buildingName": "大阪梅田ツインタワーズ・サウス B1F / 11F",
+      "furigana": "オオサカウメダツインタワーズサウス",
+      "adress": "大阪府大阪市北区梅田1丁目13-1",
+      "access": [
+        {
+          "access": "11F: タリーズ前 "
+        },
+        {
+          "access": "B1F: オフィスエントランスエスカレーター脇"
+        },
+        {
+          "access": "　"
+        },
+        {
+          "access": "JR 大阪駅より徒歩3分"
+        },
+        {
+          "access": "JR 北新地駅より徒歩4分"
+        },
+        {
+          "access": "大阪メトロ御堂筋線 梅田駅より徒歩1分"
+        },
+        {
+          "access": "大阪メトロ四つ橋線 西梅田駅より徒歩3分"
+        },
+        {
+          "access": "大阪メトロ谷町線 東梅田駅より徒歩2分"
+        },
+        {
+          "access": "阪急 大阪梅田駅より徒歩7分"
+        },
+        {
+          "access": "阪神 大阪梅田駅より徒歩1分"
+        }
+      ],
+      "installationTime": "7:00 〜 21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用 : 2 (11F)"
+        },
+        {
+          "detailInfo": "1人用 : 1 (B1F)"
+        }
+      ],
+      "station": "大阪駅・梅田駅・大阪梅田駅・西梅田駅・東梅田駅・北新地駅",
+      "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n・Web会議用LED照明<br />\r\n・モニター（HDMI対応）<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.172529313242!2d135.49516721559792!3d34.70082809071826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e76ecd9df40d%3A0x6ae3d981fd2f660b!2z5aSn6Ziq5qKF55Sw44OE44Kk44Oz44K_44Ov44O844K644O744K144Km44K5!5e0!3m2!1sja!2sjp!4v1663952897757!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/09/IMG_3037.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/09/IMG_3035.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/09/IMG_3039.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/09/IMG_3040.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/09/UmedaTTSouthFoorMap_2.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "大阪駅,梅田駅,大阪梅田駅,西梅田駅,東梅田駅,北新地駅,梅田ツインタワーズ",
+      "lat": "34.701014206244615",
+      "lng": "135.4973976559736",
+      "floorMapId": "160",
+      "link": "https://telecube.jp/location/osakaumedatwintowerssouth/"
+    }
+  },
+  {
     "id": 5538,
     "acf": {
       "buildingName": "大阪アメニティパーク 2Fロビー",
