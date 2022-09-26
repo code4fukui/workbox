@@ -2040,6 +2040,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 660,
+    "floor_name": "加古川駅改札外",
+    "booth": true,
+    "desk": false,
+    "distance": 459807.83876613027,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "10:00",
+    "close_time_weekday": "11:00",
+    "open_time_saturday": null,
+    "close_time_saturday": null,
+    "open_time_sunday": null,
+    "close_time_sunday": null,
+    "address_detail": "兵庫県加古川市加古川町篠原町 30-1 加古川駅",
+    "floor_name_kana": "カコガワエキカイサツガイ",
+    "type": 2,
+    "telecube_id": 1272,
+    "type_name": "BOOTH"
+  },
+  {
     "floor_id": 450,
     "floor_name": "葛西臨海公園駅改札内",
     "booth": true,
@@ -3900,6 +3920,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 659,
+    "floor_name": "新神戸駅新幹線改札外",
+    "booth": true,
+    "desk": false,
+    "distance": 430065.307453854,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "14:00",
+    "close_time_weekday": "15:00",
+    "open_time_saturday": null,
+    "close_time_saturday": null,
+    "open_time_sunday": null,
+    "close_time_sunday": null,
+    "address_detail": "兵庫県神戸市加納町 1-3-1 新神戸駅",
+    "floor_name_kana": "シンコウベエキシンカンセンカイサツガイ",
+    "type": 2,
+    "telecube_id": 1270,
+    "type_name": "BOOTH"
+  },
+  {
     "floor_id": 273,
     "floor_name": "新白河駅改札外",
     "booth": true,
@@ -5257,6 +5297,26 @@
     "floor_name_kana": "タカナワゲートウェイエキカイサツガイ スターバックスコーヒーテンナイ",
     "type": 2,
     "telecube_id": 43,
+    "type_name": "BOOTH"
+  },
+  {
+    "floor_id": 650,
+    "floor_name": "高松駅改札外",
+    "booth": true,
+    "desk": false,
+    "distance": 542404.1603362107,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "12:00",
+    "close_time_weekday": "15:30",
+    "open_time_saturday": null,
+    "close_time_saturday": null,
+    "open_time_sunday": null,
+    "close_time_sunday": null,
+    "address_detail": "香川県高松市浜ノ町 高松駅",
+    "floor_name_kana": "タカマツエキカイサツガイ",
+    "type": 2,
+    "telecube_id": 1260,
     "type_name": "BOOTH"
   },
   {
@@ -7081,7 +7141,7 @@
   },
   {
     "floor_id": 98,
-    "floor_name": "新潟駅新幹線西口改札外",
+    "floor_name": "新潟駅西口改札外",
     "booth": true,
     "desk": false,
     "distance": 255430.22642775954,
@@ -7094,7 +7154,7 @@
     "open_time_sunday": "07:00",
     "close_time_sunday": "21:30",
     "address_detail": "新潟県新潟市 花園 １丁目 １ １",
-    "floor_name_kana": "ニイガタエキシンカンセンニシグチカイサツガイ",
+    "floor_name_kana": "ニイガタエキニシグチカイサツガイ",
     "type": 2,
     "telecube_id": 233,
     "type_name": "BOOTH"
