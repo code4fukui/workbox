@@ -1,5 +1,76 @@
 [
   {
+    "id": 5603,
+    "acf": {
+      "buildingName": "グランフロント大阪 タワーA 9F ファミマ側スカイロビー内",
+      "furigana": "グランフロントオオサカ",
+      "adress": "大阪府大阪市北区大深町4-20",
+      "access": [
+        {
+          "access": "タワーA 9F ファミマ側スカイロビー内"
+        },
+        {
+          "access": "　"
+        },
+        {
+          "access": "JR西日本 大阪駅 連絡橋口改札　徒歩2分"
+        },
+        {
+          "access": "大阪メトロ 梅田駅 北口改札　徒歩6分"
+        },
+        {
+          "access": "阪急電鉄 大阪梅田駅 2階中央改札口　徒歩5分"
+        }
+      ],
+      "installationTime": "平日土日祝 7:00〜21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用: 4"
+        }
+      ],
+      "station": "大阪駅・梅田駅・大阪梅田駅",
+      "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n・Web会議用LED照明<br />\r\n・モニター（HDMI対応）<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となります。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d205.00198394892467!2d135.49472434557802!3d34.704379292266275!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e68f07000001%3A0xa684e6b145ca9d5!2z44Kw44Op44Oz44OV44Ot44Oz44OI5aSn6Ziq!5e0!3m2!1sja!2sjp!4v1664802315800!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/GrandFrontOsaka1.jpeg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/GrandFrontOsaka2.jpeg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/GrandFrontOsaka4.jpeg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/GrandFrontOsaka3.jpeg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/10/GrandFrontOsakaフロア図.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "グランフロント大阪, 大阪駅, 梅北, 梅田, 梅田駅, 大阪梅田駅",
+      "lat": "34.70453860664313",
+      "lng": "135.49473239220526",
+      "floorMapId": "161",
+      "link": "https://telecube.jp/location/gfosaka/"
+    }
+  },
+  {
     "id": 5582,
     "acf": {
       "buildingName": "大阪梅田ツインタワーズ・サウス B1F / 11F",
@@ -37,7 +108,7 @@
           "access": "阪神 大阪梅田駅より徒歩1分"
         }
       ],
-      "installationTime": "7:00 〜 21:00",
+      "installationTime": "平日土日祝 7:00〜21:00",
       "detailInfo": [
         {
           "detailInfo": "1人用 : 2 (11F)"
