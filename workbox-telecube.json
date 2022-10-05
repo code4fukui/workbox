@@ -1,5 +1,66 @@
 [
   {
+    "id": 5626,
+    "acf": {
+      "buildingName": "イトーヨーカドー南大沢店 1F",
+      "furigana": "イトーヨーカドーミナミオオサワテン",
+      "adress": "東京都八王子市南大沢2丁目28-1",
+      "access": [
+        {
+          "access": "1F 公園側入口横スペース"
+        },
+        {
+          "access": "　"
+        },
+        {
+          "access": "京王相模原線 南大沢駅 徒歩1分"
+        }
+      ],
+      "installationTime": "平日土日祝 10:00 〜 21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用: 2"
+        }
+      ],
+      "station": "南大沢駅",
+      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d405.44804170739013!2d139.3791769129039!3d35.613318680210256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018e2ba0d5fdaf9%3A0x73aea7e51736d30c!2z44Kk44OI44O844Oo44O844Kr44OJ44O8IOWNl-Wkp-ayouW6lw!5e0!3m2!1sja!2sjp!4v1664956026734!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/IMG_3080.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/IMG_3081.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/IMG_3084.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/10/イトーヨーカドー南大沢店.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "イトーヨーカドー, IY, 南大沢, 八王子市, 京王線",
+      "lat": "35.61346982793976",
+      "lng": "139.37987099893303",
+      "floorMapId": "162",
+      "link": "https://telecube.jp/location/iyminamiosawa/"
+    }
+  },
+  {
     "id": 5603,
     "acf": {
       "buildingName": "グランフロント大阪 タワーA 9F ファミマ側スカイロビー内",
@@ -2973,21 +3034,21 @@
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3280.1025327256857!2d135.4967723650832!3d34.70259373043397!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z5qKF55Sw6Ziq5oCl44OT44Or44Kq44OV44Kj44K544K_44Ov44O8!5e0!3m2!1sja!2sjp!4v1617298899456!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
       "imgSlider": [
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/04/umeda-hankyu-bld-office-tower-15f-1.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/04/UmedaTwinNorth1.jpeg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/04/umeda-hankyu-bld-office-tower-15f-3.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/04/umeda-hankyu-bld-office-tower-15f-4.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/04/UmedaTwinNorth2.jpeg"
         },
         {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/04/umeda-hankyu-bld-office-tower-15f-5.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/04/UmedaTwinNorth3a.jpg"
         }
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/04/umeda-hankyu-bld-office-tower-15f.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/04/UmedaTwinNorthフロア図.png"
         }
       ],
       "workingDay": [
@@ -6157,7 +6218,7 @@
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2020/05/hulic-toyosu-prime-square-1f.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2020/05/ToyosuPrimeSquareフロア図.png"
         }
       ],
       "workingDay": [
