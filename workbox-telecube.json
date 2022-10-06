@@ -1,5 +1,59 @@
 [
   {
+    "id": 5636,
+    "acf": {
+      "buildingName": "パシフィックシティ高松ビル 4F",
+      "furigana": "パシフィックシティタカマツビル",
+      "adress": "香川県高松市寿町1-1-12",
+      "access": [
+        {
+          "access": "JR高松駅南口 徒歩3分"
+        },
+        {
+          "access": "　"
+        },
+        {
+          "access": "4階エレベーター降りて右へ進み、すぐの通路を右折し最初の部屋（左側）に設置しております。"
+        }
+      ],
+      "installationTime": "平日 9:00 〜 17:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用: 2台"
+        }
+      ],
+      "station": "高松駅",
+      "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3294.013100319922!2d134.04635841559383!3d34.3501446805261!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3553eb8620c38acb%3A0x81f3873aa0568d1f!2z44CSNzYwLTAwMjMg6aaZ5bed55yM6auY5p2-5biC5a-_55S677yR5LiB55uu77yR4oiS77yR77ySIOODkeOCt-ODleOCo-ODg-OCr-OCt-ODhuOCo-mrmOadvg!5e0!3m2!1sja!2sjp!4v1665058671992!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/IMG_4793.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/IMG_4794.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/IMG_4782.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/10/パシフィックシティ高松ビルフロア図.png"
+        }
+      ],
+      "workingDay": [
+        "平日"
+      ],
+      "lateNightService": "",
+      "campaign": "",
+      "keyword": "四国, 香川県, 高松市,  パシフィックシティ高松ビル",
+      "lat": "34.350151877470594",
+      "lng": "134.04853502826057",
+      "floorMapId": "147",
+      "link": "https://telecube.jp/location/pacificcitytakamatsu/"
+    }
+  },
+  {
     "id": 5626,
     "acf": {
       "buildingName": "イトーヨーカドー南大沢店 1F",
