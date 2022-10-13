@@ -6253,7 +6253,7 @@
           "access": "※徒歩時間は施設までの時間であり、テレキューブまでの時間ではありませんのでご注意ください"
         }
       ],
-      "installationTime": "土日祝 8:00-20:00",
+      "installationTime": "平日土日祝 8:00-20:00",
       "detailInfo": [
         {
           "detailInfo": "1人用：1台"
@@ -6264,10 +6264,10 @@
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d810.5046303136156!2d139.79768458734904!3d35.65191531050682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601889bca44d8267%3A0x783018db32a8a133!2z44CSMTM1LTAwNjEg5p2x5Lqs6YO95rGf5p2x5Yy66LGK5rSy77yV5LiB55uu77yW4oiS77yT77yW!5e0!3m2!1sja!2sjp!4v1588529577011!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
       "imgSlider": [
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/05/toyosu-prime-square-1f-1.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/05/ToyosuPriveSquare1.jpg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/05/toyosu-prime-square-1f-2.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/05/ToyosuPriveSquare2.jpg"
         }
       ],
       "imgDetail": [
@@ -7161,18 +7161,15 @@
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1620.0977060419232!2d139.70762205679577!3d35.696808580190776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cdef9e5d305%3A0x73c4e8de6d670270!2z5paw5a6_44Kk44O844K544OI44K144Kk44OJ44K544Kv44Ko44Ki!5e0!3m2!1sja!2sjp!4v1578370617834!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\"></iframe>",
       "imgSlider": [
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/01/shinjuku-eastside-square-1f-1_0361.png"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/02/ShinjukuEastsideSquare1.jpg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/01/shinjuku-eastside-square-1f-2_0362.png"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/01/shinjuku-eastside-square-1f-3_0366.png"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/02/ShinjukuEastsideSquare2.jpg"
         }
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2020/01/telecube_map_shinjuku-east-side-square_1F_2001-02.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2020/02/新宿イーストサイドスクエア.png"
         }
       ],
       "workingDay": [
