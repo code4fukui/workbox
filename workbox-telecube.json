@@ -7161,10 +7161,13 @@
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1620.0977060419232!2d139.70762205679577!3d35.696808580190776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cdef9e5d305%3A0x73c4e8de6d670270!2z5paw5a6_44Kk44O844K544OI44K144Kk44OJ44K544Kv44Ko44Ki!5e0!3m2!1sja!2sjp!4v1578370617834!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\"></iframe>",
       "imgSlider": [
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/02/ShinjukuEastsideSquare1.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/02/新宿ESS1.jpg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/02/ShinjukuEastsideSquare2.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/02/新宿ESS2.jpg.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/02/新宿ESS3.jpg.jpg"
         }
       ],
       "imgDetail": [

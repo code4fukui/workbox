@@ -9921,7 +9921,7 @@
   },
   {
     "floor_id": 421,
-    "floor_name": "武蔵境駅改札外",
+    "floor_name": "武蔵境駅中央改札外",
     "booth": true,
     "desk": false,
     "distance": 20261.6840660536,
@@ -9934,7 +9934,7 @@
     "open_time_sunday": "07:00",
     "close_time_sunday": "21:30",
     "address_detail": "東京都武蔵野市 境1丁目１-2 武蔵境駅",
-    "floor_name_kana": "ムサシサカイエキカイサツガイ",
+    "floor_name_kana": "ムサシサカイエキチュウオウカイサツガイ",
     "type": 2,
     "telecube_id": 872,
     "type_name": "BOOTH"
@@ -11548,7 +11548,7 @@
     "partner_flg": true,
     "partner2_flg": 1,
     "open_time_weekday": "09:00",
-    "close_time_weekday": "19:00",
+    "close_time_weekday": "22:00",
     "open_time_saturday": "09:00",
     "close_time_saturday": "19:00",
     "open_time_sunday": "09:00",
