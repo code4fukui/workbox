@@ -260,6 +260,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 667,
+    "floor_name": "AGORA Hon-atsugi",
+    "booth": false,
+    "desk": false,
+    "distance": 45293.77001987938,
+    "partner_flg": true,
+    "partner2_flg": 1,
+    "open_time_weekday": "10:00",
+    "close_time_weekday": "18:00",
+    "open_time_saturday": null,
+    "close_time_saturday": null,
+    "open_time_sunday": null,
+    "close_time_sunday": null,
+    "address_detail": "神奈川県厚木市泉町 1-1 小田急本厚木ミロード①6階",
+    "floor_name_kana": "アゴラ ホンアツギ",
+    "type": 3,
+    "telecube_id": 1279,
+    "type_name": "その他(WeWork等)"
+  },
+  {
     "floor_id": 445,
     "floor_name": "浅草橋駅改札外",
     "booth": true,
