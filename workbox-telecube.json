@@ -2641,7 +2641,7 @@
     "id": 2983,
     "acf": {
       "buildingName": "セブン‐イレブン ミューザ川崎フロアツー店",
-      "adress": "神奈川県川崎市幸区大宮町1310番地ミューザ川崎2F",
+      "adress": "神奈川県川崎市幸区大宮町1310番地 ミューザ川崎2F",
       "access": [
         {
           "access": "JR川崎駅西口から徒歩3分"
@@ -2665,9 +2665,6 @@
         },
         {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/07/iOS-の画像-5.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/07/iOS-の画像-2.jpg"
         }
       ],
       "imgDetail": [
