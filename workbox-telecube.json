@@ -1,5 +1,66 @@
 [
   {
+    "id": 5705,
+    "acf": {
+      "buildingName": "有楽町イトシアオフィスタワー",
+      "furigana": "ユウラクチョウイトシア",
+      "adress": "東京都千代田区有楽町二丁目7番1号",
+      "access": [
+        {
+          "access": "1Fエレベーター手前のエントランスロビー 左手柱の横"
+        },
+        {
+          "access": "JR 有楽町駅より徒歩1分"
+        },
+        {
+          "access": "都営地下鉄・東京メトロ 銀座駅・有楽町駅より徒歩2～5分"
+        }
+      ],
+      "installationTime": "平日土日祝: 8:00 - 21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用: 1台"
+        }
+      ],
+      "station": "銀座駅・有楽町駅",
+      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d810.2743297553244!2d139.7633757908472!3d35.67460563851071!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b88dcda45c9%3A0x50450b03ccc86305!2z5pyJ5qW955S644Kk44OI44K344Ki44Kq44OV44Kj44K544K_44Ov44O8!5e0!3m2!1sja!2sjp!4v1666748088480!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/YuracuchoItocia1.jpeg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/YuracuchoItocia3.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/YuracuchoItocia2.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/10/YuracuchoItocia_Map.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "有楽町イトシアオフィスタワー,有楽町駅前ビルディング, 東京, 千代田区有楽町, 銀座駅,有楽町駅",
+      "lat": "35.67446982273541",
+      "lng": "139.7638306408996",
+      "floorMapId": "163",
+      "link": "https://telecube.jp/location/yurakuchoitocia/"
+    }
+  },
+  {
     "id": 5636,
     "acf": {
       "buildingName": "パシフィックシティ高松ビル 4F",
@@ -580,7 +641,7 @@
       "campaign": [
         "週末価格"
       ],
-      "keyword": "新有楽町ビル,WEB会議センター, 有楽町,モニター,LED",
+      "keyword": "新有楽町ビル,WEB会議センター, 有楽町,モニター,LED, WEB会議センター",
       "lat": "35.67564317686962",
       "lng": "139.76161040240584",
       "floorMapId": "149",
@@ -2585,7 +2646,7 @@
     "id": 2990,
     "acf": {
       "buildingName": "みなと銀行姫路中央支店",
-      "adress": "兵庫県姫路市南駅前町100パラシオ第2ビル",
+      "adress": "兵庫県姫路市南駅前町100 パラシオ第2ビル 1F",
       "access": [
         {
           "access": "JR姫路駅南口　徒歩１分"
@@ -2605,10 +2666,10 @@
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.2159737644274!2d134.68746031523563!3d34.82566198040258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3554e06d16573c0b%3A0x622c09281b8cc23b!2z44G_44Gq44Go6YqA6KGMIOWnq-i3r-S4reWkruaUr-W6lw!5e0!3m2!1sja!2sjp!4v1625115867871!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
       "imgSlider": [
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/07/minato_bank_1f_5.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/07/minato_bank_1f_2.jpg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/07/minato_bank_1f_2.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/07/minato_bank_1f_5.jpg"
         },
         {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/07/minato_bank_1f_4.jpg"
@@ -8120,7 +8181,7 @@
         "夜21時まで"
       ],
       "campaign": "",
-      "keyword": "新丸の内ビルディング,シンマルノウチビルディング,02-01,02-02,02-03,02-04,02-05,02-06,02-07,02-08,02-09,新丸ビル,シンマルビル,東京駅,JR東日本,山手線,京浜東北線,中央線,東海道線,横須賀線,総武線,京葉線,東京メトロ,東京,千代田区,電源(コンセント / USB),WiFi（ブース内 or 施設内）,モニター(HDMI),スマホスタンド,WEB会議照明,広告掲載",
+      "keyword": "新丸の内ビルディング,シンマルノウチビルディング,02-01,02-02,02-03,02-04,02-05,02-06,02-07,02-08,02-09,新丸ビル,シンマルビル,東京駅,JR東日本,山手線,京浜東北線,中央線,東海道線,横須賀線,総武線,京葉線,東京メトロ,東京,千代田区,電源(コンセント / USB),WiFi（ブース内 or 施設内）,モニター(HDMI),スマホスタンド,WEB会議照明,広告掲載, モニター,LED, WEB会議センター",
       "lat": "35.682663",
       "lng": "139.7645",
       "floorMapId": "5",
