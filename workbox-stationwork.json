@@ -60,6 +60,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 678,
+    "floor_name": "青森駅改札外(みどりの窓口内)",
+    "booth": true,
+    "desk": false,
+    "distance": 577633.5425237699,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "青森県青森市 柳川1-1-1 青森駅",
+    "floor_name_kana": "アオモリエキカイサツガイミドリノマドグチナイ",
+    "type": 2,
+    "telecube_id": 1299,
+    "type_name": "BOOTH"
+  },
+  {
     "floor_id": 640,
     "floor_name": "青森空港旅客ターミナルビル1F(国内線チケットロビー内)",
     "booth": true,
