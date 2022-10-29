@@ -3,7 +3,7 @@
     "id": 5705,
     "acf": {
       "buildingName": "有楽町イトシアオフィスタワー",
-      "furigana": "ユウラクチョウイトシア",
+      "furigana": "ユウラクチョウイトシアオフィスタワー",
       "adress": "東京都千代田区有楽町二丁目7番1号",
       "access": [
         {
@@ -38,7 +38,7 @@
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/10/YuracuchoItocia_Map.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/10/有楽町イトシアオフィスタワーmap.png"
         }
       ],
       "workingDay": [
