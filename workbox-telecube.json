@@ -1,5 +1,135 @@
 [
   {
+    "id": 5881,
+    "acf": {
+      "buildingName": "ハービスOSAKA オフィスタワー 1F",
+      "furigana": "ハービスオーサカ オフィスタワー",
+      "adress": "大阪府大阪市北区梅田2丁目5-25",
+      "access": [
+        {
+          "access": "阪神大阪梅田駅 西口から 徒歩すぐ"
+        },
+        {
+          "access": "Osaka Metro 四つ橋線西梅田駅 北改札口から 徒歩すぐ"
+        },
+        {
+          "access": "JR大阪駅 桜橋口から 徒歩2分"
+        },
+        {
+          "access": "JR東西線 北新地駅西改札口から 徒歩4分"
+        },
+        {
+          "access": "Osaka Metro 御堂筋線梅田駅 南改札口から　徒歩5分"
+        }
+      ],
+      "installationTime": "平日土日祝: 8:00 - 21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：2台"
+        }
+      ],
+      "station": "大阪駅・大阪梅田駅・梅田駅・東梅田駅・西梅田駅・北新地駅",
+      "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n・Web会議用LED照明<br />\r\n・モニター（HDMI対応）<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d820.0680158257544!2d135.49253900686114!3d34.69831724492804!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x51c7d95eeb65334a!2z44OP44O844OT44K5T1NBS0Hjgqrjg5XjgqPjgrk!5e0!3m2!1sja!2sjp!4v1667264156115!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/11/ハービスOSAKA2.jpeg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/11/ハービスOSAKA1.jpeg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/11/ハービスOSAKA3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/11/ハービスOSAKA_フロア図.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "ハービスOSAKAオフィスタワー,\r\n大阪府, 大阪市北区梅田,\r\n電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,\r\nGBP",
+      "lat": "34.69842902283539",
+      "lng": "135.4926116444813",
+      "floorMapId": "164",
+      "link": "https://telecube.jp/location/herbis_osaka/"
+    }
+  },
+  {
+    "id": 5859,
+    "acf": {
+      "buildingName": "パレスサイドビル",
+      "furigana": "パレスサイドビル",
+      "adress": "東京都千代田区一ツ橋1-1-1",
+      "access": [
+        {
+          "access": "パレスサイドビル東側B1F（証明写真機横）"
+        },
+        {
+          "access": "　"
+        },
+        {
+          "access": "東京メトロ東西線 竹橋駅 直結"
+        },
+        {
+          "access": "東京メトロ半蔵門線、都営地下鉄新宿線・三田線 神保町駅(A8出口)から徒歩5分"
+        }
+      ],
+      "installationTime": "平日土: 7:00 - 21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用: 1"
+        }
+      ],
+      "station": "竹橋駅・神保町駅",
+      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12961.736071806965!2d139.7575803!3d35.6909358!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4bd452e821b5af93!2z44OR44Os44K544K144Kk44OJ44OT44Or!5e0!3m2!1sja!2sjp!4v1667225936960!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/パレスサイドビル1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/パレスサイドビル2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/10/パレスサイドビル3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/10/パレスサイドビル_フロアマップ.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "パレスサイドビル,毎日新聞ビル, \r\n東京, 千代田区一ツ橋,\r\n竹橋駅, 神保町駅,\r\n東西線, 半蔵門線, 都営新宿線,\r\nWiFi, スマホスタンド,\r\nGBP",
+      "lat": "35.69089936165447",
+      "lng": "139.75775459423537",
+      "floorMapId": "165",
+      "link": "https://telecube.jp/location/palaceside_bldg/"
+    }
+  },
+  {
     "id": 5705,
     "acf": {
       "buildingName": "有楽町イトシアオフィスタワー",
@@ -168,7 +298,7 @@
       "campaign": [
         "週末価格"
       ],
-      "keyword": "イトーヨーカドー 南大沢店, IY,\r\n東京都八王子市南大沢\r\n京王線,南大沢駅\r\n電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,\r\nGBP",
+      "keyword": "イトーヨーカドー 南大沢店, IY,\r\n東京, 八王子市南大沢\r\n京王線,南大沢駅\r\n電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,\r\nGBP",
       "lat": "35.61346982793976",
       "lng": "139.37987099893303",
       "floorMapId": "162",
@@ -294,7 +424,7 @@
         }
       ],
       "station": "大阪駅・梅田駅・大阪梅田駅・西梅田駅・東梅田駅・北新地駅",
-      "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n・Web会議用LED照明<br />\r\n・モニター（HDMI対応）<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。",
+      "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n・Web会議用LED照明<br />\r\n・モニター（HDMI対応）<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.172529313242!2d135.49516721559792!3d34.70082809071826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e76ecd9df40d%3A0x6ae3d981fd2f660b!2z5aSn6Ziq5qKF55Sw44OE44Kk44Oz44K_44Ov44O844K644O744K144Km44K5!5e0!3m2!1sja!2sjp!4v1663952897757!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
       "imgSlider": [
         {
@@ -3067,7 +3197,7 @@
       "installationTime": "平日 7:00-20:00",
       "detailInfo": [
         {
-          "detailInfo": "1人用：2台"
+          "detailInfo": "1人用：4台"
         }
       ],
       "station": "四ツ谷駅",
@@ -3075,13 +3205,10 @@
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.5717928341905!2d139.7267637151116!3d35.687544380192705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188dd928536705%3A0xd116a4ca1781aeb3!2z44Kz44Oi44Os5Zub6LC3!5e0!3m2!1sja!2sjp!4v1617578072164!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
       "imgSlider": [
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/04/comore-yotsuya-2f-1.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/04/コモレ四谷1-1.jpg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/04/comore-yotsuya-2f-2.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/04/comore-yotsuya-2f-3.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/04/コモレ四谷2.jpg"
         },
         {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/04/comore-yotsuya-2f-4.jpg"
@@ -3092,7 +3219,7 @@
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/04/KomoreYotsuya_FloorMap.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/04/コモレ四谷フロア図2.png"
         }
       ],
       "workingDay": [
@@ -3721,7 +3848,7 @@
     "id": 2278,
     "acf": {
       "buildingName": "流山おおたかの森　こかげテラス　１階",
-      "adress": "千葉県流山市おおたかの森西1-1-1",
+      "adress": "千葉県流山市おおたかの森西1-1",
       "access": [
         {
           "access": "つくばエクスプレス「流山おおたかの森駅]下車すぐ"

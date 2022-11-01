@@ -501,7 +501,7 @@
   },
   {
     "floor_id": 624,
-    "floor_name": ".andwork 渋谷(ｵｰﾌﾟﾝﾗｳﾝｼﾞ)",
+    "floor_name": ".andwork 渋谷",
     "booth": false,
     "desk": false,
     "distance": 6394.935253400062,
@@ -514,7 +514,7 @@
     "open_time_sunday": "08:00",
     "close_time_sunday": "22:00",
     "address_detail": "東京都渋谷区 神南1丁目20番13号 The Millennials 渋谷内",
-    "floor_name_kana": "アンドワークシブヤ(ｵｰﾌﾟﾝﾗｳﾝｼﾞ)",
+    "floor_name_kana": "アンドワークシブヤ",
     "type": 3,
     "telecube_id": 1217,
     "type_name": "その他(WeWork等)"
@@ -601,7 +601,7 @@
   },
   {
     "floor_id": 9,
-    "floor_name": "池袋駅メトロポリタン改札内※ブース内ビジネスコンテンツ無料実証実験中",
+    "floor_name": "池袋駅メトロポリタン改札内",
     "booth": true,
     "desk": false,
     "distance": 7301.195916168001,
@@ -1621,7 +1621,7 @@
   },
   {
     "floor_id": 5,
-    "floor_name": "ecute立川3F JJ+T内※ブース内ビジネスコンテンツ無料実証実験中",
+    "floor_name": "ecute立川3F JJ+T内",
     "booth": true,
     "desk": false,
     "distance": 32025.530687989965,
@@ -1861,7 +1861,7 @@
   },
   {
     "floor_id": 600,
-    "floor_name": "大宮駅改札外(えきたびマーケット内)",
+    "floor_name": "大宮駅改札外 みどりの窓口横 (えきたびマーケット内)",
     "booth": true,
     "desk": false,
     "distance": 28120.9425113216,
@@ -1874,7 +1874,7 @@
     "open_time_sunday": "10:00",
     "close_time_sunday": "20:45",
     "address_detail": "埼玉県さいたま市大宮区 錦町630番地 大宮駅",
-    "floor_name_kana": "オオミヤエキカイサツガイ(エキタビマーケットナイ)",
+    "floor_name_kana": "オオミヤエキカイサツガイミドリノマドグチナイ(エキタビマーケットナイ)",
     "type": 2,
     "telecube_id": 1102,
     "type_name": "BOOTH"
@@ -4101,7 +4101,7 @@
   },
   {
     "floor_id": 8,
-    "floor_name": "新宿駅甲州街道改札内※ブース内ビジネスコンテンツ無料実証実験中",
+    "floor_name": "新宿駅甲州街道改札内",
     "booth": true,
     "desk": false,
     "distance": 5993.657489756098,
@@ -4201,7 +4201,7 @@
   },
   {
     "floor_id": 644,
-    "floor_name": "SYNTH×Business-Airport 西梅田ブリーゼタワー(ﾌﾘｰ席)",
+    "floor_name": "SYNTH×Business-Airport 西梅田ブリーゼタワー",
     "booth": false,
     "desk": false,
     "distance": 404046.8063120689,
@@ -4214,7 +4214,7 @@
     "open_time_sunday": null,
     "close_time_sunday": null,
     "address_detail": "大阪府大阪市北区 梅田2丁目4-9 ブリーゼタワー1階",
-    "floor_name_kana": "シンス×ビジネスエアポートニシウメダブリーゼタワー(ﾌﾘｰｾｷ)",
+    "floor_name_kana": "シンス×ビジネスエアポートニシウメダブリーゼタワー",
     "type": 3,
     "telecube_id": 1247,
     "type_name": "その他(WeWork等)"
@@ -6881,7 +6881,7 @@
   },
   {
     "floor_id": 6,
-    "floor_name": "東京駅改札内 総武地下4F(新日本橋側)※ブース内ビジネスコンテンツ無料実証実験中",
+    "floor_name": "東京駅改札内 総武地下4F(新日本橋側)",
     "booth": true,
     "desk": false,
     "distance": 130.6156643771883,
@@ -6901,7 +6901,7 @@
   },
   {
     "floor_id": 7,
-    "floor_name": "東京駅改札内 総武地下4F(新橋側)※ブース内ビジネスコンテンツ無料実証実験中",
+    "floor_name": "東京駅改札内 総武地下4F(新橋側)",
     "booth": true,
     "desk": false,
     "distance": 113.00879742865762,
@@ -9541,7 +9541,7 @@
   },
   {
     "floor_id": 511,
-    "floor_name": "(11/2より３Fへ移動) プレイアトレ土浦2F",
+    "floor_name": "プレイアトレ土浦３F",
     "booth": true,
     "desk": false,
     "distance": 59254.67229166639,
@@ -9554,7 +9554,7 @@
     "open_time_sunday": "07:00",
     "close_time_sunday": "21:30",
     "address_detail": "茨城県土浦市 有明町1-30 プレイアトレ土浦",
-    "floor_name_kana": "プレイアトレツチウラニカイ",
+    "floor_name_kana": "プレイアトレツチウラサンカイ",
     "type": 2,
     "telecube_id": 962,
     "type_name": "BOOTH"
