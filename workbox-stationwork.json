@@ -11928,7 +11928,7 @@
     "partner_flg": true,
     "partner2_flg": 1,
     "open_time_weekday": "09:00",
-    "close_time_weekday": "19:00",
+    "close_time_weekday": "21:00",
     "open_time_saturday": null,
     "close_time_saturday": null,
     "open_time_sunday": null,
