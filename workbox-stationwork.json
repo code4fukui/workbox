@@ -1780,6 +1780,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 677,
+    "floor_name": "大津駅改札外",
+    "booth": true,
+    "desk": false,
+    "distance": 362567.6970103762,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "09:00",
+    "close_time_weekday": "10:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "滋賀県大津市春日町 １-3 大津駅",
+    "floor_name_kana": "オオツエキカイサツガイ",
+    "type": 2,
+    "telecube_id": 1294,
+    "type_name": "BOOTH"
+  },
+  {
     "floor_id": 368,
     "floor_name": "大船駅北改札外",
     "booth": true,
