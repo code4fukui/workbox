@@ -1,5 +1,73 @@
 [
   {
+    "id": 5900,
+    "acf": {
+      "buildingName": "西新橋スクエア B2F",
+      "furigana": "ニシシンバシスクエア",
+      "adress": "東京都港区西新橋1-3-1",
+      "access": [
+        {
+          "access": "都営三田線「内幸町駅」A4b出口直結エントランスホール"
+        },
+        {
+          "access": "　"
+        },
+        {
+          "access": "都営三田線 内幸町駅 A4b出口直結"
+        },
+        {
+          "access": "東京メトロ銀座線 虎ノ門駅より徒歩6分"
+        },
+        {
+          "access": "JR山手線 新橋駅より徒歩6分"
+        }
+      ],
+      "installationTime": "平日土日祝: 7:00 - 21:00\r\n",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：2台"
+        }
+      ],
+      "station": "内幸町駅・虎ノ門駅・新橋駅",
+      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12965.269488807677!2d139.7544269!3d35.6691866!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc435f33b24f32c18!2z6KW_5paw5qmL44K544Kv44Ko44Ki!5e0!3m2!1sja!2sjp!4v1667914097917!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/11/西新橋スクエア_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/11/西新橋スクエア_2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/11/西新橋スクエア_3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/11/西新橋スクエアフロア図.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "西新橋スクエア, ニシシンバシスクエア,\r\n東京, 港区西新橋,\r\n内幸町駅, 虎ノ門駅, 新橋駅, \r\n都営三田線, 銀座線, 山手線,\r\nWiFi, スマホスタンド,",
+      "lat": "35.66890478967755",
+      "lng": "139.75472385130823",
+      "floorMapId": "166",
+      "link": "https://telecube.jp/location/nishishinbashisquare/"
+    }
+  },
+  {
     "id": 5881,
     "acf": {
       "buildingName": "ハービスOSAKA オフィスタワー 1F",
@@ -1537,7 +1605,7 @@
         }
       ],
       "station": "有楽町駅・日比谷駅",
-      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。<br />\r\n<br />\r\n【特殊価格形態】<br />\r\n・予約単位：30分<br />\r\n・利用料：1,000円(税込)/30分<br />\r\n・利用定員：2名",
+      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。<br />\r\n<br />\r\n【特殊価格形態】<br />\r\n・予約単位：30分<br />\r\n・利用料：1,080円(税込)/30分<br />\r\n・利用定員：2名",
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.011664377786!2d139.7590260152587!3d35.67671478019536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bf05c6cee0f%3A0xac9551f8658dbc06!2z44CSMTAwLTAwMDUg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy65Li444Gu5YaF77yT5LiB55uu77yR4oiS77yRIOWbvemam-ODk-ODqw!5e0!3m2!1sja!2sjp!4v1643848667354!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
       "imgSlider": [
         {
@@ -2147,12 +2215,6 @@
         },
         {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/09/shinmarunouchibuilding_for2_1.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/09/52241881709_eab4d1371f_o.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/09/52241882159_24506b2e75_o.jpg"
         }
       ],
       "imgDetail": [
