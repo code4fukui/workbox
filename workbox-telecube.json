@@ -860,7 +860,7 @@
       "installationTime": "平日土日祝: 7:00 - 21:00",
       "detailInfo": [
         {
-          "detailInfo": "1人用: 1台"
+          "detailInfo": "1人用: 2台"
         }
       ],
       "station": "鹿児島空港",
@@ -868,13 +868,13 @@
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d847.7192597256667!2d130.71555462922575!3d31.801100898829873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x353efdd5dc33dc4b%3A0xc5cc843c4b0aaeaf!2z6bm_5YWQ5bO256m65rivIOWbveWGhee3muOCv-ODvOODn-ODiuODqw!5e0!3m2!1sja!2sjp!4v1659256567416!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
       "imgSlider": [
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/07/IMG_3243.jpeg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/08/鹿児島空港1.jpeg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/07/IMG_3245.jpeg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/08/鹿児島空港3.jpeg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/07/IMG_3246.jpeg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/08/鹿児島空港2.jpeg"
         },
         {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/08/iOS-の画像.jpg"
@@ -882,7 +882,7 @@
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/07/鹿児島空港.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/08/鹿児島空港フロア図202211.png"
         }
       ],
       "workingDay": [
