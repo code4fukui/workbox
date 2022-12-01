@@ -1,5 +1,135 @@
 [
   {
+    "id": 5957,
+    "acf": {
+      "buildingName": "赤坂Bizタワー SHOPS&DINING B1F",
+      "furigana": "アカサカビズタワーショップスアンドダイニング",
+      "adress": "東京都港区赤坂5-3-1 赤坂Bizタワー",
+      "access": [
+        {
+          "access": "赤坂Bizタワー B1F 赤坂駅3a出口階段下の共用部通路、成城石井 横"
+        },
+        {
+          "access": "　"
+        },
+        {
+          "access": "千代田線 赤坂駅 直結 3a出口方面"
+        },
+        {
+          "access": "銀座線、丸の内線 赤坂見附駅 11番出口より徒歩5分"
+        },
+        {
+          "access": "銀座線、南北線 溜池山王駅 11番出口より徒歩6分"
+        }
+      ],
+      "installationTime": "平日土日祝 : 7:00 〜 21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：4台"
+        }
+      ],
+      "station": "赤坂駅・赤坂見附駅・溜池山王駅",
+      "facility": "・24時間連続稼働換気ファン<br />\r\n・エアコン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d367.6775152682473!2d139.73639306106287!3d35.67291975665936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b80b98cd08f%3A0x7a139753a280af55!2z6LWk5Z2CQml644K_44Ov44O8IFNIT1BTJkRJTklORw!5e0!3m2!1sja!2sjp!4v1669831287806!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/AkasakaBizTowerB1F_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/AkasakaBizTowerB1F_2.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/12/AkasakaBizTower_FloorMap.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "赤坂Bizタワー, アカサカビズタワー,\r\n東京, 港区赤坂,\r\n赤坂駅, 赤坂見附駅, 溜池山王駅,\r\n千代田線, 銀座線, 丸の内線, 南北線, \r\nWiFi, スマホスタンド,\r\nGBP",
+      "lat": "35.672699275230094",
+      "lng": "139.736445395421",
+      "floorMapId": "168",
+      "link": "https://telecube.jp/location/akasakabiztower-b1f/"
+    }
+  },
+  {
+    "id": 5952,
+    "acf": {
+      "buildingName": "赤坂Bizタワー SHOPS&DINING 1F",
+      "furigana": "アカサカビズタワーショップスアンドダイニング",
+      "adress": "東京都港区赤坂5-3-1 赤坂Bizタワー",
+      "access": [
+        {
+          "access": "赤坂Bizタワー SHOPS&DINING 1F エントランスを入って、左側階段横"
+        },
+        {
+          "access": "　"
+        },
+        {
+          "access": "千代田線 赤坂駅 直結 3a出口方面"
+        },
+        {
+          "access": "銀座線、丸の内線 赤坂見附駅 11番出口より徒歩5分"
+        },
+        {
+          "access": "銀座線、南北線 溜池山王駅 11番出口より徒歩6分"
+        }
+      ],
+      "installationTime": "平日土日祝 : 7:00 〜 21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：2台"
+        }
+      ],
+      "station": "赤坂駅・赤坂見附駅・溜池山王駅",
+      "facility": "・24時間連続稼働換気ファン<br />\r\n・エアコン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12964.676909341668!2d139.7359418!3d35.6728349!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x62587075c920c328!2z44OG44Os44Kt44Ol44O844OWIOi1pOWdgkJpeuOCv-ODr-ODvCBTSE9QUyZESU5JTkcgMUY!5e0!3m2!1sja!2sjp!4v1669835451596!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/AkasakaBizTower1F_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/AkasakaBizTower1F_2.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/12/AkasakaBizTower_FloorMap.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "赤坂Bizタワー, アカサカビズタワー,\r\n東京, 港区赤坂,\r\n赤坂駅, 赤坂見附駅, 溜池山王駅,\r\n千代田線, 銀座線, 丸の内線, 南北線, \r\nWiFi, スマホスタンド,\r\nGBP",
+      "lat": "35.67283488020536",
+      "lng": "139.7359417834419",
+      "floorMapId": "167",
+      "link": "https://telecube.jp/location/akasakabiztower-1f/"
+    }
+  },
+  {
     "id": 5900,
     "acf": {
       "buildingName": "西新橋スクエア B2F",
