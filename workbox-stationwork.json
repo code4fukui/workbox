@@ -4080,6 +4080,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 722,
+    "floor_name": "白石蔵王駅改札外待合室内(OMOブース)",
+    "booth": true,
+    "desk": false,
+    "distance": 268258.03477189515,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "宮城県白石市 大鷹沢三沢桜田１１−１",
+    "floor_name_kana": "シロイシザオウエキカイサツガイマチアイシツナイ（オーエムオーブース）",
+    "type": 2,
+    "telecube_id": 1386,
+    "type_name": "BOOTH"
+  },
+  {
     "floor_id": 142,
     "floor_name": "新青森駅新幹線改札外(待合室)",
     "booth": true,
@@ -4378,6 +4398,26 @@
     "type": 3,
     "telecube_id": 414,
     "type_name": "ホテルシェアオフィス"
+  },
+  {
+    "floor_id": 723,
+    "floor_name": "新庄駅改札外待合室内(OMOブース)",
+    "booth": true,
+    "desk": false,
+    "distance": 345260.7443195446,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "山形県新庄市多門町 1番地",
+    "floor_name_kana": "シンジョウエキカイサツガイマチアイシツナイ(オーエムオーブース)",
+    "type": 2,
+    "telecube_id": 1387,
+    "type_name": "BOOTH"
   },
   {
     "floor_id": 644,
@@ -11721,7 +11761,7 @@
   },
   {
     "floor_id": 58,
-    "floor_name": "【12月上旬開業予定】四ツ谷駅四ツ谷・麹町口改札外（券売機スペース内）",
+    "floor_name": "四ツ谷駅四ツ谷・麹町口改札外（券売機スペース内）",
     "booth": true,
     "desk": false,
     "distance": 3305.2450557278257,
