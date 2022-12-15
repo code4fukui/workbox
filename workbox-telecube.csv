@@ -1,8 +1,8 @@
 ﻿id,buildingName,furigana,adress,access,installationTime,detailInfo,station,facility,googleMap,imgSlider,imgSlider_2,imgSlider_3,imgDetail,workingDay,workingDay_2,workingDay_3,workingDay_4,lateNightService,campaign,keyword,lat,lng,floorMapId,link,access_2,imgSlider_4,access_3,access_4,lateNightService_2,access_5,access_6,access_7,access_8,access_9,access_10,detailInfo_2,imgSlider_5,imgSlider_6,imgSlider_7,prefectures,city,area
 6010,仙台パークビル,センダイパークビル,宮城県仙台市青葉区国分町3-6-1,市営地下鉄南北線 勾当台公園駅 徒歩1分,平日土日祝: 8:00 〜 21:00,1人用：2台,勾当台公園駅,"・24時間連続稼働換気ファン<br />
-・エアコン<br />
 ・WiFi<br />
 ・スマホスタンド<br />
+※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />
 <br />
 ※WiFiについて<br />
 LTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。","<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3132.55081064524!2d140.86735971568467!3d38.26672277967288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f8a282fbae04a09%3A0x74490befea981396!2z5LuZ5Y-w44OR44O844Kv44OT44Or!5e0!3m2!1sja!2sjp!4v1670513154521!5m2!1sja!2sjp"" width=""600"" height=""450"" style=""border:0;"" allowfullscreen="""" loading=""lazy"" referrerpolicy=""no-referrer-when-downgrade""></iframe>",https://telecube.jp/wp/wp-content/uploads/2022/12/仙台パークビル2.jpg,https://telecube.jp/wp/wp-content/uploads/2022/12/仙台パークビル1.jpg,https://telecube.jp/wp/wp-content/uploads/2022/12/仙台パークビル3.jpg,https://telecube.jp/wp/wp-content/uploads/2022/12/仙台パークビルフロア図.png,平日,土曜日,日曜日,祝日,夜21時まで,週末価格,"仙台パークビル, センダイパークビル,
@@ -12,9 +12,9 @@ LTE回線を利用したベストエフォートでの提供となり、時間�
 WiFi, スマホスタンド,
 GBP",38.266760685856234,140.86947664919714,171,https://telecube.jp/location/sendaiparkbldg/,,,,,,,,,,,,,,,,,,
 6000,花京院スクエア,カキョウインスクエア,宮城県仙台市青葉区花京院1-1-20,JR 仙台駅 徒歩6分,平日: 8:00 〜 21:00 / 土日祝: 8:00 〜 17:00,1人用：2台,仙台駅,"・24時間連続稼働換気ファン<br />
-・エアコン<br />
 ・WiFi<br />
 ・スマホスタンド<br />
+※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />
 <br />
 ※WiFiについて<br />
 LTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。","<iframe src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3132.598055542306!2d140.8781940156846!3d38.26562727967306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f8a2826c5400001%3A0xfa734a96670b9554!2z6Iqx5Lqs6Zmi44K544Kv44Ko44Ki!5e0!3m2!1sja!2sjp!4v1670511599868!5m2!1sja!2sjp"" width=""600"" height=""450"" style=""border:0;"" allowfullscreen="""" loading=""lazy"" referrerpolicy=""no-referrer-when-downgrade""></iframe>",https://telecube.jp/wp/wp-content/uploads/2022/12/花京院スクエア1-1.jpg,https://telecube.jp/wp/wp-content/uploads/2022/12/花京院スクエア2-1.jpg,https://telecube.jp/wp/wp-content/uploads/2022/12/花京院スクエア3-1.jpg,https://telecube.jp/wp/wp-content/uploads/2022/12/花京院スクエアフロア図.png,平日,土曜日,日曜日,祝日,夜21時まで,週末価格,"花京院スクエア, カキョウインスクエア,
@@ -24,9 +24,9 @@ LTE回線を利用したベストエフォートでの提供となり、時間�
 WiFi, スマホスタンド,
 GBP",38.26560937925537,140.88033844184096,170,https://telecube.jp/location/kakyouin_square/,市営地下鉄南北線 仙台駅 徒歩6分,https://telecube.jp/wp/wp-content/uploads/2022/12/花京院スクエア4.jpg,,,,,,,,,,,,,,,,
 5976,TOKYO TORCH 常盤橋タワー 2F,トウキョウトーチトキワバシタワー,東京都千代田区大手町2-6-4 TOKYO TORCH 常盤橋タワー 2F,東京メトロ 千代田線・丸ノ内線・半蔵門線・東西線・都営三田線 大手町駅 B8a出口 より徒歩1分,平日: 7:00 〜 21:00,1人用: 1台,東京駅・大手町駅・日本橋駅・三越前駅,"・24時間連続稼働換気ファン<br />
-・エアコン<br />
 ・WiFi<br />
 ・スマホスタンド<br />
+※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />
 <br />
 ※WiFiについて<br />
 LTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。","<iframe src=""https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12962.797794344438!2d139.7704367!3d35.6844018!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf46f615ebe0c8714!2z5bi455uk5qmL44K_44Ov44O8!5e0!3m2!1sja!2sjp!4v1670307347021!5m2!1sja!2sjp"" width=""600"" height=""450"" style=""border:0;"" allowfullscreen="""" loading=""lazy"" referrerpolicy=""no-referrer-when-downgrade""></iframe>",https://telecube.jp/wp/wp-content/uploads/2022/12/TokiwabashiTower1.jpeg,https://telecube.jp/wp/wp-content/uploads/2022/12/TokiwabashiTower2.jpeg,https://telecube.jp/wp/wp-content/uploads/2022/12/TokiwabashiTower4.jpg,https://telecube.jp/wp/wp-content/uploads/2022/12/TokiwabashiTower_FloorMap.png,平日,,,,朝7時から,,"TOKYO TORCH 常盤橋タワー, トウキョウトーチトキワバシタワー,
