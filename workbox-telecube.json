@@ -1,5 +1,51 @@
 [
   {
+    "id": 6029,
+    "acf": {
+      "buildingName": "JRE東二番丁スクエア",
+      "furigana": "ジェイアールイーヒガシニバンチョウスクエア",
+      "adress": "宮城県仙台市青葉区一番町4丁目1-25",
+      "access": [
+        {
+          "access": "市営地下鉄南北線 広瀬通駅 徒歩1分"
+        }
+      ],
+      "installationTime": "平日 8:00 〜 20:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：2台"
+        }
+      ],
+      "station": "仙台駅・広瀬通駅",
+      "facility": "・24時間連続稼働換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1566.3446710591145!2d140.87138495698835!3d38.26351047967347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f8a2824cd953085%3A0x2240b5ca61c9c7b7!2z77yq77yy77yl5p2x5LqM55Wq5LiB44K544Kv44Ko44Ki!5e0!3m2!1sja!2sjp!4v1671411014501!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/東二番丁スクエア_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/東二番丁スクエア_2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/東二番丁スクエア_3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/12/東二番丁スクエア_フロア図.png"
+        }
+      ],
+      "workingDay": "",
+      "lateNightService": "",
+      "campaign": "",
+      "keyword": "",
+      "lat": "38.263583662875746",
+      "lng": "140.87254970628047",
+      "floorMapId": "172",
+      "link": "https://telecube.jp/location/jre_higashinibancho/"
+    }
+  },
+  {
     "id": 6010,
     "acf": {
       "buildingName": "仙台パークビル",
