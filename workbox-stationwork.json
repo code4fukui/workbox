@@ -4521,7 +4521,7 @@
   },
   {
     "floor_id": 61,
-    "floor_name": "新橋駅汐留地下改札外",
+    "floor_name": "【12/23開業】新橋駅北改札内(エスカレータ横)",
     "booth": true,
     "desk": false,
     "distance": 1805.455647511469,
@@ -4534,7 +4534,7 @@
     "open_time_sunday": "07:00",
     "close_time_sunday": "21:30",
     "address_detail": "東京都港区新橋 ２-17 新橋駅",
-    "floor_name_kana": "シンバシエキシオドメチカカイサツガイ",
+    "floor_name_kana": "シンバシエキキタカイサツナイ(エスカレータヨコ)",
     "type": 2,
     "telecube_id": 763,
     "type_name": "BOOTH"
