@@ -3180,6 +3180,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 726,
+    "floor_name": "高円寺駅改札内",
+    "booth": true,
+    "desk": false,
+    "distance": 10902.63076903891,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "東京都杉並区 高円寺南4-48-2 高円寺駅",
+    "floor_name_kana": "コウエンジエキカイサツナイ",
+    "type": 2,
+    "telecube_id": 1392,
+    "type_name": "BOOTH"
+  },
+  {
     "floor_id": 654,
     "floor_name": "高知駅改札外",
     "booth": true,
@@ -4521,7 +4541,7 @@
   },
   {
     "floor_id": 61,
-    "floor_name": "【12/23開業】新橋駅北改札内(エスカレータ横)",
+    "floor_name": "新橋駅北改札内(エスカレータ横)",
     "booth": true,
     "desk": false,
     "distance": 1805.455647511469,
@@ -4537,6 +4557,26 @@
     "floor_name_kana": "シンバシエキキタカイサツナイ(エスカレータヨコ)",
     "type": 2,
     "telecube_id": 763,
+    "type_name": "BOOTH"
+  },
+  {
+    "floor_id": 724,
+    "floor_name": "新橋駅北改札内(階段横)",
+    "booth": true,
+    "desk": false,
+    "distance": 1812.0956961707516,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "東京都港区 新橋2-17-14 新橋駅",
+    "floor_name_kana": "シンバシエキキタカイサツナイ(カイダンヨコ)",
+    "type": 2,
+    "telecube_id": 1388,
     "type_name": "BOOTH"
   },
   {
@@ -8060,6 +8100,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 731,
+    "floor_name": "原宿駅表参道改札外2F (猿田彦珈琲店舗前)",
+    "booth": true,
+    "desk": false,
+    "distance": 5918.97724749278,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "東京都渋谷区 神宮前1-18-20 原宿駅",
+    "floor_name_kana": "ハラジュクオモテサンドウカイサツガイ(サルタヒココーヒーテンポマエ)",
+    "type": 2,
+    "telecube_id": 1393,
+    "type_name": "BOOTH"
+  },
+  {
     "floor_id": 406,
     "floor_name": "東川口駅改札内",
     "booth": true,
@@ -10340,28 +10400,8 @@
     "type_name": "BOOTH"
   },
   {
-    "floor_id": 157,
-    "floor_name": "【12/23以降場所変更】水戸駅みどりの窓口内(券売機前)",
-    "booth": true,
-    "desk": false,
-    "distance": 99753.03357732146,
-    "partner_flg": false,
-    "partner2_flg": 0,
-    "open_time_weekday": "07:00",
-    "close_time_weekday": "21:30",
-    "open_time_saturday": "07:00",
-    "close_time_saturday": "21:30",
-    "open_time_sunday": "07:00",
-    "close_time_sunday": "21:30",
-    "address_detail": "茨城県水戸市 宮町１丁目 水戸駅",
-    "floor_name_kana": "ミトエキミドリノマドグチナイケンバイキマエ",
-    "type": 2,
-    "telecube_id": 360,
-    "type_name": "BOOTH"
-  },
-  {
     "floor_id": 178,
-    "floor_name": "水戸駅みどりの窓口内(正面入口横)",
+    "floor_name": "水戸駅改札外(みどりの窓口内)",
     "booth": true,
     "desk": false,
     "distance": 99754.23999888696,
@@ -10376,7 +10416,7 @@
     "address_detail": "茨城県水戸市 宮町１丁目 水戸駅",
     "floor_name_kana": "ミトエキミドリノマドグチナイショウメンイリグチヨコ",
     "type": 2,
-    "telecube_id": 361,
+    "telecube_id": 360,
     "type_name": "BOOTH"
   },
   {
