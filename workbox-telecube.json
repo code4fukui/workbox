@@ -1,5 +1,189 @@
 [
   {
+    "id": 6074,
+    "acf": {
+      "buildingName": "仙台空港（1F国際線到着ロビー側）",
+      "furigana": "センダイクウコウ",
+      "adress": "宮城県名取市下増田字南原",
+      "access": [
+        {
+          "access": "1F 国際線到着ロビー側、3番出口横"
+        },
+        {
+          "access": "　"
+        },
+        {
+          "access": "仙台空港アクセス線 仙台空港駅"
+        }
+      ],
+      "installationTime": "平日土日祝: 7:00 〜 21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：2台"
+        }
+      ],
+      "station": "仙台空港駅",
+      "facility": "・24時間連続稼働換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6276.286466378028!2d140.92240880141088!3d38.13686231866489!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f8a223f25acc20d%3A0x8e797a24097c3427!2z5LuZ5Y-w56m65riv6aeF!5e0!3m2!1sja!2sjp!4v1672119405949!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/仙台空港1F-1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/仙台空港1F_2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/仙台空港1F_4.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/仙台空港1F_3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/12/仙台空港1F到着ロビー_フロア図.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "仙台空港, センダイクウコウ,\r\n宮城, 名取市,\r\n仙台空港駅,  \r\n仙台空港アクセス線,\r\nWiFi, スマホスタンド, エアコン\r\nGBP",
+      "lat": "38.13795751900058",
+      "lng": "140.93077521858714",
+      "floorMapId": "174",
+      "link": "https://telecube.jp/location/sendaiairport_1f_arrival/"
+    }
+  },
+  {
+    "id": 6060,
+    "acf": {
+      "buildingName": "神谷町プライムプレイス",
+      "furigana": "カミヤチョウプライムプレイス",
+      "adress": "東京都港区虎ノ門4丁目1-17",
+      "access": [
+        {
+          "access": "1Fオフィスエントランスホール正面"
+        },
+        {
+          "access": "　"
+        },
+        {
+          "access": "日比谷線 神谷町駅(4b出口) 徒歩3分"
+        },
+        {
+          "access": "南北線 六本木一丁目駅 徒歩10分"
+        },
+        {
+          "access": "日比谷線 虎ノ門ヒルズ駅 徒歩8分"
+        }
+      ],
+      "installationTime": "平日土曜: 7:00 〜 20:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：2台"
+        }
+      ],
+      "station": "神谷町駅・六本木一丁目駅・虎ノ門ヒルズ駅",
+      "facility": "・24時間連続稼働換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d810.3710696484793!2d139.743539627579!3d35.66507588019814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b90ef8cd17d%3A0xc8d287ebad03fb88!2z44CSMTA1LTAwMDEg5p2x5Lqs6YO95riv5Yy66JmO44OO6ZaA77yU5LiB55uu77yR4oiS77yR77yXIOelnuiwt-eUuuODl-ODqeOCpOODoOODl-ODrOOCpOOCueODrOOCuOODh-ODs-OCuQ!5e0!3m2!1sja!2sjp!4v1672115394019!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/神谷町プライムプレイス_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/神谷町プライムプレイス_2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/神谷町プライムプレイス_3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/12/神谷町プライムプレイス_フロア図.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日"
+      ],
+      "lateNightService": [
+        "朝7時から"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "神谷町プライムプレイス, カミヤチョウプライムプレイス,\r\n東京, 港区虎ノ門,\r\n神谷町駅, 虎ノ門ヒルズ駅, 六本木一丁目駅, \r\n日比谷線, 南北線, \r\nWiFi, スマホスタンド,\r\nGBP",
+      "lat": "35.665052999314504",
+      "lng": "139.74406265834637",
+      "floorMapId": "176",
+      "link": "https://telecube.jp/location/kamiyachoprimeplace/"
+    }
+  },
+  {
+    "id": 6050,
+    "acf": {
+      "buildingName": "ソリオ2",
+      "furigana": "ソリオ2",
+      "adress": "兵庫県宝塚市栄町2-1-2",
+      "access": [
+        {
+          "access": "阪急電鉄宝塚駅直結"
+        }
+      ],
+      "installationTime": "平日土日祝日: 8:00 〜 21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：2台"
+        }
+      ],
+      "station": "宝塚駅",
+      "facility": "・24時間連続稼働換気ファン<br />\r\n・エアコン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d403.8410867477891!2d135.34073309217302!3d34.81027034603918!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000f45949185b4f%3A0x192d85c36cdf8ffd!2z44CSNjY1LTA4NDUg5YW15bqr55yM5a6d5aGa5biC5qCE55S677yS5LiB55uu77yR4oiS77ySIOOCveODquOCqu-8kg!5e0!3m2!1sja!2sjp!4v1672114723870!5m2!1sja!2sjp\" width=\"800\" height=\"600\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/Sorio2_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/Sorio2_2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/12/Sorio2_3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/12/Sorio2フロア図.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "ソリオ2, ソリオ2,\r\n兵庫, 宝塚市栄町,\r\n宝塚駅,  \r\n阪急宝塚本線, 阪急今津線, 宝塚線,\r\nWiFi, スマホスタンド, エアコン\r\nGBP",
+      "lat": "34.810263830336616",
+      "lng": "135.34095926381374",
+      "floorMapId": "175",
+      "link": "https://telecube.jp/location/sorio2/"
+    }
+  },
+  {
     "id": 6029,
     "acf": {
       "buildingName": "JRE東二番丁スクエア",
@@ -2440,7 +2624,7 @@
       "installationTime": "平日土日祝 7:00-21:00",
       "detailInfo": [
         {
-          "detailInfo": "１人用：１台"
+          "detailInfo": "1人用：1台"
         }
       ],
       "station": "田端駅",
@@ -2448,18 +2632,18 @@
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3238.511359752637!2d139.7570295152603!3d35.738234180181124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188de9d8bec247%3A0x8a1929306ba5b176!2z44CSMTE0LTAwMTQg5p2x5Lqs6YO95YyX5Yy655Sw56uv77yW5LiB55uu77yR4oiS77yRIOeUsOerr--8oe-8s--8te-8q--8oeOCv-ODr-ODvA!5e0!3m2!1sja!2sjp!4v1633487441729!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
       "imgSlider": [
         {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/10/田端ASUKA_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/10/田端ASUKA_2.jpg"
+        },
+        {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/10/tabata_asuka_tower_2.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/10/tabata_asuka_tower_7.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/10/tabata_asuka_tower_8.jpg"
         }
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/10/tabata_asuka_tower_floormap.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/10/田端ASUKAタワーフロア図_202212.png"
         }
       ],
       "workingDay": [
@@ -2475,7 +2659,7 @@
       "campaign": [
         "週末価格"
       ],
-      "keyword": "田端ASUKAタワー,タバタアスカタワー,120-01,田端駅,JR東日本,山手線,京浜東北線,東京,北区,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,GBP",
+      "keyword": "田端ASUKAタワー,タバタアスカタワー,120-01,\r\n田端駅,\r\nJR東日本,山手線,京浜東北線,\r\n東京,北区,\r\n電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,\r\nGBP",
       "lat": "35.73802519",
       "lng": "139.7596152",
       "floorMapId": "126",
@@ -4042,7 +4226,7 @@
       "installationTime": "平日土日祝 8:00-20:00",
       "detailInfo": [
         {
-          "detailInfo": "1人用：2台"
+          "detailInfo": "1人用：3台"
         }
       ],
       "station": "品川シーサイド駅・青物横丁駅",
@@ -4050,7 +4234,10 @@
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3243.7452549367235!2d139.7458004651094!3d35.60934998021108!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z5ZOB5bed44K344O844K144Kk44OJ44OR44O844Kv44K_44Ov44O8!5e0!3m2!1sja!2sjp!4v1615819026772!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
       "imgSlider": [
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/03/shinagawa-seaside-parktower-1f-1.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/03/品川シーサアイド_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/03/品川シーサアイド_2.jpg"
         },
         {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/03/shinagawa-seaside-parktower-1f-2.jpg"
@@ -4058,7 +4245,7 @@
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/03/shinagawa-seaside-parktower-1f.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/03/品川シーサイドパークタワーフロア図_202212.png"
         }
       ],
       "workingDay": [
@@ -4071,7 +4258,7 @@
       "campaign": [
         "週末価格"
       ],
-      "keyword": "品川シーサイドパークタワー,シナガワシーサイドパークタワー,93-01,93-02,品川シーサイド駅,青物横丁駅,りんかい線,京浜急行電鉄,京急電鉄,本線,東京,品川区,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド, GBP",
+      "keyword": "品川シーサイドパークタワー,シナガワシーサイドパークタワー,93-01,93-02,\r\n品川シーサイド駅,青物横丁駅,\r\nりんかい線,京浜急行電鉄,京急電鉄,本線,\r\n東京,品川区,\r\n電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド, \r\nGBP",
       "lat": "35.6102679",
       "lng": "139.748099",
       "floorMapId": "97",
