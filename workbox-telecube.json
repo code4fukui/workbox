@@ -1602,10 +1602,10 @@
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1620.3649928255527!2d139.76590914950305!3d35.683650014707034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bf9274299a5%3A0x150fcc903bcec163!2z44CSMTAwLTAwMDUg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy65Li444Gu5YaF77yR5LiB55uu77yW4oiS77yVIOS4uOOBruWGheWMl-WPo-ODk-ODq-ODh-OCo-ODs-OCsA!5e0!3m2!1sja!2sjp!4v1653268180408!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
       "imgSlider": [
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/05/iOS-の画像-85.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/05/丸の内北口ビル_1.jpg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/05/iOS-の画像-82.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/05/丸の内北口ビル_2.jpg"
         },
         {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/05/iOS-の画像-84.jpg"
@@ -1746,7 +1746,7 @@
   {
     "id": 4778,
     "acf": {
-      "buildingName": "横浜駅　南北連絡通路",
+      "buildingName": "横浜駅 南北連絡通路",
       "furigana": "ヨコハマエキ",
       "adress": "神奈川県横浜市西区南幸1-1-1",
       "access": [
@@ -1760,7 +1760,7 @@
       "installationTime": "平日土日祝 7:00-21:00",
       "detailInfo": [
         {
-          "detailInfo": "1人用：2台"
+          "detailInfo": "1人用：4台"
         }
       ],
       "station": "横浜駅",
@@ -1768,21 +1768,18 @@
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3249.5480781785063!2d139.61987331525293!3d35.46598108024506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60185c0df6cfd2f1%3A0xbbbca6f36b5235f5!2z5qiq5rWc6aeF!5e0!3m2!1sja!2sjp!4v1648185893643!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
       "imgSlider": [
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/03/yokohama_1.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/03/横浜駅_1.jpg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/03/yokohama_7.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/03/横浜駅_2.jpg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/03/yokohama_8.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/03/yokohama_2561.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/03/横浜駅_3.jpg"
         }
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/03/yokohama_floormap.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/03/横浜駅フロア図202212.png"
         }
       ],
       "workingDay": [
@@ -1798,7 +1795,7 @@
       "campaign": [
         "週末価格"
       ],
-      "keyword": "横浜駅,ヨコハマエキ,128-01,128-02,横浜駅,JR東日本,東海道線,横須賀線,京浜東北線,根岸線,横浜線,東急東横線,東急電鉄,みなとみらい線,京浜急行電鉄,京急電鉄,本線,相模鉄道,相鉄線,横浜市営地下鉄,ブルーライン,神奈川県,横浜市,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,エアコン（ブース内 or 施設内）,GBP",
+      "keyword": "横浜駅,ヨコハマエキ,128-01,128-02,\r\n横浜駅,\r\nJR東日本,東海道線,横須賀線,京浜東北線,根岸線,横浜線,東急東横線,東急電鉄,みなとみらい線,京浜急行電鉄,京急電鉄,本線,相模鉄道,相鉄線,横浜市営地下鉄,ブルーライン,\r\n神奈川県,横浜市,\r\n電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,エアコン（ブース内 or 施設内）,\r\nGBP",
       "lat": "35.46636",
       "lng": "139.62227",
       "floorMapId": "141",
@@ -5956,13 +5953,7 @@
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d991.8721736432863!2d139.76662684329284!3d35.68509319725142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bf8cf593ccb%3A0x204f5a366827648a!2z44CSMTAwLTAwMDQg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy65aSn5omL55S677yS5LiB55uu77yS4oiS77yRIOaWsOWkp-aJi-eUuuODk-ODq-ODguODs-OCsA!5e0!3m2!1sja!2sjp!4v1623419187859!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
       "imgSlider": [
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/10/Shin-otemachi-bld-1f-1.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/10/Shin-otemachi-bld-1f-2.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/10/Shin-otemachi-bld-1f-3.jpg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/10/新大手町_1.jpg"
         }
       ],
       "imgDetail": [
