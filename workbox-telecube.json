@@ -1,5 +1,76 @@
 [
   {
+    "id": 6097,
+    "acf": {
+      "buildingName": "丸の内ブリックスクエア(丸の内パークビル)",
+      "furigana": "マルノウチブリックスクエア(マルノウチパークビル)",
+      "adress": "東京都千代田区丸の内2-6-1",
+      "access": [
+        {
+          "access": "B2F 千代田線二重橋駅側エスカレータ裏側"
+        },
+        {
+          "access": "　"
+        },
+        {
+          "access": "JR東京駅/丸の内南口より徒歩5分"
+        },
+        {
+          "access": "JR有楽町駅/国際フォーラム口より徒歩5分"
+        },
+        {
+          "access": "丸ノ内線東京駅/地下道直結"
+        },
+        {
+          "access": "千代田線二重橋前駅 徒歩3分"
+        },
+        {
+          "access": "有楽町線有楽町駅 徒歩5分"
+        }
+      ],
+      "installationTime": "平日: 7:00 〜 21:00<p>\r\n土日祝日: 7:00 〜 14:00, 15:00 〜 21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：3台"
+        }
+      ],
+      "station": "東京駅・有楽町駅・二重橋駅",
+      "facility": "・24時間連続稼働換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1620.4618517255751!2d139.76162595859535!3d35.678880598762156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b0bef3f5751%3A0x737f3d8868bf9b07!2z5Li444Gu5YaF44OW44Oq44OD44Kv44K544Kv44Ko44Ki!5e0!3m2!1sja!2sjp!4v1672961805797!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/01/丸の内パークビル1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/01/丸の内パークビル2.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2023/01/丸の内パークフロア図.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "丸の内ブリックスクエア,丸の内パークビル,マルノウチブリックスクエア,マルノウチパークビル,\r\n東京駅,二重橋前駅,JR東日本,山手線,京浜東北線,中央線,東海道線,横須賀線,総武線,京葉線,東京メトロ,千代田線,\r\n東京,千代田区,\r\n電源(コンセント / USB),WiFi（ブース内 or 施設内）, \r\nGBP",
+      "lat": "35.679110457034426",
+      "lng": "139.76279070788596",
+      "floorMapId": "177",
+      "link": "https://telecube.jp/location/marunouchiparkbldg/"
+    }
+  },
+  {
     "id": 6074,
     "acf": {
       "buildingName": "仙台空港（1F国際線到着ロビー側）",

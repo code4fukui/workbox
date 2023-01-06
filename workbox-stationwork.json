@@ -8360,6 +8360,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 730,
+    "floor_name": "東小金井駅改札内",
+    "booth": true,
+    "desk": false,
+    "distance": 22064.546312817532,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "東京都小金井市 梶野町5-1-1 東小金井駅",
+    "floor_name_kana": "ヒガシコガネイエキカイサツナイ",
+    "type": 2,
+    "telecube_id": 1397,
+    "type_name": "BOOTH"
+  },
+  {
     "floor_id": 446,
     "floor_name": "東十条駅北口改札内",
     "booth": true,
@@ -8377,6 +8397,26 @@
     "floor_name_kana": "ヒガシジュウジョウエキキタグチカイサツナイ",
     "type": 2,
     "telecube_id": 915,
+    "type_name": "BOOTH"
+  },
+  {
+    "floor_id": 728,
+    "floor_name": "東所沢駅改札外",
+    "booth": true,
+    "desk": false,
+    "distance": 26043.26120145235,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "埼玉県所沢市 東所沢 ５丁目21 東所沢駅",
+    "floor_name_kana": "ヒガシトコロザワエキカイサツガイ",
+    "type": 2,
+    "telecube_id": 1395,
     "type_name": "BOOTH"
   },
   {
