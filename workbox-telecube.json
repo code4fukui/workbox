@@ -43,11 +43,14 @@
         },
         {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/01/丸の内パークビル2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/01/丸の内パーク3.jpg"
         }
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2023/01/丸の内パークフロア図.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2023/01/丸の内パーク仮修正.png"
         }
       ],
       "workingDay": [
