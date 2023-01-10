@@ -1780,6 +1780,26 @@
     "type_name": "その他(WeWork等)"
   },
   {
+    "floor_id": 738,
+    "floor_name": "AMCCビジネスラウンジ",
+    "booth": false,
+    "desk": false,
+    "distance": 910073.4006958058,
+    "partner_flg": true,
+    "partner2_flg": 1,
+    "open_time_weekday": "09:00",
+    "close_time_weekday": "18:00",
+    "open_time_saturday": null,
+    "close_time_saturday": null,
+    "open_time_sunday": null,
+    "close_time_sunday": null,
+    "address_detail": "佐賀県佐賀市 八幡小路1-7",
+    "floor_name_kana": "エーエムシーシービジネスラウンジ",
+    "type": 3,
+    "telecube_id": 1418,
+    "type_name": "その他(WeWork等)"
+  },
+  {
     "floor_id": 706,
     "floor_name": "Oasisコワーキングスペース町田",
     "booth": false,
