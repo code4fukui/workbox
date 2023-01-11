@@ -1471,7 +1471,7 @@
       "installationTime": "平日 9:00～21:00 / 土曜 9:00～16:00",
       "detailInfo": [
         {
-          "detailInfo": "1人用：10"
+          "detailInfo": "1人用：10台"
         }
       ],
       "station": "有楽町駅",
@@ -1601,7 +1601,7 @@
       "installationTime": "平日土日祝 : 7:00 - 21:00",
       "detailInfo": [
         {
-          "detailInfo": "1人用: 3台"
+          "detailInfo": "1人用: 4台"
         }
       ],
       "station": "1人用: 1台",
@@ -1609,7 +1609,7 @@
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d817.2012892644766!2d135.75818502924622!3d34.98654489877258!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001090bccb0eeab%3A0x300da0bd3bf5b6bc!2z44OG44Os44Kt44Ol44O844OW!5e0!3m2!1sja!2sjp!4v1658479507610!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
       "imgSlider": [
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/07/IMG_3187.jpeg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/07/京都ポルタ20221.jpg"
         },
         {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/07/IMG_3183.jpeg"
@@ -1622,14 +1622,11 @@
         },
         {
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/07/IMG_3186.jpeg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2022/07/IMG_3185.jpeg"
         }
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/07/京都ポルタmap.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2022/07/京都ポルタフロア図.png"
         }
       ],
       "workingDay": [
