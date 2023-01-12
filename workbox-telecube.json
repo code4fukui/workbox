@@ -1,5 +1,64 @@
 [
   {
+    "id": 6129,
+    "acf": {
+      "buildingName": "半蔵門ビル",
+      "furigana": "ハンゾウモンビル",
+      "adress": "東京都千代田区麹町2-7-14",
+      "access": [
+        {
+          "access": "半蔵門ビル B2F 1・2番出口直結（国立劇場方面）"
+        },
+        {
+          "access": "　"
+        },
+        {
+          "access": "半蔵門線 半蔵門駅 直結"
+        },
+        {
+          "access": "有楽町線 麹町駅 徒歩7分"
+        }
+      ],
+      "installationTime": "平日: 7:00 〜 19:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：13台"
+        }
+      ],
+      "station": "半蔵門駅・麹町駅",
+      "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n・WEB会議用LED照明<br />\r\n・モニター（HDMI対応）<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d810.1825871405731!2d139.74082522757962!3d35.68364108019368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c7a91af8683%3A0xc0933753956df597!2z44CSMTAyLTAwODMg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy66bq555S677yS5LiB55uu77yX4oiS77yR77yUIOWNiuiUtemWgOODk-ODqw!5e0!3m2!1sja!2sjp!4v1673410448142!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/01/半蔵門ビル1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/01/半蔵門ビル2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/01/半蔵門ビル3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2023/01/半蔵門ビルフロア図.png"
+        }
+      ],
+      "workingDay": [
+        "平日"
+      ],
+      "lateNightService": [
+        "朝7時から"
+      ],
+      "campaign": "",
+      "keyword": "半蔵門ビル, ハンゾウモンビル,\r\n半蔵門線, 有楽町線, 東京都千代田区麹町,\r\n電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,モニター,LED照明, \r\nWEB会議センター,GBP",
+      "lat": "35.683602954255626",
+      "lng": "139.74132009515455",
+      "floorMapId": "178",
+      "link": "https://telecube.jp/location/hanzoumonbldg/"
+    }
+  },
+  {
     "id": 6111,
     "acf": {
       "buildingName": "東京宝塚ビル",
