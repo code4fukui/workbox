@@ -2,7 +2,7 @@
   {
     "id": 6129,
     "acf": {
-      "buildingName": "半蔵門ビル",
+      "buildingName": "半蔵門ビル（WEB会議センター）",
       "furigana": "ハンゾウモンビル",
       "adress": "東京都千代田区麹町2-7-14",
       "access": [
@@ -166,7 +166,7 @@
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2023/01/丸の内パーク仮修正.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2023/01/0116_丸の内パークビル.png"
         }
       ],
       "workingDay": [
