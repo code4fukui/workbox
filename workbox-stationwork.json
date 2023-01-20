@@ -8140,6 +8140,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 744,
+    "floor_name": "Newテラス広小路(秋田市)",
+    "booth": false,
+    "desk": false,
+    "distance": 449174.3908963907,
+    "partner_flg": true,
+    "partner2_flg": 1,
+    "open_time_weekday": "09:00",
+    "close_time_weekday": "18:00",
+    "open_time_saturday": "09:00",
+    "close_time_saturday": "18:00",
+    "open_time_sunday": "09:00",
+    "close_time_sunday": "18:00",
+    "address_detail": "秋田県秋田市千秋明徳町 1番56号",
+    "floor_name_kana": "ニューテラスヒロコウジ(アキタシ)",
+    "type": 3,
+    "telecube_id": 1430,
+    "type_name": "その他(WeWork等)"
+  },
+  {
     "floor_id": 528,
     "floor_name": "NewDays北浦和店(改札外西口 1F)",
     "booth": true,
