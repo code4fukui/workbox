@@ -1,5 +1,25 @@
 [
   {
+    "floor_id": 749,
+    "floor_name": "(tefu) lounge 下北沢",
+    "booth": false,
+    "desk": false,
+    "distance": 9321.259653657413,
+    "partner_flg": true,
+    "partner2_flg": 1,
+    "open_time_weekday": "09:00",
+    "close_time_weekday": "21:00",
+    "open_time_saturday": "09:00",
+    "close_time_saturday": "21:00",
+    "open_time_sunday": "09:00",
+    "close_time_sunday": "21:00",
+    "address_detail": "東京都世田谷区北沢 2-21-22",
+    "floor_name_kana": "(テフ)ラウンジシモキタザワ",
+    "type": 3,
+    "telecube_id": 1448,
+    "type_name": "その他(WeWork等)"
+  },
+  {
     "floor_id": 532,
     "floor_name": "JR新宿ミライナタワー　５F オフィスロビーエスカレーター正面",
     "booth": true,
@@ -9637,6 +9657,26 @@
     "floor_name_kana": "ビズコンフォートチバニシグチ",
     "type": 3,
     "telecube_id": 1038,
+    "type_name": "その他(WeWork等)"
+  },
+  {
+    "floor_id": 761,
+    "floor_name": "BIZcomfort所沢駅前",
+    "booth": false,
+    "desk": false,
+    "distance": 28888.85540505679,
+    "partner_flg": true,
+    "partner2_flg": 1,
+    "open_time_weekday": "09:00",
+    "close_time_weekday": "18:00",
+    "open_time_saturday": null,
+    "close_time_saturday": null,
+    "open_time_sunday": null,
+    "close_time_sunday": null,
+    "address_detail": "埼玉県所沢市 くすのき台1-13-2 ガーデンシティ所沢2F",
+    "floor_name_kana": "ビズコンフォートトコロザワエキマエ",
+    "type": 3,
+    "telecube_id": 1466,
     "type_name": "その他(WeWork等)"
   },
   {
