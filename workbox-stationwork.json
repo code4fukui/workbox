@@ -4341,7 +4341,7 @@
   },
   {
     "floor_id": 743,
-    "floor_name": "シェアオフィスHATA-LARK",
+    "floor_name": "シェアオフィスHATA-LARK（志木）",
     "booth": false,
     "desk": false,
     "distance": 23321.662088063847,
@@ -4354,7 +4354,7 @@
     "open_time_sunday": null,
     "close_time_sunday": null,
     "address_detail": "埼玉県新座市 東北2-36-11",
-    "floor_name_kana": "シェアオフィスハタラーク",
+    "floor_name_kana": "シェアオフィスハタラークシキ",
     "type": 3,
     "telecube_id": 1463,
     "type_name": "その他(WeWork等)"
