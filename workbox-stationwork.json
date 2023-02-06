@@ -7760,6 +7760,26 @@
     "type_name": "ホテルシェアオフィス"
   },
   {
+    "floor_id": 753,
+    "floor_name": "東京モノレール 天王洲アイル駅中央改札外",
+    "booth": true,
+    "desk": false,
+    "distance": 6615.938302119541,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "東京都品川区 東品川2-3-8 東京モノレール　天王洲アイル駅",
+    "floor_name_kana": "トウキョウモノレール テンノウズアイルエキチュウオウカイサツガイ",
+    "type": 2,
+    "telecube_id": 1455,
+    "type_name": "BOOTH"
+  },
+  {
     "floor_id": 652,
     "floor_name": "徳島駅改札外",
     "booth": true,
@@ -8137,6 +8157,26 @@
     "floor_name_kana": "ナスシオバラエキカイサツガイ",
     "type": 2,
     "telecube_id": 776,
+    "type_name": "BOOTH"
+  },
+  {
+    "floor_id": 756,
+    "floor_name": "奈良駅改札内",
+    "booth": true,
+    "desk": false,
+    "distance": 376268.67471322964,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "奈良県奈良市 三条本町1-1 奈良駅",
+    "floor_name_kana": "ナラエキカイサツナイ",
+    "type": 2,
+    "telecube_id": 1458,
     "type_name": "BOOTH"
   },
   {
