@@ -1,5 +1,70 @@
 [
   {
+    "id": 6184,
+    "acf": {
+      "buildingName": "【2/17オープン予定】新千歳空港",
+      "furigana": "シンチトセクウコウ",
+      "adress": "北海道千歳市美々",
+      "access": [
+        {
+          "access": "新千歳空港内"
+        },
+        {
+          "access": "　1-3号機：1階北側（ANA側）"
+        },
+        {
+          "access": "　4-6号機：1階南側（JAL側）"
+        },
+        {
+          "access": "　7-9号機：2階国内線‐国際線連絡通路"
+        }
+      ],
+      "installationTime": "平日土日祝: 7:00 〜 21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：9台"
+        }
+      ],
+      "station": "新千歳空港",
+      "facility": "・24時間連続稼働換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2928.0705170069946!2d141.6780172207069!3d42.78685909485011!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f75206a59b85665%3A0xbb7cafe62704ee3d!2z5paw5Y2D5q2z56m65riv6aeF!5e0!3m2!1sja!2sjp!4v1676381602381!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/02/ShinChitose_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/02/ShinChitose_2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/02/ShinChitose_3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2023/02/ShinChitoseAirport_floormap.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "新千歳空港, シンチトセクウコウ,\r\n新千歳空港駅, 千歳線, JR北海道,\r\n北海道,千歳市,札幌,\r\n電源(コンセント / USB),WiFi（ブース内 or 施設内）, \r\nGBP",
+      "lat": "42.787567727300754",
+      "lng": "141.68023808973464",
+      "floorMapId": "173",
+      "link": "https://telecube.jp/location/shinchitoseairport/"
+    }
+  },
+  {
     "id": 6156,
     "acf": {
       "buildingName": "Pedi汐留（東京汐留ビルディング内）",
