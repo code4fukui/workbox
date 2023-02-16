@@ -5160,6 +5160,26 @@
     "type_name": "ホテルシェアオフィス"
   },
   {
+    "floor_id": 763,
+    "floor_name": "JRE Local Hub 燕三条",
+    "booth": false,
+    "desk": false,
+    "distance": 230427.03062691898,
+    "partner_flg": true,
+    "partner2_flg": 1,
+    "open_time_weekday": "10:00",
+    "close_time_weekday": "19:00",
+    "open_time_saturday": "10:00",
+    "close_time_saturday": "19:00",
+    "open_time_sunday": "10:00",
+    "close_time_sunday": "19:00",
+    "address_detail": "新潟県三条市 下須頃４９７ 燕三条駅",
+    "floor_name_kana": "ジェイアールイーローカルハブツバメサンジョウ",
+    "type": 3,
+    "telecube_id": 1470,
+    "type_name": "その他(WeWork等)"
+  },
+  {
     "floor_id": 113,
     "floor_name": "JR恵比寿ビル1Fエントランス",
     "booth": true,

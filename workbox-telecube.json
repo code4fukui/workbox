@@ -1,8 +1,64 @@
 [
   {
+    "id": 6211,
+    "acf": {
+      "buildingName": "広島空港",
+      "furigana": "ヒロシマクウコウ",
+      "adress": "広島県三原市本郷町善入寺64−31",
+      "access": [
+        {
+          "access": "2階 ビジネスラウンジもみじ前"
+        }
+      ],
+      "installationTime": "平日土日祝: 7:00 〜 21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：2台"
+        }
+      ],
+      "station": "広島空港",
+      "facility": "・24時間連続稼働換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6580.952671452169!2d132.91874870526445!3d34.44005444925941!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3550566830ad0f01%3A0x9eda5c6a48e55194!2z5bqD5bO256m65riv!5e0!3m2!1sja!2sjp!4v1676550114348!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/02/HiroshimaAirport_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/02/HiroshimaAirport_2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/02/HiroshimaAirport_3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2023/02/HiroshimaAirport_floormap.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで"
+      ],
+      "campaign": [
+        "特別価格"
+      ],
+      "keyword": "広島空港, ヒロシマクウコウ,\r\n広島県,三原市,\r\n電源(コンセント / USB),WiFi（ブース内 or 施設内）, \r\nGBP",
+      "lat": "34.4398376664217413292012199632472",
+      "lng": "132.92012199632472",
+      "floorMapId": "182",
+      "link": "https://telecube.jp/location/hiroshimaairport/"
+    }
+  },
+  {
     "id": 6184,
     "acf": {
-      "buildingName": "【2/17オープン予定】新千歳空港",
+      "buildingName": "新千歳空港",
       "furigana": "シンチトセクウコウ",
       "adress": "北海道千歳市美々",
       "access": [
@@ -2812,7 +2868,7 @@
   {
     "id": 3657,
     "acf": {
-      "buildingName": "セブン‐イレブン 台東駒形１丁目店",
+      "buildingName": "【営業終了】セブン‐イレブン 台東駒形１丁目店",
       "adress": "東京都台東区駒形1丁目3-16駒形プラザビル1F",
       "access": [
         {
@@ -3111,7 +3167,7 @@
   {
     "id": 3357,
     "acf": {
-      "buildingName": "セブン‐イレブン 立川南駅前店",
+      "buildingName": "【営業終了】セブン‐イレブン 立川南駅前店",
       "adress": "東京都立川市柴崎町3丁目6-23LXビル1F",
       "access": [
         {
@@ -3169,7 +3225,7 @@
       "lat": "35.69572343",
       "lng": "139.4127119",
       "floorMapId": "124",
-      "furigana": "セブンイレブン タチカワミナミエキマエテン",
+      "furigana": "【営業終了】セブンイレブン タチカワミナミエキマエテン",
       "link": "https://telecube.jp/location/seven-eleven-tachikawaminamiekimaeten/"
     }
   },
@@ -3232,7 +3288,7 @@
   {
     "id": 3298,
     "acf": {
-      "buildingName": "セブン‐イレブン 東武曳舟駅前店",
+      "buildingName": "【営業終了】セブン‐イレブン 東武曳舟駅前店",
       "adress": "東京都墨田区東向島2-16-14ナンカイビル1階",
       "access": [
         {
@@ -3583,7 +3639,7 @@
   {
     "id": 3007,
     "acf": {
-      "buildingName": "セブン‐イレブン 川崎中原区役所前店",
+      "buildingName": "【営業終了】セブン‐イレブン 川崎中原区役所前店",
       "adress": "神奈川県川崎市中原区小杉町3-247-1",
       "access": [
         {
@@ -3760,7 +3816,7 @@
   {
     "id": 2983,
     "acf": {
-      "buildingName": "セブン‐イレブン ミューザ川崎フロアツー店",
+      "buildingName": "【営業終了】セブン‐イレブン ミューザ川崎フロアツー店",
       "adress": "神奈川県川崎市幸区大宮町1310番地 ミューザ川崎2F",
       "access": [
         {
@@ -4301,7 +4357,7 @@
   {
     "id": 2479,
     "acf": {
-      "buildingName": "セブン‐イレブン 市ヶ谷駅西店 ２階イートインコーナー",
+      "buildingName": "【営業終了】セブン‐イレブン 市ヶ谷駅西店 ２階イートインコーナー",
       "adress": "東京都千代田区五番町2-9",
       "access": [
         {
@@ -4650,7 +4706,7 @@
   {
     "id": 2312,
     "acf": {
-      "buildingName": "セブン‐イレブン 神田専大通り店",
+      "buildingName": "【営業終了】セブン‐イレブン 神田専大通り店",
       "adress": "東京都千代田区神田神保町2-38-1",
       "access": [
         {
