@@ -260,26 +260,6 @@
     "type_name": "BOOTH"
   },
   {
-    "floor_id": 56,
-    "floor_name": "秋葉原駅中央改札外",
-    "booth": true,
-    "desk": false,
-    "distance": 2007.5549372546006,
-    "partner_flg": false,
-    "partner2_flg": 0,
-    "open_time_weekday": "07:00",
-    "close_time_weekday": "21:30",
-    "open_time_saturday": "07:00",
-    "close_time_saturday": "21:30",
-    "open_time_sunday": "07:00",
-    "close_time_sunday": "21:30",
-    "address_detail": "東京都千代田区 外神田 １丁目 秋葉原駅",
-    "floor_name_kana": "アキハバラチュウオウカイサツガイ",
-    "type": 2,
-    "telecube_id": 147,
-    "type_name": "BOOTH"
-  },
-  {
     "floor_id": 182,
     "floor_name": "秋葉原ワシントンホテル",
     "booth": false,
