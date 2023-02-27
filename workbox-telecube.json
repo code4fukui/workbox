@@ -1,5 +1,59 @@
 [
   {
+    "id": 6248,
+    "acf": {
+      "buildingName": "大手町ビル １階",
+      "furigana": "オオテマチビル",
+      "adress": "東京都千代田区大手町1丁目6-1",
+      "access": [
+        {
+          "access": "地下鉄各線 大手町駅 直結（最寄出口：C7/E2）"
+        }
+      ],
+      "installationTime": "平日 8:00-21:00 / 土8:00-18:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：6台"
+        }
+      ],
+      "station": "大手町駅・東京駅",
+      "facility": "・24時間連続換気<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.6180601540004!2d139.76032393087078!3d35.68640541684064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c07994f4c25%3A0xe4d351d392d17b59!2z44CSMTAwLTAwMDQg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy65aSn5omL55S677yR5LiB55uu77yW4oiS77yRIOWkp-aJi-eUuuODk-ODq-ODguODs-OCsA!5e0!3m2!1sja!2sjp!4v1677457124320!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/02/Otemachibldg_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/02/Otemachibldg_2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/02/Otemachibldg_3.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/02/Otemachibldg_4.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2023/02/Otemachibldg_floormap.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日"
+      ],
+      "lateNightService": [
+        "夜21時まで"
+      ],
+      "campaign": "",
+      "keyword": "大手町ビルヂング,オオテマチビルヂング,\r\n大手町駅,\r\n東京メトロ,東西線,千代田線,半蔵門線,\r\n東京,千代田区,\r\n電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,\r\nGBP",
+      "lat": "",
+      "lng": "",
+      "floorMapId": "184",
+      "link": "https://telecube.jp/location/otemachibldg/"
+    }
+  },
+  {
     "id": 6211,
     "acf": {
       "buildingName": "広島空港",
@@ -2866,71 +2920,6 @@
     }
   },
   {
-    "id": 3657,
-    "acf": {
-      "buildingName": "【営業終了】セブン‐イレブン 台東駒形１丁目店",
-      "adress": "東京都台東区駒形1丁目3-16駒形プラザビル1F",
-      "access": [
-        {
-          "access": "大江戸線「蔵前駅」徒歩１分"
-        },
-        {
-          "access": "浅草線「蔵前駅」徒歩3分"
-        },
-        {
-          "access": "浅草線「浅草駅」徒歩6分"
-        },
-        {
-          "access": "※徒歩時間は施設までの時間であり、テレキューブまでの時間ではありませんのでご注意ください"
-        }
-      ],
-      "installationTime": "平日土日祝 7:00-21:00",
-      "detailInfo": [
-        {
-          "detailInfo": "１人用：１台"
-        }
-      ],
-      "station": "蔵前駅・浅草駅",
-      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
-      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.8288427147963!2d139.79155241525942!3d35.7058292801886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188ec8040e3389%3A0xefdd1134e056cd8!2z44K744OW44Oz44Kk44Os44OW44OzIOWPsOadsemnkuW9ou-8keS4geebruW6lw!5e0!3m2!1sja!2sjp!4v1635476976304!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
-      "imgSlider": [
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/10/711_taitoukomagataichichometen_1.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/10/711_taitoukomagataichichometen_4.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/10/711_taitoukomagataichichometen_5.jpg"
-        }
-      ],
-      "imgDetail": [
-        {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/10/711_taitoukomagataichichometen_floormap.png"
-        }
-      ],
-      "workingDay": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "lateNightService": [
-        "朝7時から",
-        "夜21時まで"
-      ],
-      "campaign": [
-        "週末価格"
-      ],
-      "keyword": "セブン‐イレブン 台東駒形１丁目店,セブンイレブン タイトウコマガタイッチョウメテン,122-01,蔵前駅,浅草駅,都営地下鉄,大江戸線,東京,台東区,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,広告掲載,GBP",
-      "lat": "35.7059053",
-      "lng": "139.793688",
-      "floorMapId": "127",
-      "furigana": "セブンイレブン タイトウコマガタイッチョウメテン",
-      "link": "https://telecube.jp/location/seven-eleven-taitoukomagataichichometen/"
-    }
-  },
-  {
     "id": 3408,
     "acf": {
       "buildingName": "京阪電鉄　京橋駅",
@@ -3165,71 +3154,6 @@
     }
   },
   {
-    "id": 3357,
-    "acf": {
-      "buildingName": "【営業終了】セブン‐イレブン 立川南駅前店",
-      "adress": "東京都立川市柴崎町3丁目6-23LXビル1F",
-      "access": [
-        {
-          "access": "JR立川駅南口から徒歩3分"
-        },
-        {
-          "access": "多摩モノレール立川南駅から徒歩1分"
-        },
-        {
-          "access": "※徒歩時間は施設までの時間であり、テレキューブまでの時間ではありませんのでご注意ください"
-        }
-      ],
-      "installationTime": "平日土日祝 7:00-21:00",
-      "detailInfo": [
-        {
-          "detailInfo": "１人用：１台"
-        }
-      ],
-      "station": "立川駅・立川南駅",
-      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
-      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.238566793569!2d139.41045855064874!3d35.6957464800937!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018e1387355859b%3A0x7251b5133d2b4eac!2z44K744OW44Oz44Kk44Os44OW44OzIOeri-W3neWNl-mnheWJjeW6lw!5e0!3m2!1sja!2sjp!4v1632891107960!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
-      "imgSlider": [
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/09/711_tachikawaminamiekimaeten_12.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/09/711_tachikawaminamiekimaeten_4.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/09/711_tachikawaminamiekimaeten_7.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/09/711_tachikawaminamiekimaeten_8.jpg"
-        }
-      ],
-      "imgDetail": [
-        {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/09/711_tachikawaminamiekimaeten_floormap.png"
-        }
-      ],
-      "workingDay": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "lateNightService": [
-        "朝7時から",
-        "夜21時まで"
-      ],
-      "campaign": [
-        "週末価格"
-      ],
-      "keyword": "セブン‐イレブン 立川南駅前店,セブンイレブン タチカワミナミエキマエテン,118-01,立川駅,立川南駅,JR東日本,中央線,青梅線,南武線,多摩都市モノレール,東京,立川市,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,広告掲載,GBP",
-      "lat": "35.69572343",
-      "lng": "139.4127119",
-      "floorMapId": "124",
-      "furigana": "【営業終了】セブンイレブン タチカワミナミエキマエテン",
-      "link": "https://telecube.jp/location/seven-eleven-tachikawaminamiekimaeten/"
-    }
-  },
-  {
     "id": 3307,
     "acf": {
       "buildingName": "中野セントラルパークイースト",
@@ -3283,65 +3207,6 @@
       "floorMapId": "122",
       "furigana": "ナカノセントラルパークイースト",
       "link": "https://telecube.jp/location/nakanocentralpark-east/"
-    }
-  },
-  {
-    "id": 3298,
-    "acf": {
-      "buildingName": "【営業終了】セブン‐イレブン 東武曳舟駅前店",
-      "adress": "東京都墨田区東向島2-16-14ナンカイビル1階",
-      "access": [
-        {
-          "access": "東武線曳舟駅西口から徒歩1分"
-        },
-        {
-          "access": "※徒歩時間は施設までの時間であり、テレキューブまでの時間ではありませんのでご注意ください"
-        }
-      ],
-      "installationTime": "平日土日祝 7:00-21:00",
-      "detailInfo": [
-        {
-          "detailInfo": "１人用：１台"
-        }
-      ],
-      "station": "曳舟駅",
-      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
-      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.3229575528153!2d139.81414671525985!3d35.71827508018568!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188f271c554a0b%3A0x887d7dbcbe1bfcf8!2z44K744OW44OzLeOCpOODrOODluODsyDmnbHmrabmm7PoiJ_pp4XliY3lupc!5e0!3m2!1sja!2sjp!4v1630639522816!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
-      "imgSlider": [
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/09/tobu_hikifuneekimaeten.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/09/tobu_hikifuneekimaeten_2.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/09/tobu_hikifuneekimaeten_3.jpg"
-        }
-      ],
-      "imgDetail": [
-        {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/09/tobu_hikifuneekimaeten_floormap.png"
-        }
-      ],
-      "workingDay": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "lateNightService": [
-        "朝7時から",
-        "夜21時まで"
-      ],
-      "campaign": [
-        "週末価格"
-      ],
-      "keyword": "セブン‐イレブン 東武曳舟駅前店,セブンイレブン トウブヒキフネエキマエテン,116-01,曳舟駅,東武鉄道,伊勢崎線,東武スカイツリーライン,亀戸線,東京,墨田区,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,広告掲載,GBP",
-      "lat": "35.71829198",
-      "lng": "139.8162915",
-      "floorMapId": "120",
-      "furigana": "セブンイレブン トウブヒキフネエキマエテン",
-      "link": "https://telecube.jp/location/seven-eleven-tobuhikifuneekimaeten/"
     }
   },
   {
@@ -3401,62 +3266,6 @@
       "floorMapId": "119",
       "furigana": "ケイハンデンテツ ヨドヤバシエキ",
       "link": "https://telecube.jp/location/keihandentetsu-yodoyabashi/"
-    }
-  },
-  {
-    "id": 3063,
-    "acf": {
-      "buildingName": "セブン‐イレブン ハイアットリージェンシー東京店",
-      "adress": "東京都新宿区西新宿2-7-2",
-      "access": [
-        {
-          "access": "都営大江戸線「都庁前駅」(A7出口)から徒歩3分"
-        },
-        {
-          "access": "※徒歩時間は施設までの時間であり、テレキューブまでの時間ではありませんのでご注意ください"
-        }
-      ],
-      "installationTime": "平日土日祝 7:00-21:00",
-      "detailInfo": [
-        {
-          "detailInfo": "１人用：１台"
-        }
-      ],
-      "station": "都庁前駅",
-      "facility": "・24時間連続換気ファン<br />\r\n・WiFi（LTE回線を利用したベストエフォートでの提供となります）<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
-      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.4400192380353!2d139.68947131525897!3d35.6907880801921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f32acd6c090f%3A0x4471bc4422af9138!2z44K744OW44OzLeOCpOODrOODluODsyDjg4_jgqTjgqLjg4Pjg4jjg6rjg7zjgrjjgqfjg7Pjgrfjg7zmnbHkuqzlupc!5e0!3m2!1sja!2sjp!4v1626667091083!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
-      "imgSlider": [
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/07/S__3883038_.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/07/S__3883040_.jpg"
-        }
-      ],
-      "imgDetail": [
-        {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/07/download-7.png"
-        }
-      ],
-      "workingDay": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "lateNightService": [
-        "朝7時から",
-        "夜21時まで"
-      ],
-      "campaign": [
-        "週末価格"
-      ],
-      "keyword": "セブン‐イレブン ハイアットリージェンシー東京店,セブンイレブン ハイアットリージェンシートウキョウテン,113-01,都庁前駅,都営地下鉄,大江戸線,東京,新宿区,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,広告掲載,ソニー生命,GBP",
-      "lat": "35.6909101",
-      "lng": "139.6912738",
-      "floorMapId": "118",
-      "furigana": "セブンイレブン ハイアットリージェンシートウキョウテン",
-      "link": "https://telecube.jp/location/seven-eleven-hyattregencytokyo/"
     }
   },
   {
@@ -3637,62 +3446,6 @@
     }
   },
   {
-    "id": 3007,
-    "acf": {
-      "buildingName": "【営業終了】セブン‐イレブン 川崎中原区役所前店",
-      "adress": "神奈川県川崎市中原区小杉町3-247-1",
-      "access": [
-        {
-          "access": "JR・東急電鉄「武蔵小杉駅」徒歩約6分"
-        },
-        {
-          "access": "※徒歩時間は施設までの時間であり、テレキューブまでの時間ではありませんのでご注意ください"
-        }
-      ],
-      "installationTime": "平日土日祝 7:00-21:00",
-      "detailInfo": [
-        {
-          "detailInfo": "１人用：１台"
-        }
-      ],
-      "station": "武蔵小杉駅",
-      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
-      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.1166564504847!2d139.65374191525592!3d35.575512380219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f57a2e64b697%3A0x3a54b1d9af576fdf!2z44K744OW44OzLeOCpOODrOODluODsyDlt53ltI7kuK3ljp_ljLrlvbnmiYDliY3lupc!5e0!3m2!1sja!2sjp!4v1625124417115!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
-      "imgSlider": [
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/07/SE川崎中原区役所前店_210701_6_.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/07/SE川崎中原区役所前店_2107050_.jpg"
-        }
-      ],
-      "imgDetail": [
-        {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/07/download-3.png"
-        }
-      ],
-      "workingDay": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "lateNightService": [
-        "朝7時から",
-        "夜21時まで"
-      ],
-      "campaign": [
-        "週末価格"
-      ],
-      "keyword": "セブン‐イレブン 川崎中原区役所前店,セブンイレブン カワサキナカハラクヤクショマエテン,112-01,武蔵小杉駅,JR東日本,横須賀線,総武線,南武線,埼京線,相模鉄道,相鉄線,東急東横線,東急電鉄,神奈川県,川崎市,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,広告掲載,GBP",
-      "lat": "35.5754913",
-      "lng": "139.6559197",
-      "floorMapId": "112",
-      "furigana": "セブンイレブン カワサキナカハラクヤクショマエテン",
-      "link": "https://telecube.jp/location/seven-eleven-kawasakinakaharakuyakusyomae/"
-    }
-  },
-  {
     "id": 2996,
     "acf": {
       "buildingName": "名鉄バスターミナルビル",
@@ -3811,123 +3564,6 @@
       "floorMapId": "113",
       "furigana": "ミナトギンコウ ヒメジチュウオウシテン",
       "link": "https://telecube.jp/location/minatobank-himejichuo/"
-    }
-  },
-  {
-    "id": 2983,
-    "acf": {
-      "buildingName": "【営業終了】セブン‐イレブン ミューザ川崎フロアツー店",
-      "adress": "神奈川県川崎市幸区大宮町1310番地 ミューザ川崎2F",
-      "access": [
-        {
-          "access": "JR川崎駅西口から徒歩3分"
-        },
-        {
-          "access": "※徒歩時間は施設までの時間であり、テレキューブまでの時間ではありませんのでご注意ください"
-        }
-      ],
-      "installationTime": "平日土日祝 8:00-21:00",
-      "detailInfo": [
-        {
-          "detailInfo": "１人用：１台"
-        }
-      ],
-      "station": "川崎駅",
-      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
-      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3246.9224565982913!2d139.6926648152546!3d35.53091388022959!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601861c9a3844c67%3A0xe4d5c8ec67c1851a!2z44K744OW44OzLeOCpOODrOODluODsyDjg5_jg6Xjg7zjgrblt53ltI7jg5Xjg63jgqLjg4Tjg7zlupc!5e0!3m2!1sja!2sjp!4v1625112459816!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
-      "imgSlider": [
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/07/iOS-の画像-1.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/07/iOS-の画像-5.jpg"
-        }
-      ],
-      "imgDetail": [
-        {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/07/download.png"
-        }
-      ],
-      "workingDay": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "lateNightService": [
-        "夜21時まで"
-      ],
-      "campaign": [
-        "週末価格"
-      ],
-      "keyword": "セブン‐イレブン ミューザ川崎フロアツー店,セブンイレブン ミューザカワサキフロアツーテン,111-01,川崎駅,京急川崎駅,JR東日本,東海道線,京浜東北線,南武線,京浜急行電鉄,京急電鉄,本線,大師線,神奈川県,川崎市,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,広告掲載,GBP",
-      "lat": "35.53137062",
-      "lng": "139.6948936",
-      "floorMapId": "111",
-      "furigana": "セブンイレブン ミューザカワサキフロアツーテン",
-      "link": "https://telecube.jp/location/seven-eleven-muzakawasakifloor2/"
-    }
-  },
-  {
-    "id": 2956,
-    "acf": {
-      "buildingName": "セブン‐イレブン けやき広場前店",
-      "adress": "埼玉県さいたま市中央区新都心9",
-      "access": [
-        {
-          "access": "JR京浜東北線・高崎線・宇都宮線「さいたま新都心駅」から徒歩4分"
-        },
-        {
-          "access": "JR埼京線「北与野駅」から徒歩5分"
-        },
-        {
-          "access": "※徒歩時間は施設までの時間であり、テレキューブまでの時間ではありませんのでご注意ください"
-        }
-      ],
-      "installationTime": "平日土日祝 7:00-21:00",
-      "detailInfo": [
-        {
-          "detailInfo": "１人用：１台"
-        }
-      ],
-      "station": "さいたま新都心駅・北与野駅",
-      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
-      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3232.2115000191816!2d139.62845241526463!3d35.8928353801454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018c118706e7a6f%3A0x4c067de3f351e0be!2z44K744OW44OzLeOCpOODrOODluODsyDjgZHjgoTjgY3luoPloLTliY3lupc!5e0!3m2!1sja!2sjp!4v1624938968494!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
-      "imgSlider": [
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/06/IMG_0897_1.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/06/SEけやき広場前店_210629_9.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/06/SEけやき広場前店_210629_10.jpg"
-        }
-      ],
-      "imgDetail": [
-        {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/06/ダウンロード.png"
-        }
-      ],
-      "workingDay": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "lateNightService": [
-        "朝7時から",
-        "夜21時まで"
-      ],
-      "campaign": [
-        "週末価格"
-      ],
-      "keyword": "セブン‐イレブン けやき広場前店,セブンイレブン ケヤキヒロバマエテン,106-01,さいたま新都心駅,北与野駅,JR東日本,宇都宮線,京浜東北線,高崎線,埼京線,埼玉県,さいたま市,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,広告掲載,GBP",
-      "lat": "35.8929958",
-      "lng": "139.6304655",
-      "floorMapId": "110",
-      "furigana": "セブンイレブン ケヤキヒロバマエテン",
-      "link": "https://telecube.jp/location/seven-eleven-keyakihirobamae/"
     }
   },
   {
@@ -4355,71 +3991,6 @@
     }
   },
   {
-    "id": 2479,
-    "acf": {
-      "buildingName": "【営業終了】セブン‐イレブン 市ヶ谷駅西店 ２階イートインコーナー",
-      "adress": "東京都千代田区五番町2-9",
-      "access": [
-        {
-          "access": "JR総武線「市ケ谷駅」より徒歩2分"
-        },
-        {
-          "access": "東京メトロ有楽町線・南北線「市ケ谷駅」より徒歩５分"
-        },
-        {
-          "access": "都営地下鉄新宿線「市ヶ谷駅」より徒歩5分"
-        },
-        {
-          "access": "※徒歩時間は施設までの時間であり、テレキューブまでの時間ではありませんのでご注意ください"
-        }
-      ],
-      "installationTime": "平日土日祝 7:00-21:00",
-      "detailInfo": [
-        {
-          "detailInfo": "１人用：１台"
-        }
-      ],
-      "station": "市ヶ谷駅",
-      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
-      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.457520858163!2d139.73245071511172!3d35.690357280192245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188dc4c9765d6b%3A0x8f422abe834f7656!2z44K744OW44OzLeOCpOODrOODluODsyDluILjg7bosLfpp4Xopb_lupc!5e0!3m2!1sja!2sjp!4v1617144626639!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
-      "imgSlider": [
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/03/711_ichigayaekinishiten_3.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/03/711_ichigayaekinishiten_2.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/03/711_ichigayaekinishiten_5.jpg"
-        }
-      ],
-      "imgDetail": [
-        {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/03/seven-eleven-ichigayaekinishi-2f.png"
-        }
-      ],
-      "workingDay": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "lateNightService": [
-        "朝7時から",
-        "夜21時まで"
-      ],
-      "campaign": [
-        "週末価格"
-      ],
-      "keyword": "セブン‐イレブン 市ヶ谷駅西店,セブンイレブン イチガヤエキニシテン,102-01,市ケ谷駅,JR東日本,中央線,総武線,東京メトロ,南北線,都営地下鉄,東京,千代田区,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,GBP",
-      "lat": "35.69035169",
-      "lng": "139.7346387",
-      "floorMapId": "100",
-      "furigana": "セブンイレブン イチガヤエキニシテン",
-      "link": "https://telecube.jp/location/seven-eleven-ichigayaekinishi-2f/"
-    }
-  },
-  {
     "id": 2431,
     "acf": {
       "buildingName": "飯田橋駅東口ビル　1階",
@@ -4701,65 +4272,6 @@
       "floorMapId": "95",
       "furigana": "ジェイアールニシニホン タカツキエキ",
       "link": "https://telecube.jp/location/jrw-takatsuki-north/"
-    }
-  },
-  {
-    "id": 2312,
-    "acf": {
-      "buildingName": "【営業終了】セブン‐イレブン 神田専大通り店",
-      "adress": "東京都千代田区神田神保町2-38-1",
-      "access": [
-        {
-          "access": "東京メトロ半蔵門線「神保町駅」A2出口より徒歩2分"
-        },
-        {
-          "access": "JR「水道橋駅」より徒歩8分"
-        }
-      ],
-      "installationTime": "平日土日祝 7:00-21:00",
-      "detailInfo": [
-        {
-          "detailInfo": "1人用:1台"
-        }
-      ],
-      "station": "神保町駅・水道橋駅",
-      "facility": "・24時間稼働換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
-      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.1645030249288!2d139.7524397151119!3d35.697569280190564!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c1501f5306f%3A0xb2f2f89e06fede69!2z44K744OW44OzLeOCpOODrOODluODsyDnpZ7nlLDlsILlpKfpgJrjgorlupc!5e0!3m2!1sja!2sjp!4v1614907819157!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
-      "imgSlider": [
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/03/seven-eleven-kandasendaidori-1.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/03/S__3874820_.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/03/seven-eleven-kandasendaidori-2-1.jpg"
-        }
-      ],
-      "imgDetail": [
-        {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/03/seven-eleven-kandasendaidori.png"
-        }
-      ],
-      "workingDay": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "lateNightService": [
-        "朝7時から",
-        "夜21時まで"
-      ],
-      "campaign": [
-        "週末価格"
-      ],
-      "keyword": "セブン‐イレブン 神田専大通り店,セブンイレブン カンダセンダイドオリテン,92-01,神保町駅,水道橋駅,JR東日本,中央線,総武線,都営地下鉄,東京メトロ,半蔵門線,東京,千代田区,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,広告掲載,ソニー生命, GBP",
-      "lat": "35.69756101",
-      "lng": "139.7546457",
-      "floorMapId": "92",
-      "furigana": "セブンイレブン カンダセンダイドオリテン",
-      "link": "https://telecube.jp/location/seven-eleven-kandasendaidori/"
     }
   },
   {
@@ -5693,77 +5205,6 @@
       "floorMapId": "77",
       "furigana": "イトーヨーカドー タテバテン",
       "link": "https://telecube.jp/location/itoyokado-tateba-2f/"
-    }
-  },
-  {
-    "id": 1852,
-    "acf": {
-      "buildingName": "セブン‐イレブン 飯田橋升本ビル店",
-      "adress": "東京都新宿区揚場町1-21",
-      "access": [
-        {
-          "access": "東京メトロ　南北線・東西線・有楽町線「飯田橋駅」より徒歩3分"
-        },
-        {
-          "access": "都営地下鉄　大江戸線「飯田橋駅」より徒歩3分"
-        },
-        {
-          "access": "JR中央・総武線「飯田橋駅」から徒歩4分"
-        }
-      ],
-      "installationTime": "平日土日祝 7:00-21:00",
-      "detailInfo": [
-        {
-          "detailInfo": "1人用：1台"
-        }
-      ],
-      "station": "飯田橋駅",
-      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、店舗にて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
-      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.9990219675306!2d139.74105681473003!3d35.70164168018952!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c44de7b4fc1%3A0x5bcc324e93a7a8ec!2z44K744OW44OzLeOCpOODrOODluODsyDpo6_nlLDmqYvljYfmnKzjg5Pjg6vlupc!5e0!3m2!1sja!2sjp!4v1609221082521!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
-      "imgSlider": [
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/12/seven-eleven-iidabashi-masumoto-bld-1f-1.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/12/seven-eleven-iidabashi-masumoto-bld-1f-2.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/12/seven-eleven-iidabashi-masumoto-bld-1f-3.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/12/seven-eleven-iidabashi-masumoto-bld-1f-4.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/12/seven-eleven-iidabashi-masumoto-bld-1f-5.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2020/12/seven-eleven-iidabashi-masumoto-bld-1f-6.jpg"
-        }
-      ],
-      "imgDetail": [
-        {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2020/12/seven-eleven-iidabashi-masumoto-bld..png"
-        }
-      ],
-      "workingDay": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "lateNightService": [
-        "朝7時から",
-        "夜21時まで"
-      ],
-      "campaign": [
-        "週末価格"
-      ],
-      "keyword": "セブン‐イレブン 飯田橋升本ビル店,セブンイレブン イイダバシマスモトビルテン,84-01,飯田橋駅,JR東日本,中央線,総武線,東京メトロ,南北線,東西線,都営地下鉄,大江戸線,東京,新宿区,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,広告掲載, GBP",
-      "lat": "35.7018333",
-      "lng": "139.7432938",
-      "floorMapId": "78",
-      "furigana": "セブンイレブン イイダバシマスモトビルテン",
-      "link": "https://telecube.jp/location/seven-eleven-iidabashi-masumoto-bld-1f/"
     }
   },
   {
