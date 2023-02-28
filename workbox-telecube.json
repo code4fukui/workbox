@@ -1,5 +1,73 @@
 [
   {
+    "id": 6259,
+    "acf": {
+      "buildingName": "虎ノ門ヒルズビジネスタワー",
+      "furigana": "トラノモンヒルズビジネスタワー",
+      "adress": "東京都港区虎ノ門1丁目17-1",
+      "access": [
+        {
+          "access": "東京メトロ日比谷線 虎ノ門ヒルズ駅 直結"
+        },
+        {
+          "access": "東京メトロ銀座線 虎ノ門駅 B2・B3・B4出口"
+        },
+        {
+          "access": "東京メトロ丸ノ内線・千代田線・日比谷線 霞ヶ関駅 A12出口"
+        },
+        {
+          "access": "都営三田線 内幸町駅 A3出口"
+        },
+        {
+          "access": "JR 新橋駅 より徒歩11分"
+        }
+      ],
+      "installationTime": "平日土日祝： 7:00 〜 21:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：2台"
+        }
+      ],
+      "station": "虎ノ門ヒルズ駅・虎ノ門駅・霞ヶ関駅・内幸町駅・新橋駅",
+      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1620.704389388756!2d139.74837948755223!3d35.666935408057775!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b9306d0990b%3A0xeb095585bfea0389!2z44CSMTA1LTAwMDEg5p2x5Lqs6YO95riv5Yy66JmO44OO6ZaA77yR5LiB55uu77yR77yXIOiZjuODjumWgOODkuODq-OCuiDjg5Pjgrjjg43jgrnjgr_jg6_jg7w!5e0!3m2!1sja!2sjp!4v1677567667092!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/02/Toranomonhillsbiztower_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/02/Toranomonhillsbiztower_2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/02/Toranomonhillsbiztower_3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2023/02/Toranomonhillsbiztower_floormap.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "虎ノ門ヒルズビジネスタワー, トラノモンヒルズビジネスタワー,\r\n東京都港区虎ノ門\r\n虎ノ門ヒルズ, 虎ノ門, 霞ヶ関, 内幸町, 新橋, \r\n銀座線, 日比谷線, 三田線, 千代田線, 丸の内線, \r\n電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,\r\nGBP",
+      "lat": "35.66809358101954",
+      "lng": "139.7502912320637",
+      "floorMapId": "183",
+      "link": "https://telecube.jp/location/toranomonhillsbiztower/"
+    }
+  },
+  {
     "id": 6248,
     "acf": {
       "buildingName": "大手町ビル １階",
@@ -4901,70 +4969,6 @@
     }
   },
   {
-    "id": 1922,
-    "acf": {
-      "buildingName": "相鉄　FUTAMATA RIVER LIBRARY 6階",
-      "adress": "神奈川県横浜市旭区二俣川2丁目50番地14",
-      "access": [
-        {
-          "access": "相鉄「二俣川駅」改札口より徒歩2分"
-        },
-        {
-          "access": "※徒歩時間は施設までの時間であり、テレキューブまでの時間ではありませんのでご注意ください"
-        }
-      ],
-      "installationTime": "平日土日祝 8:00-21:00",
-      "detailInfo": [
-        {
-          "detailInfo": "1人用：1台"
-        }
-      ],
-      "station": "二俣川駅",
-      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
-      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3249.660013256777!2d139.530269114722!3d35.46321058024569!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60185993987ea30d%3A0xa253092d2271e4b6!2sFUTAMATA%20RIVER%20LIBRARY!5e0!3m2!1sja!2sjp!4v1609714105634!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
-      "imgSlider": [
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/01/sotetsu-futamata-river-library-6f-1.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/01/sotetsu-futamata-river-library-6f-2.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/01/sotetsu-futamata-river-library-6f-3.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/01/sotetsu-futamata-river-library-6f-4.jpg"
-        },
-        {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2021/01/sotetsu-futamata-river-library-6f-5.jpg"
-        }
-      ],
-      "imgDetail": [
-        {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/01/sotetsu-futamata-river-library-6f.png"
-        }
-      ],
-      "workingDay": [
-        "平日",
-        "土曜日",
-        "日曜日",
-        "祝日"
-      ],
-      "lateNightService": [
-        "夜21時まで"
-      ],
-      "campaign": [
-        "週末価格"
-      ],
-      "keyword": "相鉄 FUTAMATA RIVER LIBRARY,ソウテツ フタマタ リバー ライブラリー,79-01,二俣川駅,相模鉄道,相鉄線,本線,いずみ野線,神奈川県,横浜市,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド, GBP",
-      "lat": "35.4629185",
-      "lng": "139.5322119",
-      "floorMapId": "82",
-      "furigana": "ソウテツ フタマタ リバー ライブラリー",
-      "link": "https://telecube.jp/location/sotetsu-futamata-river-library-6f/"
-    }
-  },
-  {
     "id": 1910,
     "acf": {
       "buildingName": "相鉄　二俣川ジョイナステラス2　2階",
@@ -8479,7 +8483,7 @@
   {
     "id": 234,
     "acf": {
-      "buildingName": "六本木ヒルズ 森タワー UL階",
+      "buildingName": "六本木ヒルズ 森タワー",
       "adress": "東京都港区六本木6-10-1",
       "access": [
         {
@@ -8518,12 +8522,15 @@
           "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2019/06/森タワー3.jpeg"
         },
         {
-          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2019/06/森タワー2.jpeg"
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2019/06/MoriTower_0402_2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2019/06/MoriTower_0402.jpg"
         }
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2019/06/moritowerUL_map.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2019/06/MoriTower_Floormap202303.png"
         }
       ],
       "workingDay": [
