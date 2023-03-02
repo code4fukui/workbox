@@ -1,5 +1,56 @@
 [
   {
+    "id": 6273,
+    "acf": {
+      "buildingName": "札幌北ビル",
+      "furigana": "サッポロキタビル",
+      "adress": "北海道札幌市北区北７条西２丁目８－１",
+      "access": [
+        {
+          "access": "JR 札幌駅 出入口5から徒歩1分"
+        }
+      ],
+      "installationTime": "平日土曜: 8:00 〜 20:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：2台"
+        }
+      ],
+      "station": "札幌駅",
+      "facility": "・24時間連続稼働換気ファン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2914.6560887954056!2d141.3496309158072!3d43.069700179145535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b290b4fb82215%3A0x91303d8c233dd60c!2z44CSMDYwLTA4MDcg5YyX5rW36YGT5pyt5bmM5biC5YyX5Yy65YyX77yX5p2h6KW_77yS5LiB55uu77yY4oiS77yRIOacreW5jOWMl-ODk-ODqw!5e0!3m2!1sja!2sjp!4v1677759559901!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/03/SapporoKitaBldg_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/03/SapporoKitaBldg_2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/03/SapporoKitaBldg_3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2023/03/準備中.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日"
+      ],
+      "lateNightService": "",
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "札幌北ビル, サッポロキタビル,\r\n札幌駅, 千歳線, 函館本線, 東豊線, 南北線, JR北海道,札幌市営交通, \r\n北海道,札幌市,\r\n電源(コンセント / USB),WiFi（ブース内 or 施設内）, \r\nGBP",
+      "lat": "43.069595788831814135204354550592",
+      "lng": "141.35204354550592",
+      "floorMapId": "185",
+      "link": "https://telecube.jp/location/sapporokitabldg/"
+    }
+  },
+  {
     "id": 6259,
     "acf": {
       "buildingName": "虎ノ門ヒルズビジネスタワー",
