@@ -121,7 +121,7 @@
           "access": "JR 新橋駅 より徒歩11分"
         }
       ],
-      "installationTime": "平日土日祝： 7:00 〜 21:00",
+      "installationTime": "平日土日祝： 8:00 〜 21:00",
       "detailInfo": [
         {
           "detailInfo": "1人用：2台"
@@ -153,7 +153,6 @@
         "祝日"
       ],
       "lateNightService": [
-        "朝7時から",
         "夜21時まで"
       ],
       "campaign": [
