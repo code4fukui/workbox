@@ -1,5 +1,233 @@
 [
   {
+    "id": 6337,
+    "acf": {
+      "buildingName": "練馬高野台駅",
+      "furigana": "ネリマタカノダイエキ",
+      "adress": "東京都練馬区高野台1-7-27",
+      "access": [
+        {
+          "access": "西武池袋線 練馬高野台駅 改札外"
+        }
+      ],
+      "installationTime": "平日土日祝: 7:00 〜 22:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：1台"
+        }
+      ],
+      "station": "練馬高野台駅",
+      "facility": "・24時間連続稼働換気ファン<br />\r\n・エアコン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3238.4137948493894!2d139.61468851562523!3d35.740632880180534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018ec2c2bac5bf9%3A0xc3fa1025efee4a14!2z57e06aas6auY6YeO5Y-w6aeF!5e0!3m2!1sja!2sjp!4v1679574931180!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/03/Nerimatakanodai_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/03/Nerimatakanodai_2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/03/Nerimatakanodai_3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2023/03/Nerimatakanodai_Floormap.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで",
+        "夜22時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "練馬高野台駅, ネリマタカノダイエキ,\r\n東京都, 練馬区高野台,\r\n練馬高野台駅,  \r\n西武池袋線,\r\nWiFi, スマホスタンド, エアコン\r\nGBP",
+      "lat": "35.74027475182837",
+      "lng": "139.61748941244377",
+      "floorMapId": "187",
+      "link": "https://telecube.jp/location/nerimatakanodai_stn/"
+    }
+  },
+  {
+    "id": 6326,
+    "acf": {
+      "buildingName": "緑園都市駅",
+      "furigana": "リョクエントシエキ",
+      "adress": "神奈川県横浜市泉区緑園3丁目1-1",
+      "access": [
+        {
+          "access": "相鉄いずみの線 緑園都市駅 改札外"
+        }
+      ],
+      "installationTime": "平日土日祝: 7:00 〜 22:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：1台"
+        }
+      ],
+      "station": "緑園都市駅",
+      "facility": "・24時間連続稼働換気ファン<br />\r\n・エアコン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3250.6161432887698!2d139.52004536561822!3d35.43953778025137!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601850ac93b7f795%3A0x2935f96dc585f02!2z57eR5ZyS6YO95biC6aeF!5e0!3m2!1sja!2sjp!4v1679573875857!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/03/Ryokuentoshi_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/03/Ryokuentoshi_2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/03/Ryokuentoshi_3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2023/03/Ryokuentoshi_Floormap.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで",
+        "夜22時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "緑園都市駅, リョクエントシエキ,\r\n神奈川, 横浜市泉区緑園,\r\n緑園都市駅,  \r\n相鉄いずみの線, \r\nWiFi, スマホスタンド, エアコン\r\nGBP",
+      "lat": "35.439673266902645",
+      "lng": "139.52194302854048",
+      "floorMapId": "190",
+      "link": "https://telecube.jp/location/ryokuentoshi_stn/"
+    }
+  },
+  {
+    "id": 6320,
+    "acf": {
+      "buildingName": "星川駅",
+      "furigana": "ホシカワエキ",
+      "adress": "神奈川県横浜市保土ケ谷区星川1丁目1",
+      "access": [
+        {
+          "access": "相鉄本線 星川駅"
+        }
+      ],
+      "installationTime": "平日土日祝: 7:00 〜 22:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：2台"
+        }
+      ],
+      "station": "星川駅",
+      "facility": "・24時間連続稼働換気ファン<br />\r\n・エアコン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d406.23046327089406!2d139.59415271310706!3d35.45866359781995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60185bef28f84025%3A0x119a2f213a8697c9!2z5pif5bed6aeF!5e0!3m2!1sja!2sjp!4v1679572647607!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/03/Hoshikawa_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/03/Hoshikawa_2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/03/Hoshikawa_3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2023/03/Hoshikawa_Floormap.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで",
+        "夜22時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "星川駅, ホシカワエキ,\r\n神奈川, 横浜市保土ヶ谷区星川,\r\n星川駅,  \r\n相鉄本線, \r\nWiFi, スマホスタンド, エアコン\r\nGBP",
+      "lat": "35.45873624076231",
+      "lng": "139.59466970890244",
+      "floorMapId": "189",
+      "link": "https://telecube.jp/location/hoshikawa_stn/"
+    }
+  },
+  {
+    "id": 6313,
+    "acf": {
+      "buildingName": "湘南台駅",
+      "furigana": "ショウナンダイエキ",
+      "adress": "神奈川県藤沢市湘南台2丁目",
+      "access": [
+        {
+          "access": "相模鉄道いずみの線・小田急江ノ島線・横浜市営地下鉄ブルーライン 湘南台駅 改札外"
+        }
+      ],
+      "installationTime": "平日土日祝: 7:00 〜 22:00",
+      "detailInfo": [
+        {
+          "detailInfo": "1人用：2台"
+        }
+      ],
+      "station": "湘南台駅",
+      "facility": "・24時間連続稼働換気ファン<br />\r\n・エアコン<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13009.442249689697!2d139.4664926!3d35.3963123!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018516b4fa75387%3A0xe0848d37bc9b0e7!2z5rmY5Y2X5Y-w6aeF!5e0!3m2!1sja!2sjp!4v1679568792574!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "imgSlider": [
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/03/Shounandai_1.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/03/Shounandai_2.jpg"
+        },
+        {
+          "imgSlider": "https://telecube.jp/wp/wp-content/uploads/2023/03/Shounandai_3.jpg"
+        }
+      ],
+      "imgDetail": [
+        {
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2023/03/Shounandai_Floormap.png"
+        }
+      ],
+      "workingDay": [
+        "平日",
+        "土曜日",
+        "日曜日",
+        "祝日"
+      ],
+      "lateNightService": [
+        "朝7時から",
+        "夜21時まで",
+        "夜22時まで"
+      ],
+      "campaign": [
+        "週末価格"
+      ],
+      "keyword": "湘南台駅, ショウナンダイエキ,\r\n神奈川, 藤沢市湘南台,\r\n湘南台駅,  \r\n相鉄いずみの線, 小田急江ノ島線, 横浜市営地下鉄ブルーライン,\r\nWiFi, スマホスタンド, エアコン\r\nGBP",
+      "lat": "35.39613845786149",
+      "lng": "139.46566781892318",
+      "floorMapId": "188",
+      "link": "https://telecube.jp/location/shounandai_stn/"
+    }
+  },
+  {
     "id": 6297,
     "acf": {
       "buildingName": "NBFプラチナタワー",
