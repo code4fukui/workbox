@@ -341,7 +341,7 @@
   },
   {
     "floor_id": 836,
-    "floor_name": "アクセアカフェ　赤坂見附店",
+    "floor_name": "アクセアカフェ 赤坂見附店",
     "booth": false,
     "desk": false,
     "distance": 2659.119821617152,
@@ -361,7 +361,7 @@
   },
   {
     "floor_id": 848,
-    "floor_name": "アクセアカフェ　梅田店",
+    "floor_name": "アクセアカフェ 梅田店",
     "booth": false,
     "desk": false,
     "distance": 403461.86783554027,
@@ -381,7 +381,7 @@
   },
   {
     "floor_id": 841,
-    "floor_name": "アクセアカフェ　大手町店",
+    "floor_name": "アクセアカフェ 大手町店",
     "booth": false,
     "desk": false,
     "distance": 957.5406384145238,
@@ -401,7 +401,7 @@
   },
   {
     "floor_id": 842,
-    "floor_name": "アクセアカフェ　小川町店",
+    "floor_name": "アクセアカフェ 小川町店",
     "booth": false,
     "desk": false,
     "distance": 1503.5083410059678,
@@ -421,7 +421,7 @@
   },
   {
     "floor_id": 840,
-    "floor_name": "アクセアカフェ　神田店",
+    "floor_name": "アクセアカフェ 神田店",
     "booth": false,
     "desk": false,
     "distance": 1597.1519523923982,
@@ -441,7 +441,7 @@
   },
   {
     "floor_id": 839,
-    "floor_name": "アクセアカフェ　外苑前店",
+    "floor_name": "アクセアカフェ 外苑前店",
     "booth": false,
     "desk": false,
     "distance": 4499.970148964309,
@@ -461,7 +461,7 @@
   },
   {
     "floor_id": 844,
-    "floor_name": "アクセアカフェ　小伝馬町店",
+    "floor_name": "アクセアカフェ 小伝馬町店",
     "booth": false,
     "desk": false,
     "distance": 1549.1709728676633,
@@ -481,7 +481,7 @@
   },
   {
     "floor_id": 847,
-    "floor_name": "アクセアカフェ　札幌アスティ45店",
+    "floor_name": "アクセアカフェ 札幌アスティ45店",
     "booth": false,
     "desk": false,
     "distance": 831094.8586700412,
@@ -491,8 +491,8 @@
     "close_time_weekday": "20:00",
     "open_time_saturday": "10:00",
     "close_time_saturday": "18:00",
-    "open_time_sunday": "10:00",
-    "close_time_sunday": "18:00",
+    "open_time_sunday": null,
+    "close_time_sunday": null,
     "address_detail": "北海道札幌市中央区 北４条西5-1 アスティ45 B1F",
     "floor_name_kana": "アクセアカフェ　サッポロアスティ45テン",
     "type": 3,
@@ -501,7 +501,7 @@
   },
   {
     "floor_id": 849,
-    "floor_name": "アクセアカフェ　新大阪駅前店",
+    "floor_name": "アクセアカフェ 新大阪駅前店",
     "booth": false,
     "desk": false,
     "distance": 402635.9717756577,
@@ -521,7 +521,7 @@
   },
   {
     "floor_id": 834,
-    "floor_name": "アクセアカフェ　新宿南口店",
+    "floor_name": "アクセアカフェ 新宿南口店",
     "booth": false,
     "desk": false,
     "distance": 6499.312234135443,
@@ -529,9 +529,9 @@
     "partner2_flg": 1,
     "open_time_weekday": "08:00",
     "close_time_weekday": "22:00",
-    "open_time_saturday": "08:00",
+    "open_time_saturday": "10:00",
     "close_time_saturday": "19:00",
-    "open_time_sunday": "08:00",
+    "open_time_sunday": "10:00",
     "close_time_sunday": "19:00",
     "address_detail": "東京都新宿区 西新宿3-1-4 第2佐山ビル1F",
     "floor_name_kana": "アクセアカフェ　シンジュクミナミグチテン",
@@ -541,7 +541,7 @@
   },
   {
     "floor_id": 843,
-    "floor_name": "アクセアカフェ　神保町店",
+    "floor_name": "アクセアカフェ 神保町店",
     "booth": false,
     "desk": false,
     "distance": 1793.7974681050455,
@@ -561,7 +561,7 @@
   },
   {
     "floor_id": 835,
-    "floor_name": "アクセアカフェ　高田馬場店",
+    "floor_name": "アクセアカフェ 高田馬場店",
     "booth": false,
     "desk": false,
     "distance": 6288.903722762356,
@@ -581,7 +581,7 @@
   },
   {
     "floor_id": 838,
-    "floor_name": "アクセアカフェ　高輪ゲートウェイ店",
+    "floor_name": "アクセアカフェ 高輪ゲートウェイ店",
     "booth": false,
     "desk": false,
     "distance": 5060.883337757876,
@@ -601,7 +601,7 @@
   },
   {
     "floor_id": 837,
-    "floor_name": "アクセアカフェ　田町店",
+    "floor_name": "アクセアカフェ 田町店",
     "booth": false,
     "desk": false,
     "distance": 4226.086676518007,
@@ -621,7 +621,7 @@
   },
   {
     "floor_id": 845,
-    "floor_name": "アクセアカフェ　溜池山王店",
+    "floor_name": "アクセアカフェ 溜池山王店",
     "booth": false,
     "desk": false,
     "distance": 2368.4485879449903,
@@ -641,7 +641,7 @@
   },
   {
     "floor_id": 846,
-    "floor_name": "アクセアカフェ　千葉駅前店",
+    "floor_name": "アクセアカフェ 千葉駅前店",
     "booth": false,
     "desk": false,
     "distance": 32837.67061908472,
@@ -651,8 +651,8 @@
     "close_time_weekday": "20:00",
     "open_time_saturday": "10:00",
     "close_time_saturday": "19:00",
-    "open_time_sunday": "10:00",
-    "close_time_sunday": "19:00",
+    "open_time_sunday": null,
+    "close_time_sunday": null,
     "address_detail": "千葉県千葉市中央区 富士見2-9-5 東京電力パワーグリッド（株）千葉総支社本館1F",
     "floor_name_kana": "アクセアカフェ　チバエキマエテン",
     "type": 3,
@@ -661,7 +661,7 @@
   },
   {
     "floor_id": 851,
-    "floor_name": "アクセアカフェ　名古屋駅前広小路通り店",
+    "floor_name": "アクセアカフェ 名古屋駅前広小路通り店",
     "booth": false,
     "desk": false,
     "distance": 267551.9951222157,
@@ -681,7 +681,7 @@
   },
   {
     "floor_id": 853,
-    "floor_name": "アクセアカフェ　那覇店",
+    "floor_name": "アクセアカフェ 那覇店",
     "booth": false,
     "desk": false,
     "distance": 1557969.3978608674,
@@ -701,7 +701,7 @@
   },
   {
     "floor_id": 854,
-    "floor_name": "アクセアカフェ　南海なんば駅店",
+    "floor_name": "アクセアカフェ 南海なんば駅店",
     "booth": false,
     "desk": false,
     "distance": 404535.6697181752,
@@ -721,7 +721,7 @@
   },
   {
     "floor_id": 852,
-    "floor_name": "アクセアカフェ　伏見店",
+    "floor_name": "アクセアカフェ 伏見店",
     "booth": false,
     "desk": false,
     "distance": 266500.12084415875,
@@ -741,7 +741,7 @@
   },
   {
     "floor_id": 850,
-    "floor_name": "アクセアカフェ　本町店",
+    "floor_name": "アクセアカフェ 本町店",
     "booth": false,
     "desk": false,
     "distance": 404155.09930257243,
@@ -4320,6 +4320,26 @@
     "type_name": "BOOTH"
   },
   {
+    "floor_id": 805,
+    "floor_name": "郡山駅1階在来線改札外コンコース",
+    "booth": true,
+    "desk": false,
+    "distance": 198538.94720006647,
+    "partner_flg": false,
+    "partner2_flg": 0,
+    "open_time_weekday": "07:00",
+    "close_time_weekday": "21:30",
+    "open_time_saturday": "07:00",
+    "close_time_saturday": "21:30",
+    "open_time_sunday": "07:00",
+    "close_time_sunday": "21:30",
+    "address_detail": "福島県郡山市 燧田195 郡山駅",
+    "floor_name_kana": "コオリヤマエキ１カイカイザイライセンサツガイコンコース",
+    "type": 2,
+    "telecube_id": 1534,
+    "type_name": "BOOTH"
+  },
+  {
     "floor_id": 68,
     "floor_name": "郡山駅2階新幹線中央口改札外",
     "booth": true,
@@ -5938,26 +5958,6 @@
     "type": 2,
     "telecube_id": 771,
     "type_name": "BOOTH"
-  },
-  {
-    "floor_id": 180,
-    "floor_name": "新宿ワシントンホテル",
-    "booth": false,
-    "desk": false,
-    "distance": 6645.348420403664,
-    "partner_flg": true,
-    "partner2_flg": 0,
-    "open_time_weekday": "08:00",
-    "close_time_weekday": "19:00",
-    "open_time_saturday": "08:00",
-    "close_time_saturday": "19:00",
-    "open_time_sunday": "08:00",
-    "close_time_sunday": "19:00",
-    "address_detail": "東京都新宿区 西新宿３丁目２－9",
-    "floor_name_kana": "シンジュクワシントンホテル",
-    "type": 3,
-    "telecube_id": 414,
-    "type_name": "ホテルシェアオフィス"
   },
   {
     "floor_id": 723,
