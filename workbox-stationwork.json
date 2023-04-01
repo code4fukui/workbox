@@ -1021,7 +1021,7 @@
   },
   {
     "floor_id": 665,
-    "floor_name": "安中榛名駅改札外(OMOブース）",
+    "floor_name": "安中榛名駅改札外(Lightブース）",
     "booth": true,
     "desk": false,
     "distance": 112016.06290529993,
@@ -1034,7 +1034,7 @@
     "open_time_sunday": "07:00",
     "close_time_sunday": "21:30",
     "address_detail": "群馬県安中市 東上秋間2552-5 安中榛名駅",
-    "floor_name_kana": "アンナカハルナエキカイサツガイ(オーエムオーブース）",
+    "floor_name_kana": "アンナカハルナエキカイサツガイ(ライトブース）",
     "type": 2,
     "telecube_id": 1277,
     "type_name": "BOOTH"
@@ -1640,26 +1640,6 @@
     "type_name": "その他(WeWork等)"
   },
   {
-    "floor_id": 219,
-    "floor_name": "WeWork 新橋",
-    "booth": false,
-    "desk": false,
-    "distance": 2547.286814735369,
-    "partner_flg": true,
-    "partner2_flg": 1,
-    "open_time_weekday": "09:00",
-    "close_time_weekday": "18:00",
-    "open_time_saturday": null,
-    "close_time_saturday": null,
-    "open_time_sunday": null,
-    "close_time_sunday": null,
-    "address_detail": "東京都港区 新橋 6-19-13",
-    "floor_name_kana": "ウィーワークシンバシ",
-    "type": 3,
-    "telecube_id": 528,
-    "type_name": "その他(WeWork等)"
-  },
-  {
     "floor_id": 233,
     "floor_name": "WeWork ジ アーガイル アオヤマ",
     "booth": false,
@@ -2061,7 +2041,7 @@
   },
   {
     "floor_id": 663,
-    "floor_name": "上田駅改札外(OMOブース）",
+    "floor_name": "上田駅改札外(Lightブース）",
     "booth": true,
     "desk": false,
     "distance": 158095.92827487283,
@@ -2074,7 +2054,7 @@
     "open_time_sunday": "07:00",
     "close_time_sunday": "19:30",
     "address_detail": "長野県上田市 天神１-1887 上田駅",
-    "floor_name_kana": "ウエダエキカイサツガイ（オーエムオーブース）",
+    "floor_name_kana": "ウエダエキカイサツガイ（ライトブース）",
     "type": 2,
     "telecube_id": 1275,
     "type_name": "BOOTH"
@@ -2681,7 +2661,7 @@
   },
   {
     "floor_id": 664,
-    "floor_name": "大曲駅改札外みどりの窓口内 (OMOブース)",
+    "floor_name": "大曲駅改札外みどりの窓口内 (Lightブース)",
     "booth": true,
     "desk": false,
     "distance": 424698.7328539434,
@@ -2694,7 +2674,7 @@
     "open_time_sunday": "07:00",
     "close_time_sunday": "19:30",
     "address_detail": "秋田県大仙市 大曲通町6-1 大曲駅",
-    "floor_name_kana": "オオマガリエキカイサツガイミドリノマドグチナイ（オーエムオーブース）",
+    "floor_name_kana": "オオマガリエキカイサツガイミドリノマドグチナイ（ライトブース）",
     "type": 2,
     "telecube_id": 1276,
     "type_name": "BOOTH"
@@ -3420,28 +3400,8 @@
     "type_name": "ホテルシェアオフィス"
   },
   {
-    "floor_id": 243,
-    "floor_name": "Karuizawa Prince The Workation Core(3/31までのご利用分）",
-    "booth": false,
-    "desk": false,
-    "distance": 125786.58196528658,
-    "partner_flg": true,
-    "partner2_flg": 1,
-    "open_time_weekday": "08:00",
-    "close_time_weekday": "20:00",
-    "open_time_saturday": "08:00",
-    "close_time_saturday": "20:00",
-    "open_time_sunday": "08:00",
-    "close_time_sunday": "20:00",
-    "address_detail": "長野県北佐久郡軽井沢町 軽井沢",
-    "floor_name_kana": "カルイザワプリンスホテルイーストザワーケーションコア",
-    "type": 3,
-    "telecube_id": 572,
-    "type_name": "その他(WeWork等)"
-  },
-  {
     "floor_id": 871,
-    "floor_name": "Karuizawa Prince The Workation Core(4/1からのご利用分）",
+    "floor_name": "Karuizawa Prince The Workation Core",
     "booth": false,
     "desk": false,
     "distance": 125404.75170688062,
@@ -4680,26 +4640,6 @@
     "type_name": "その他(WeWork等)"
   },
   {
-    "floor_id": 622,
-    "floor_name": "COMPASS小倉(fabbit)",
-    "booth": false,
-    "desk": false,
-    "distance": 836377.7576142579,
-    "partner_flg": true,
-    "partner2_flg": 1,
-    "open_time_weekday": "09:00",
-    "close_time_weekday": "18:00",
-    "open_time_saturday": null,
-    "close_time_saturday": null,
-    "open_time_sunday": null,
-    "close_time_sunday": null,
-    "address_detail": "福岡県北九州市小倉北区 浅野3丁目8番1号 AIM（アジア太平洋インポートマート）ビル6階",
-    "floor_name_kana": "コンパスコクラ(ファビット)",
-    "type": 3,
-    "telecube_id": 1213,
-    "type_name": "その他(WeWork等)"
-  },
-  {
     "floor_id": 797,
     "floor_name": "co-ba akasaka",
     "booth": false,
@@ -5721,7 +5661,7 @@
   },
   {
     "floor_id": 722,
-    "floor_name": "白石蔵王駅改札外待合室内(OMOブース)",
+    "floor_name": "白石蔵王駅改札外待合室内(Lightブース)",
     "booth": true,
     "desk": false,
     "distance": 268258.03477189515,
@@ -5734,7 +5674,7 @@
     "open_time_sunday": "07:00",
     "close_time_sunday": "21:30",
     "address_detail": "宮城県白石市 大鷹沢三沢桜田１１−１",
-    "floor_name_kana": "シロイシザオウエキカイサツガイマチアイシツナイ（オーエムオーブース）",
+    "floor_name_kana": "シロイシザオウエキカイサツガイマチアイシツナイ（ライトブース）",
     "type": 2,
     "telecube_id": 1386,
     "type_name": "BOOTH"
@@ -6041,7 +5981,7 @@
   },
   {
     "floor_id": 723,
-    "floor_name": "新庄駅改札外待合室内(OMOブース)",
+    "floor_name": "新庄駅改札外待合室内(Lightブース)",
     "booth": true,
     "desk": false,
     "distance": 345260.7443195446,
@@ -6054,7 +5994,7 @@
     "open_time_sunday": "07:00",
     "close_time_sunday": "21:30",
     "address_detail": "山形県新庄市多門町 1番地",
-    "floor_name_kana": "シンジョウエキカイサツガイマチアイシツナイ(オーエムオーブース)",
+    "floor_name_kana": "シンジョウエキカイサツガイマチアイシツナイ(ライトブース)",
     "type": 2,
     "telecube_id": 1387,
     "type_name": "BOOTH"
@@ -6981,7 +6921,7 @@
   },
   {
     "floor_id": 666,
-    "floor_name": "上毛高原駅改札外(OMOブース）",
+    "floor_name": "上毛高原駅改札外(Lightブース）",
     "booth": true,
     "desk": false,
     "distance": 132817.03091068126,
@@ -6994,7 +6934,7 @@
     "open_time_sunday": "07:00",
     "close_time_sunday": "21:30",
     "address_detail": "群馬県利根郡みなかみ町 月夜野1756 上毛高原駅",
-    "floor_name_kana": "ジョウモウコウゲンエキカイサツガイ（オーエムオーブース）",
+    "floor_name_kana": "ジョウモウコウゲンエキカイサツガイ（ライトブース）",
     "type": 2,
     "telecube_id": 1278,
     "type_name": "BOOTH"
@@ -8117,26 +8057,6 @@
     "floor_name_kana": "ダイワロイネットホテルオキナワケンチョウマエ",
     "type": 3,
     "telecube_id": 752,
-    "type_name": "ホテルシェアオフィス"
-  },
-  {
-    "floor_id": 284,
-    "floor_name": "ダイワロイネットホテル金沢",
-    "booth": false,
-    "desk": false,
-    "distance": 297637.95066921256,
-    "partner_flg": true,
-    "partner2_flg": 0,
-    "open_time_weekday": "08:00",
-    "close_time_weekday": "19:00",
-    "open_time_saturday": "08:00",
-    "close_time_saturday": "19:00",
-    "open_time_sunday": "08:00",
-    "close_time_sunday": "19:00",
-    "address_detail": "石川県金沢市 堀川新町2-20",
-    "floor_name_kana": "ダイワロイネットホテルカナザワ",
-    "type": 3,
-    "telecube_id": 646,
     "type_name": "ホテルシェアオフィス"
   },
   {
@@ -12881,7 +12801,7 @@
   },
   {
     "floor_id": 682,
-    "floor_name": "BasisPoint丸井吉祥寺店",
+    "floor_name": "BasisPointマルイ吉祥寺店",
     "booth": false,
     "desk": false,
     "distance": 17093.21412345096,
@@ -14901,7 +14821,7 @@
   },
   {
     "floor_id": 662,
-    "floor_name": "米沢駅改札外みどりの窓口内(OMOブース）",
+    "floor_name": "米沢駅改札外みどりの窓口内(Lightブース）",
     "booth": true,
     "desk": false,
     "distance": 249387.92919067116,
@@ -14914,7 +14834,7 @@
     "open_time_sunday": "07:00",
     "close_time_sunday": "21:30",
     "address_detail": "山形県米沢市 駅前1-1-43 米沢駅",
-    "floor_name_kana": "ヨネザワエキカイサツガイミドリノマドグチナイ（オーエムオーブース）",
+    "floor_name_kana": "ヨネザワエキカイサツガイミドリノマドグチナイ（ライトブース）",
     "type": 2,
     "telecube_id": 1274,
     "type_name": "BOOTH"
