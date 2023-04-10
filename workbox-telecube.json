@@ -2686,7 +2686,7 @@
       "campaign": [
         "週末価格"
       ],
-      "keyword": "武蔵小杉東急スクエア,ムサシコスギトウキュウスクエア,129-01,武蔵小杉駅,JR東日本,横須賀線,総武線,南武線,埼京線,相模鉄道,相鉄線,東急東横線,東急電鉄,目黒線,神奈川県,川崎市,電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,GBP",
+      "keyword": "武蔵小杉東急スクエア,ムサシコスギトウキュウスクエア,\r\n129-01,\r\n武蔵小杉駅,\r\nJR東日本,横須賀線,総武線,南武線,埼京線,相模鉄道,相鉄線,東急東横線,東急電鉄,目黒線,\r\n神奈川県,川崎市,\r\n電源(コンセント / USB),WiFi（ブース内 or 施設内）,スマホスタンド,\r\nGBP",
       "lat": "35.57613",
       "lng": "139.65926",
       "floorMapId": "139",
@@ -3490,7 +3490,7 @@
   {
     "id": 3364,
     "acf": {
-      "buildingName": "【特殊価格形態】新丸の内ビル（2人用）グループ用",
+      "buildingName": "新丸ビル（ネスカフェ エクセラ x テレキューブ はずむ気持ちボックス♪）",
       "adress": "東京都千代田区丸の内１－５－１新丸ビルB1",
       "access": [
         {
@@ -3503,11 +3503,11 @@
       "installationTime": "平日土日祝 7:00-21:00",
       "detailInfo": [
         {
-          "detailInfo": "2人用：1台"
+          "detailInfo": "1人用：1台"
         }
       ],
       "station": "東京駅",
-      "facility": "・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。<br />\r\n<br />\r\n【特殊価格形態】<br />\r\n・予約単位：30分<br />\r\n・利用料：1,188円(税込)/30分<br />\r\n・利用定員：2名",
+      "facility": "ネスカフェ エクセラ x テレキューブ <br />\r\nはずむ気持ちボックス♪開催中<br />\r\n<br />\r\n実施期間: 2023/4/10 〜 2023/5/7<br />\r\nはずむ気持ちボックス♪の実施期間中は<br />\r\nご利用人数1名までとなります。<br />\r\n<br />\r\n<br />\r\n・24時間連続換気ファン<br />\r\n・WiFi<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。<br />\r\n<br />\r\n【特殊価格形態】<br />\r\n・予約単位：30分<br />\r\n・利用料：1,188円(税込)/30分<br />\r\n・利用定員：1名",
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.772451376797!2d139.76214691492518!3d35.682604537504695!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bf9b11e03ab%3A0x94bd79343edb8416!2z5paw5Li444Gu5YaF44OT44Or44OH44Kj44Oz44Kw77yI5paw5Li444OT44Or77yJ!5e0!3m2!1sja!2sjp!4v1561544377636!5m2!1sja!2sjp\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>",
       "imgSlider": [
         {
@@ -3525,7 +3525,7 @@
       ],
       "imgDetail": [
         {
-          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/09/shinmarunouchibuilding_for2_floormap.png"
+          "imgDetail": "https://telecube.jp/wp/wp-content/uploads/2021/09/エクセラマップ.png"
         }
       ],
       "workingDay": [
@@ -6104,7 +6104,7 @@
         }
       ],
       "station": "大手町駅・東京駅",
-      "facility": "・24時間連続換気<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n・WEB-MTG用LED照明（2号機のみ）<br />\r\n・モニター（HDMI対応）（2号機のみ）<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
+      "facility": "・24時間連続換気<br />\r\n・WiFi<br />\r\n・スマホスタンド<br />\r\n・モニター（HDMI対応）（2号機のみ）<br />\r\n※このブースは、ビルにて空調管理がされているため、エアコンを設置しておりません。<br />\r\n<br />\r\n※WiFiについて<br />\r\nLTE回線を利用したベストエフォートでの提供となり、時間帯によっては十分な速度が出ない可能性がございます。大事な会議や面接でご利用の際には、代替通信手段のご用意をお願いいたします。",
       "googleMap": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d991.8721736432863!2d139.76662684329284!3d35.68509319725142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bf8cf593ccb%3A0x204f5a366827648a!2z44CSMTAwLTAwMDQg5p2x5Lqs6YO95Y2D5Luj55Sw5Yy65aSn5omL55S677yS5LiB55uu77yS4oiS77yRIOaWsOWkp-aJi-eUuuODk-ODq-ODguODs-OCsA!5e0!3m2!1sja!2sjp!4v1623419187859!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"></iframe>",
       "imgSlider": [
         {
